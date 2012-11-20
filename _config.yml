@@ -14,4 +14,4 @@ mini_magick:
     medium:
         source: img/photos/original
         destination: img/photos/medium
-        resize: "600x400"
+        resize: "420x308"

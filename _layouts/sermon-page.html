@@ -10,15 +10,15 @@ title: Sample Portfolio Layout
 
  <div class="portfolio">
     
-    {% for project in page.projects limit: 12 %}    
+    {% for project in page.projects limit:12 %}    
      <!-- Sermon Lightbox-->
      <div class="four columns item omega">
        <div class="caption">
        <a href="/sermons/{{ project[0] }}" rel="prettyPhoto[gallery1]">
 		 {% if project[1].image %}
-		 <img src="images/img/thumbs/thumb-3.jpg" alt="" class="pic" />
+		 <img src="/img/photos/medium/{{ project[1].image.url }}" alt="{{ project[1].title }}" class="pic" />
 		 {% endif %}
-        <span class="hover-effect big"></span></a>
+        <span class="hover-effect big zoom"></span></a>
 		
          </div><!-- hover effect -->
        <h4><a>{{ project[1].title }}</a></h4>
