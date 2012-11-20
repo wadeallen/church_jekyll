@@ -1,0 +1,56 @@
+ {% include head.html %}
+ 
+ {% include logo.html %}
+  
+<div class="container clearfix">
+  
+   
+   
+ <!-- Start Single Post -->
+ <div class="eleven columns top bottom">
+   
+   <!-- ==================== Single Post ==================== -->
+   <div class="post gallery bottom">
+     
+      <h2 class="title top-2 bottom-2">{{page.title}}<span class="line"></span></h2>
+      <!-- Title Post -->
+        
+     <div class="post-meta bottom-2 transparent">
+      <div class="meta"><span class="history  icon gray"></span> On {{ page.date | date: "%d %B %Y" }}</div><!-- Date -->
+      <div class="meta"><span class="user icon gray"></span> By : {{page.author}} </div><!-- Author -->
+    </div><!-- End post-meta -->
+      
+    <div class="post-content bottom">
+
+		{{content}}
+        
+    </div><!-- End post-content -->
+           
+      
+      
+   </div> 
+   <!-- ==================== End single post  ==================== -->
+      
+ </div><!-- End column -->  
+   
+   
+ <!-- Start Sidebar Widgets -->
+ <div class="five columns bottom">
+   
+   
+    
+    
+    
+  <!-- End -->
+    
+   
+   
+ </div><!-- End Sidebar Widgets -->
+   
+   
+ <div class="clearfix"></div>
+     
+</div><!-- <<< End Container >>> -->
+  
+  
+ {% include footer.html %}

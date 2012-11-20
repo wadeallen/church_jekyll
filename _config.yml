@@ -1,0 +1,17 @@
+site_name: 'First Baptist Church Muncie'
+site_url: 'http://demo.fbcmuncie.org'
+markdown: rdiscount
+rdiscount:
+    extensions: [smart]
+permalink: /:categories/:title.html
+
+
+mini_magick:
+    thumbnail:
+        source: img/photos/original
+        destination: img/photos/thumbnail
+        resize: "100x100"
+    medium:
+        source: img/photos/original
+        destination: img/photos/medium
+        resize: "600x400"

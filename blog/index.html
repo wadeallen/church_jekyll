@@ -1,0 +1,198 @@
+---
+layout: default
+---
+
+<div class="container clearfix">
+  
+ <div class="sixteen columns"> <h1 class="page-title">Pastor's Blog<span class="line"></span></h1>
+ </div><!-- Page Title -->
+   
+   
+ <!-- Start Posts -->
+ <div class="eleven columns top bottom">
+
+   
+       {% for post in site.posts limit: 5  %}
+	   {% if post.categories contains 'blog' %}
+   
+     <!-- ==================== Post 1 ==================== -->
+     <div class="post bottom">
+		 
+   
+      <h2 class="title bottom top-2"><a href="{{post.url}}">{{post.title}}</a> <span class="line"></span></h2>
+      <!-- Title Post -->
+       
+	  
+      <div class="image-post bottom left"> 
+          <a href="{{post.url}}"><img src="/img/photos/thumbnail/{{post.picture}}"></a>  
+      </div><!-- End slider image-post -->
+	 
+      
+      <div class="post-content">
+    
+		 <p>{{post.content | truncatewords:60}}</p>
+	
+        <a href="{{post.url}}" class="button small color">Read More</a>
+      </div><!-- End post-content -->
+      
+      <hr class="bottom-2" />
+      
+      <div class="post-meta bottom-2 transparent">
+        <div class="meta"><span class="history  icon gray"></span> On {{ post.date | date: "%d %B %Y" }} </div><!-- Date -->
+        <div class="meta"><span class="user icon gray"></span> By : {{post.author}} </div><!-- Author -->
+      </div><!-- End post-meta -->
+	 
+     </div> 
+		{% endif %}
+	    {% endfor %}
+     <!-- ==================== End  ==================== -->
+	 
+	 
+      
+   </div><!-- End Posts -->  
+   
+   
+   
+   
+   <!-- Start Sidebar Widgets -->
+   <div class="five columns bottom">
+   
+     <!-- Search Widget -->
+     <div class="search top bottom">
+     <form action="#">
+       <input type="text" class="search" value="Search in blog" onBlur="if(this.value == '') { this.value = 'Search in blog'; }" 
+       onfocus="if(this.value == 'Search in blog') { this.value = ''; }" />
+       <input type="submit" value="" class="submit-search" />
+     </form>
+     </div>
+     <!-- End -->
+     
+    
+     <!-- Followers Widget -->
+     <div class="box top bottom">
+     
+        <ul class="followers">
+        <li>
+        <a href="#" data="facbook" class="black colorTipContainer"><span class="social-icon facbook color"></span></a>
+        <h4>2000+</h4> <span>Fans</span>
+        </li>
+        <li>
+        <a href="#" data="twitter" class="black colorTipContainer"><span class="social-icon twitter color"></span></a>
+        <h4>1500</h4> <span>Followers</span>
+        </li>
+        <li>
+        <a href="#" data="google+" class="black colorTipContainer"><span class="social-icon google_plus  color"></span></a>
+        <h4>500</h4> <span>Fans</span>
+        </li>
+        <li>
+        <a href="#" data="Rss" class="black colorTipContainer"><span class="social-icon rss color"></span></a> 
+        <h4>5000+</h4> <span>Subscribers</span>
+        </li>
+        
+     </div><!-- End -->
+     
+     <!-- Text Widget -->
+     <h2 class="title bottom-2">Text Widget <span class="line"></span></h2>
+     
+     <div class="about-project bottom">
+       <p>
+         Donec seid odio dui. Nullalit libero, alea pharetra augue. Nullam id dolor ideacto vehicula SockMonkee lorem dolor.
+         Donec seid odio dui. Nullalit libero, alea pharetra augue. Nullam id dolor ideacto vehicula SockMonkee lorem dolor.
+       </p>
+     </div>
+     
+     <!-- Categories -->
+     <h2 class="title bottom-2">Categories <span class="line"></span></h2>
+     
+      <ul class="square-list categories bottom">
+        <li><a href="#">Design</a></li>
+        <li><a href="#">Awards & Recognition</a></li>
+        <li><a href="#">Competitions</a></li>
+        <li><a href="#">Travel & Tourism</a></li>
+        <li><a href="#">Direct Mail</a></li>
+      </ul><!-- End square-list -->
+    <!-- End -->
+    
+    <!-- Most Posts -->
+        
+      <div id="horizontal-tabs" class="bottom">
+      
+        <ul class="tabs">
+          <li id="tab1">Popular</li>
+          <li id="tab2">Recent</li>
+        </ul>
+        <div class="contents">
+        
+        <div id="content1" class="tabscontent">
+          <ul class="most-posts">
+            <li>
+              <a href="single_post.html"><img src="images/img/blog/thumb-1.jpg" alt="" class="pic-2" /></a>
+              <p><a href="single_post.html">Donec seid odio dui. Nullalit libero, alea pharetra augue.</a></p>
+              <span class="color">28 June 2012</span>
+            </li>
+            <li>
+              <a href="single_post.html"><img src="images/img/blog/thumb-2.jpg" alt="" class="pic-2" /></a>
+              <p><a href="single_post.html">Donec seid odio dui. Nullalit libero, alea pharetra augue.</a></p>
+              <span class="color">28 June 2012</span>
+            </li>
+          </ul>
+        </div> 
+        
+        <div id="content2" class="tabscontent">
+         <ul class="most-posts">
+          <li>
+              <a href="single_post.html"><img src="images/img/blog/thumb-2.jpg" alt="" class="pic-2" /></a>
+              <p><a href="single_post.html">Donec seid odio dui. Nullalit libero, alea pharetra augue.</a></p>
+              <span class="color">28 June 2012</span>
+          </li>
+          <li>
+              <a href="single_post.html"><img src="images/img/blog/thumb-1.jpg" alt="" class="pic-2" /></a>
+              <p><a href="single_post.html">Donec seid odio dui. Nullalit libero, alea pharetra augue.</a></p>
+              <span class="color">28 June 2012</span>
+            </li>
+           </ul>
+          </div>  
+        
+        </div><!-- End contents -->
+        
+      </div><!-- End horizontal-tabs -->
+    
+    <!-- End -->
+    
+    <!-- Popular Tags -->
+    <h2 class="title bottom">Popular Tags <span class="line"></span></h2>
+    
+    <div class="popular-tags top bottom">
+    
+    <a href="#">Web Developer</a><a href="#">Branding</a><a href="#">Wordpress</a><a href="#">Web Design</a><a href="#">Logo</a>
+    <a href="#">PHP</a><a href="#">Graphic</a><a href="#">Competitions</a><a href="#">Awards & Recognition</a>
+    
+    </div>
+    <!-- End -->
+    
+    <!-- Twitter Feed -->
+    <h2 class="title bottom">Twitter Feed <span class="line"></span></h2>
+    
+    <div class='tweet query'></div><!-- Tweets Code -->
+    
+    <!-- End -->
+    
+     <!-- From Flickr -->
+    <h2 class="title bottom">From Flickr <span class="line"></span></h2>
+    
+    <ul id="sidebar" class="thumbs"></ul><!-- Flickr Code -->
+    
+    <!-- End -->
+    
+   
+   
+   </div><!-- End Sidebar Widgets -->
+   
+   
+   <div class="clearfix"></div>
+   
+   
+   
+       
+     
+  </div><!-- <<< End Container >>> -->
