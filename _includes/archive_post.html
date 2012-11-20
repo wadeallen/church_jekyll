@@ -1,0 +1,5 @@
+{% capture category %}{{ post.categories | size }}{% endcapture %}
+<h4><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h4>
+{{ post.date | date: "%d %B %Y" }}
+{% if category != '0' %}
+{% endif %}

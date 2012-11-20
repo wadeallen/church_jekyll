@@ -1,16 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>/blog/watching-to-learn.html</loc>
-        <lastmod>2012-11-20T08:58:13-05:00</lastmod>
+        <loc>/blog/disappointed.html</loc>
+        <lastmod>2012-11-20T16:07:17-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/fortitude-and-flexibility.html</loc>
-        <lastmod>2012-11-20T08:58:13-05:00</lastmod>
+        <loc>/blog/reliance.html</loc>
+        <lastmod>2012-11-20T16:06:17-05:00</lastmod>
     </url>
     <url>
-        <loc>/news/implementing-with-open-ears.html</loc>
-        <lastmod>2012-11-20T08:58:13-05:00</lastmod>
+        <loc>/blog/extreme-grace.html</loc>
+        <lastmod>2012-11-20T16:05:48-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/blog/office-hours.html</loc>
+        <lastmod>2012-11-20T16:05:22-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/blog/jealousy.html</loc>
+        <lastmod>2012-11-20T16:04:47-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/blog/cultural-changes.html</loc>
+        <lastmod>2012-11-20T16:06:45-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/blog/surprise.html</loc>
+        <lastmod>2012-11-20T16:00:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/blog/family-tree.html</loc>
+        <lastmod>2012-11-20T15:59:08-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/blog/permanent-grace.html</loc>
+        <lastmod>2012-11-20T15:58:02-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/blog/reluctant.html</loc>
+        <lastmod>2012-11-20T16:01:31-05:00</lastmod>
     </url>
     <url>
         <loc>/about/faqs.html</loc>
@@ -18,15 +46,23 @@
     </url>
     <url>
         <loc>/about/history.html</loc>
-        <lastmod>2012-11-20T08:58:13-05:00</lastmod>
+        <lastmod>2012-11-20T15:03:56-05:00</lastmod>
     </url>
     <url>
         <loc>/about/</loc>
-        <lastmod>2012-11-20T08:58:13-05:00</lastmod>
+        <lastmod>2012-11-20T16:07:17-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/about/mission.html</loc>
+        <lastmod>2012-11-20T14:50:29-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/archives/</loc>
+        <lastmod>2012-11-20T16:30:05-05:00</lastmod>
     </url>
     <url>
         <loc>/blog/</loc>
-        <lastmod>2012-11-20T08:58:13-05:00</lastmod>
+        <lastmod>2012-11-20T16:07:17-05:00</lastmod>
     </url>
     <url>
         <loc>/feed.xml</loc>
@@ -38,6 +74,10 @@
     </url>
     <url>
         <loc>/</loc>
-        <lastmod>2012-11-20T08:58:14-05:00</lastmod>
+        <lastmod>2012-11-20T16:07:17-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/podcast/</loc>
+        <lastmod>2012-11-20T16:07:17-05:00</lastmod>
     </url>
 </urlset>

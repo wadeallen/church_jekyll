@@ -1,0 +1,119 @@
+---
+layout: default
+---
+
+<div class="container clearfix">
+  
+  <div class="sixteen columns"> <h1 class="page-title">Blog Archive<span class="line"></span></h1> </div> <!-- Page Title -->
+  
+  <!-- Start Blog Archive -->
+  <div class="eleven columns top bottom">
+   
+	  {% for post in site.posts reverse %}
+	  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+	  {% unless year == this_year %}
+	    {% assign year = this_year %}
+		  <h2 class="title top-2 bottom-2">{{ year }}<span class="line"></span></h2>
+	  {% endunless %}
+	  <article>
+	    {% include archive_post.html %}
+	  </article>
+	  {% endfor %}
+
+      
+  </div><!-- End Blog Archive -->  
+
+
+  <!-- Start Sidebar Widgets -->
+  <div class="five columns bottom">
+   
+    <!-- Search Widget -->
+    <div class="search top bottom">
+    <form action="#">
+      <input type="text" class="search" value="Search in blog" onBlur="if(this.value == '') { this.value = 'Search in blog'; }" 
+      onfocus="if(this.value == 'Search in blog') { this.value = ''; }" />
+      <input type="submit" value="" class="submit-search" />
+    </form>
+    </div>
+    <!-- End -->
+     
+    
+    <!-- Followers Widget -->
+    <div class="box top bottom">
+     
+       <ul class="followers">
+       <li>
+       <a href="#" data="facbook" class="black colorTipContainer"><span class="social-icon facbook color"></span></a>
+       <h4>2000+</h4> <span>Fans</span>
+       </li>
+       <li>
+       <a href="#" data="twitter" class="black colorTipContainer"><span class="social-icon twitter color"></span></a>
+       <h4>1500</h4> <span>Followers</span>
+       </li>
+       <li>
+       <a href="#" data="google+" class="black colorTipContainer"><span class="social-icon google_plus  color"></span></a>
+       <h4>500</h4> <span>Fans</span>
+       </li>
+       <li>
+       <a href="#" data="Rss" class="black colorTipContainer"><span class="social-icon rss color"></span></a> 
+       <h4>5000+</h4> <span>Subscribers</span>
+       </li>
+       </ul>
+        
+    </div><!-- End -->
+     
+    <!-- Text Widget -->
+    <h2 class="title bottom-2">Text Widget <span class="line"></span></h2>
+     
+    <div class="about-project bottom">
+      <p>
+        Donec seid odio dui. Nullalit libero, alea pharetra augue. Nullam id dolor ideacto vehicula SockMonkee lorem dolor.
+        Donec seid odio dui. Nullalit libero, alea pharetra augue. Nullam id dolor ideacto vehicula SockMonkee lorem dolor.
+      </p>
+    </div>
+     
+    <!-- Categories -->
+    <h2 class="title bottom-2">Categories <span class="line"></span></h2>
+     
+     <ul class="square-list categories bottom">
+       <li><a href="#">Design</a></li>
+       <li><a href="#">Awards & Recognition</a></li>
+       <li><a href="#">Competitions</a></li>
+       <li><a href="#">Travel & Tourism</a></li>
+       <li><a href="#">Direct Mail</a></li>
+     </ul><!-- End square-list -->
+   <!-- End -->
+    
+    
+    
+   <!-- Popular Tags -->
+   <h2 class="title bottom">Popular Tags <span class="line"></span></h2>
+    
+   <div class="popular-tags top bottom">
+    
+   <a href="#">Web Developer</a><a href="#">Branding</a><a href="#">Wordpress</a><a href="#">Web Design</a><a href="#">Logo</a>
+   <a href="#">PHP</a><a href="#">Graphic</a><a href="#">Competitions</a><a href="#">Awards & Recognition</a>
+    
+   </div>
+   <!-- End -->
+    
+   <!-- Twitter Feed -->
+   <h2 class="title bottom">Twitter Feed <span class="line"></span></h2>
+    
+   <div class='tweet query'></div><!-- Tweets Code -->
+    
+   <!-- End -->
+    
+    <!-- From Flickr -->
+   <h2 class="title bottom">From Flickr <span class="line"></span></h2>
+    
+   <ul id="sidebar" class="thumbs"></ul><!-- Flickr Code -->
+    
+   <!-- End -->
+    
+   
+   
+  </div><!-- End Sidebar Widgets -->
+  
+</div>
+
