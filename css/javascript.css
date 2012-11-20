@@ -28,7 +28,7 @@
 /*Top level menu link items style*/
 .navigation ul li a{
 	display: block;
-	padding: 37px 15px 10px 15px;
+	padding: 37px 15px 34px 15px;
 }
 
 * html .navigation ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
