@@ -1,0 +1,14 @@
+active: true
+bio:
+  This is a sample person's bio.
+email: sample@person.com
+github: sampleperson
+image:
+  url: /images/sample-person.jpg
+layout: profile
+name: Wade Allen
+role: Pastor
+short:
+  <a href="/team/sample-person">Sample Person</a> is the founder and CEO of the company.
+twitter: sampleperson
+website: http://sampleperson.com/

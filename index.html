@@ -24,37 +24,35 @@ layout: default
         
       <ul>
         <li class="one-third column">
-          <div class="icon-box"><img src="images/icons/services/webdesign-small.png" alt="" /></div>
+          <div class="icon-box"><img src="images/icons/services/worship-icon.png" alt="" /></div>
           <h3>Worship Gatherings</h3>
           <p>We gather for worship every Sunday at 9:15 and 10:45 a.m. The early service is classical in style and the later is more contemporary in style. <a href="/worship.html">Read more</a> </p>
         </li>
         <li class="one-third column">
-          <div class="icon-box"><img src="images/icons/services/branding-small.png" alt="" /></div>
+          <div class="icon-box"><img src="images/icons/services/life-groups-icon.png" alt="" /></div>
           <h3>Life Groups</h3>
-          <p>usce porttitor turpis quis urna molestie cons equat. Nam felis purus, tincidunt sed dapibus ugravida fusce et magna cons equat. 
-          Nam felis purus . </p>
+          <p>We gather in smaller groups for bible study, accountability and community projects. These groups provide support, challenge and closeness. </p>
         </li>
         <li class="one-third column">
-          <div class="icon-box"><img src="images/icons/services/development-small.png" alt="" /></div>
-          <h3>Children</h3>
-          <p>usce porttitor turpis quis urna molestie cons equat. Nam felis purus, tincidunt sed dapibus ugravida fusce et magna cons equat. 
-          Nam felis purus . </p>
+          <div class="icon-box"><img src="images/icons/services/children-icon.png" alt="" /></div>
+          <h3>Children and Youth</h3>
+          <p>Teams provide child care, age-appropriate worship and groups. We strive to provide an environment for children and youth to grow and learn. </p>
         </li>
         <li class="one-third column">
           <div class="icon-box"><img src="images/icons/services/wordpress-small.png" alt="" /></div>
-          <h3>Youth</h3>
+          <h3>Music</h3>
           <p>usce porttitor turpis quis urna molestie cons equat. Nam felis purus, tincidunt sed dapibus ugravida fusce et magna cons equat. 
           Nam felis purus . </p>
         </li>
         <li class="one-third column">
-          <div class="icon-box"><img src="images/icons/services/seo-small.png" alt="" /></div>
-          <h3>Sermons</h3>
+          <div class="icon-box"><img src="images/icons/services/sermon-icon.png" alt="" /></div>
+          <h3>Sermon Videos</h3>
           <p>usce porttitor turpis quis urna molestie cons equat. Nam felis purus, tincidunt sed dapibus ugravida fusce et magna cons equat. 
           Nam felis purus . </p>
         </li>
         <li class="one-third column">
           <div class="icon-box"><img src="images/icons/services/social-small.png" alt="" /></div>
-          <h3>About</h3>
+          <h3>Publications</h3>
           <p>usce porttitor turpis quis urna molestie cons equat. Nam felis purus, tincidunt sed dapibus ugravida fusce et magna cons equat. 
           Nam felis purus . </p>
         </li>
@@ -67,12 +65,90 @@ layout: default
       <div class="qoute">
         <div class="eleven columns omega">
           <h2>Learn more about First Baptist Muncie</h2>
-          <p>Find out more about the history, purpose, staff, ministries </p>
+          <p>Find out more about the history, purpose, staff, ministries and mission of First Baptist. </p>
         </div>
         <div class="four columns alpha"><a href="/about.html" class="link">About Us</a></div>
       </div>
     </div>
   </div><!-- End Welcome -->
+  
+  <div class="one-third column">
+    
+      
+     
+      
+     <h2 class="title">Coming Up in Worship<span class="line"></span></h2>
+       
+     <div class="recent-blog">
+      <div  class="recent-blog2">
+        
+      
+      <div class=" blog-item vertical">
+        <div class="date3"><span class="day">25</span><span class="month">AUG</span></div>
+        <h3><a href="single_post.html">Start jozoor website</a></h3>
+        <p>Start jozoor website by jozor we love design and more u can talk we about. </p>
+        <span class="more"><a href="single_post.html">Read more</a></span>
+      </div>
+      <div class=" blog-item vertical">
+        <div class="date3"><span class="day">25</span><span class="month">AUG</span></div>
+        <h3><a href="single_post.html">Start jozoor website</a></h3>
+        <p>Start jozoor website by jozor we love design and more u can talk we about. </p>
+        <span class="more"><a href="single_post.html">Read more</a></span>
+      </div>
+        
+    
+        
+    </div>
+    </div>
+    
+  </div><!-- End recent blog -->
+
+    
+  <div class="one-third column">
+    
+    <h2 class="title">Recent Video<span class="line"></span></h2>
+      {% for project in site.projects reversed limit:1 %}   
+    <ul class="whyus">
+      <li>
+		  <h4>{{ project.title }}</h4>
+		  {% if project.image %}
+        <a href="about.html"><img src="images/img/whyus.jpg" alt="" class="border" /></a>
+		 {% endif %}
+        <p>Ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia. Nam quis cursus </p>
+        <span class="more2"><a href="about.html">more about us</a></span>
+      </li>
+    </ul>
+    {% endfor %}
+  </div><!-- End choose us -->
+    
+  <div class="one-third column">
+    
+      
+
+      
+     <h2 class="title">Recent Blog<span class="line"></span></h2>
+       
+     <div class="recent-blog">
+      <div  class="recent-blog2">
+        
+	      {% for post in site.posts limit: 2  %}
+	      {% if post.categories contains 'blog' %}
+      <div class=" blog-item vertical">
+        <div class="date3"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" }}</span></div>
+        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+        <p>{{post.content | truncatewords:15}} </p>
+        <span class="more"><a href="{{post.url}}">Read more</a></span>
+      </div>
+  	{% endif %}
+      {% endfor %}
+        
+    
+        
+    </div>
+    </div>
+
+    
+  </div><!-- End recent blog -->
     
 
      
