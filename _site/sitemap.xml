@@ -1,44 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>/blog/disappointed.html</loc>
+        <loc>/blog/2012/09/17/disappointed</loc>
         <lastmod>2012-11-20T16:07:17-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/reliance.html</loc>
+        <loc>/blog/2012/09/25/reliance</loc>
         <lastmod>2012-11-20T16:06:17-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/extreme-grace.html</loc>
+        <loc>/blog/2012/10/01/extreme-grace</loc>
         <lastmod>2012-11-20T16:05:48-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/office-hours.html</loc>
+        <loc>/blog/2012/10/09/office-hours</loc>
         <lastmod>2012-11-20T16:05:22-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/jealousy.html</loc>
+        <loc>/blog/2012/10/15/jealousy</loc>
         <lastmod>2012-11-20T16:04:47-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/cultural-changes.html</loc>
+        <loc>/blog/2012/10/18/cultural-changes</loc>
         <lastmod>2012-11-20T16:06:45-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/surprise.html</loc>
+        <loc>/blog/2012/10/22/surprise</loc>
         <lastmod>2012-11-20T16:00:33-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/family-tree.html</loc>
+        <loc>/blog/2012/10/29/family-tree</loc>
         <lastmod>2012-11-20T15:59:08-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/permanent-grace.html</loc>
+        <loc>/blog/2012/11/05/permanent-grace</loc>
         <lastmod>2012-11-20T15:58:02-05:00</lastmod>
     </url>
     <url>
-        <loc>/blog/reluctant.html</loc>
+        <loc>/blog/2012/11/12/reluctant</loc>
         <lastmod>2012-11-20T16:01:31-05:00</lastmod>
+    </url>
+    <url>
+        <loc>/404.html</loc>
+        <lastmod>2012-11-20T19:10:43-05:00</lastmod>
     </url>
     <url>
         <loc>/about/faqs.html</loc>
