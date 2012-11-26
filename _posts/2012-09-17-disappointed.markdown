@@ -3,7 +3,7 @@ author: Wade Allen
 date: 2012-09-17
 layout: blog
 title: Disappointed
-categories: blog
+tag: blog
 ---
 
 I don't know about you, but I hate going to the grocery store on my way home from work. Long lines are common at this time of the day. I guess everyone waits until they are heading home from work to stop by the store. You have to stand there and wait! The magazines at the checkout counter may entertain for short time; but after a bit, I find myself impatient.

@@ -3,7 +3,7 @@ site_url: 'http://demo.fbcmuncie.org'
 markdown: rdiscount
 rdiscount:
     extensions: [smart]
-permalink: /blog/:year/:month/:day/:title
+permalink: /:title
 
 
 mini_magick:

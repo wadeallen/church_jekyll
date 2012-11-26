@@ -3,7 +3,7 @@ author: Wade Allen
 date: 2012-10-29
 layout: blog
 title: Family Tree
-categories: blog
+tag: blog
 ---
 
 A few years ago, I had an opportunity to connect with a bit of my family history. Dawson, Levi and I were traveling in the countryside of Georgia; we were on our way back from [Fresh Air BBQ](http://www.freshairbarbecue.com/ "Home - Fresh Air Barbeque") in Jackson. We passed my great-grandfather's farm which sparked my interest in my lineage. We stopped by the land, walked around and even came across an old family cemetery. On that same visit to Georgia, my uncle gave me a copy of a written history of this land. It was fascinating to explore this story. While the story was filled with details, including specific dates, people and even copies of their wills, reading it raised my curiosity. I wondered how the various family lines developed. I wondered about the siblings. Where did they end up? Were there untold stories of love, war, romance, tragedy? How did their lives play out?

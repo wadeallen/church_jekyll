@@ -3,7 +3,7 @@ author: Wade Allen
 date: 2012-10-09
 layout: blog
 title: Office Hours
-categories: blog
+tag: blog
 ---
 
 A few months ago, my son's friend (a middle schooler) asked me a question. Knowing that I am a pastor, he wondered about my work week. "What do you do all week?," he asked, "Do you clean the church or something?" He pictured me sitting in my office during the week with little to do. Maybe vacuuming the sanctuary or cleaning windows would keep me from getting too bored. While we may laugh at this kid's honesty, perhaps some of you wonder how I spend my time.

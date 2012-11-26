@@ -80,21 +80,16 @@ layout: default
      <h2 class="title">Coming Up in Worship<span class="line"></span></h2>
        
      <div class="recent-blog">
-      <div  class="recent-blog2">
+         <div  class="recent-blog2">
         
-      
-      <div class=" blog-item vertical">
-        <div class="date3"><span class="day">25</span><span class="month">AUG</span></div>
-        <h3><a href="single_post.html">Start jozoor website</a></h3>
-        <p>Start jozoor website by jozor we love design and more u can talk we about. </p>
-        <span class="more"><a href="single_post.html">Read more</a></span>
-      </div>
-      <div class=" blog-item vertical">
-        <div class="date3"><span class="day">25</span><span class="month">AUG</span></div>
-        <h3><a href="single_post.html">Start jozoor website</a></h3>
-        <p>Start jozoor website by jozor we love design and more u can talk we about. </p>
-        <span class="more"><a href="single_post.html">Read more</a></span>
-      </div>
+   	      {% for post in site.tags.worship reversed limit:2 %}
+         <div class=" blog-item vertical">
+           <div class="date3"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" }}</span></div>
+           <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+           <p>{{post.content | truncatewords:12}} </p>
+           <span class="more"><a href="{{post.url}}">Read more</a></span>
+         </div>
+         {% endfor %}
         
     
         
@@ -107,39 +102,50 @@ layout: default
   <div class="one-third column">
     
     <h2 class="title">Recent Video<span class="line"></span></h2>
-      {% for project in site.projects reversed limit:1 %}   
-    <ul class="whyus">
-      <li>
-		  <h4>{{ project.title }}</h4>
-		  {% if project.image %}
-        <a href="about.html"><img src="images/img/whyus.jpg" alt="" class="border" /></a>
-		 {% endif %}
-        <p>Ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia. Nam quis cursus </p>
-        <span class="more2"><a href="about.html">more about us</a></span>
-      </li>
-    </ul>
-    {% endfor %}
+
+
+    <div class="portfolio">
+    
+       {% for post in site.tags.sermon limit:1  %} 
+        <!-- Sermon Lightbox-->
+        <div class="four columns item omega">
+          <div class="caption">
+          <a href="{{ post.url }}" rel="prettyPhoto[gallery1]">
+   		 {% if post.imageurl %}
+   		 <img src="/img/photos/medium/{{ post.imageurl }}" alt="{{ post.title }}" class="pic" />
+   		 {% endif %}
+           <span class="hover-effect big zoom"></span></a>
+		
+            </div><!-- hover effect -->
+          <h4><ahref="{{ post.url }}">{{ post.title }}</a></h4>
+   	   <h5><a>{{ post.date | date: "%d %B %Y" }}</a></h5>
+        </div>
+        <!-- End -->
+       {% endfor %}
+        
+
+  
+    
+     </div><!-- End portfolio -->          
+
+
   </div><!-- End choose us -->
     
   <div class="one-third column">
-    
-      
-
+ 
       
      <h2 class="title">Recent Blog<span class="line"></span></h2>
        
      <div class="recent-blog">
       <div  class="recent-blog2">
         
-	      {% for post in site.posts limit: 2  %}
-	      {% if post.categories contains 'blog' %}
+	      {% for post in site.tags.blog limit:2  %}
       <div class=" blog-item vertical">
         <div class="date3"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" }}</span></div>
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-        <p>{{post.content | truncatewords:15}} </p>
+        <p>{{post.content | truncatewords:12}} </p>
         <span class="more"><a href="{{post.url}}">Read more</a></span>
       </div>
-  	{% endif %}
       {% endfor %}
         
     

@@ -3,7 +3,7 @@ author: Wade Allen
 date: 2012-10-18
 layout: blog
 title: Cultural Changes
-categories: blog
+tag: blog
 ---
 
 We are living in a transitional period of time in the life of First Baptist Church Muncie. In many ways, we find ourselves in a drastically different world. Muncie is not the same city that it was 50 years ago; the world is not the same world. We have moved from being in the center of the community to being on the fringes. I am not talking about geographically, but culturally. 

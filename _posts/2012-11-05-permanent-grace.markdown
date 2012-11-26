@@ -3,7 +3,7 @@ author: Wade Allen
 date: 2012-11-05
 layout: blog
 title: Permanent Grace
-categories: blog
+tag: blog
 ---
 
 Have you ever received an undeserved gift? Was it difficult to accept? Did you envision someone showing up and taking it away? Perhaps it was hard to believe it could be yours? A few weeks ago, we took a group of teenagers to South Haven, Michigan for the weekend. We rented a couple of cabins attached to a bed and breakfast. Christy and I were able to spend time talking to one of the couples staying in the bed and breakfast. The man shared the story of winning a car. He entered a drawing; his name was announced on the radio. Friends called him to notify him of his fortune. He described peering at the prize in disbelief. Did this really happen? 

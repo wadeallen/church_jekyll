@@ -12,8 +12,7 @@ layout: default
  <div class="eleven columns top bottom">
 
    
-       {% for post in site.posts limit: 5  %}
-	   {% if post.categories contains 'blog' %}
+       {% for post in site.tags.blog limit:5  %}
 	   
        <!-- ==================== Post 3 ==================== -->
      
@@ -44,7 +43,6 @@ layout: default
       
        </div> 
 
-		{% endif %}
 	    {% endfor %}
      <!-- ==================== End  ==================== -->
 	 

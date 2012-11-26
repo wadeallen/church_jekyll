@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="container clearfix">
+  
+  <div class="sixteen columns"> <h1 class="page-title">In Worship on {{ page.date | date: "%B %d" }} <span class="line"></span></h1> </div> <!-- Page Title -->
+  
+    
+  <div class="two-thirds column">
+    <div class="methodology">
+      <h2 class="title">{{ page.title}} <span class="line"></span></h2>
+      <p>
+		  {{ content }}
+      </p>
+      <br /><br />
+    </div>
+  </div><!-- End methodology -->
+    
+  <div class="one-third column">
+      
+		 {% include twitter_sidebar.html %}
+
+  </div><!-- End choose -->
+    
+  <div class="clearfix"></div>
+  
+  <div class="our-services">
+    <div class="sixteen columns"><h2 class="title">Coming Up in Worship<span class="line"></span></h2></div>
+        
+      <div class="clearfix"></div>
+        
+      <ul>
+		  {% for post in site.tags.worship reversed limit:3 %}
+        <li class="one-third column">
+            <div class="date3"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" }}</span></div>
+          <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+         <p>{{post.content | truncatewords:20}} </p>
+        </li>
+		{% endfor %}
+      </ul>
+        
+  </div><!-- End our-services -->
+    
+  <div id="welcome">
+    <div class="sixteen columns">
+      <div class="qoute">
+        <div class="eleven columns omega">
+          <h2>Perfect Premium Template for Showing Your Products</h2>
+          <p>Crevision is a responsive HTML template created for corporate and portfolio websites. </p>
+        </div>
+        <div class="four columns alpha"><a href="#" class="link">Get a Free Quote Now</a></div>
+      </div>
+    </div>
+  </div><!-- End Welcome -->
+    
+</div><!-- <<< End Container >>> -->
