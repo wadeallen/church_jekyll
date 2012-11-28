@@ -24,7 +24,7 @@ $(document).ready(function(){
 	$('#sidebar').jflickrfeed({
 		limit: 6,
 		qstrings: {
-			id: '30402674@N02' // Flickr Id form feed Rss in your photostream in flickr profile
+			id: '29174704@N02' // Flickr Id form feed Rss in your photostream in flickr profile
 		},
 		itemTemplate: '<li><a href="{{link}}" title="{{title}}" target="_blank"><img src="{{image_m}}" alt="{{title}}" /></a></li>'
 	});

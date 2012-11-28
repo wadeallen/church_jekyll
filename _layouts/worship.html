@@ -4,24 +4,27 @@ layout: default
 
 <div class="container clearfix">
   
-  <div class="sixteen columns"> <h1 class="page-title">In Worship on {{ page.date | date: "%B %d" }} <span class="line"></span></h1> </div> <!-- Page Title -->
+  <div class="sixteen columns">
+	   <h1 class="page-title"> In Worship / <span class="gray2">{{ page.date | date: "%B %d" }} </span><span class="line"></span></h1>
   
-    
+   </div>
   <div class="two-thirds column">
     <div class="methodology">
       <h2 class="title">{{ page.title}} <span class="line"></span></h2>
       <p>
 		  {{ content }}
       </p>
-      <br /><br />
     </div>
   </div><!-- End methodology -->
+  
+
     
   <div class="one-third column">
       
 		 {% include twitter_sidebar.html %}
 
   </div><!-- End choose -->
+ 
     
   <div class="clearfix"></div>
   
