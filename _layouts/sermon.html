@@ -68,7 +68,7 @@ layout: default
        <div class="caption">
        <a href="{{ post.url }}">
 		 {% if post.imageurl %}
-		 <img src="/img/photos/medium/{{ post.imageurl }}" alt="{{ post.title }}" class="pic" />
+		  <img src="/images/sermon_images/{{ post.date | date: "%Y-%m-%d" }}.jpg" alt="{{ post.title }}" class="pic" />
 		 {% endif %}
         <span class="hover-effect big zoom"></span></a>
 		

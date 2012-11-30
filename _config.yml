@@ -4,14 +4,3 @@ markdown: rdiscount
 rdiscount:
     extensions: [smart]
 permalink: /:title
-
-
-mini_magick:
-    thumbnail:
-        source: img/photos/original
-        destination: img/photos/thumbnail
-        resize: "100x100"
-    medium:
-        source: img/photos/original
-        destination: img/photos/medium
-        resize: "420x308"
