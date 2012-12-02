@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /prayer/
+Disallow: /bulletin/
+Disallow: /sermons/
+Disallow: /visitor/

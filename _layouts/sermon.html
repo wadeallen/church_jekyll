@@ -22,14 +22,14 @@ layout: default
        
 </div><!-- End video wrap -->
 
-<a href="/sermons" class="button medium color">Back to All Sermons</a>
+<a href="/video" class="button medium color">Back to All Sermons</a>
 
 </div>
 {% else %}
 
 <h4>The video for this week is not yet available. Please check back later in the week.</h4>
 
-<a href="/sermons" class="button medium color">Back to All Sermons</a>
+<a href="/video" class="button medium color">Back to All Sermons</a>
 </div>
 
 {% endif %}
@@ -67,9 +67,7 @@ layout: default
      <div class="four columns item omega">
        <div class="caption">
        <a href="{{ post.url }}">
-		 {% if post.imageurl %}
 		  <img src="/images/sermon_images/{{ post.date | date: "%Y-%m-%d" }}.jpg" alt="{{ post.title }}" class="pic" />
-		 {% endif %}
         <span class="hover-effect big zoom"></span></a>
 		
          </div><!-- hover effect -->
