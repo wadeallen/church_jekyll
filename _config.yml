@@ -1,6 +1,5 @@
 site_name: 'First Baptist Church Muncie'
-site_url: 'http://demo.fbcmuncie.org'
 markdown: rdiscount
 rdiscount:
     extensions: [smart]
-permalink: /:title
+permalink: /:categories/:title
