@@ -1,35 +1,45 @@
 ---
 layout: default
 ---
-<div id="profile" class="row">
-  <div class="span4">
-    {% if page.image %}
-      <div id="profile-photo">
-        <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" width="200" height="200" />
-      </div>
-    {% endif %}
-  </div>
 
-  <div class="span11">
-    <h1>
-      {{ page.name }}
-      <small>{{ page.role }}</small>
-    </h1>
+<div class="container clearfix">
+  
+  <div class="sixteen columns"> <h1 class="page-title">{{ page.title }} <span class="line"></span></h1> </div> <!-- Page Title -->
 
-    {{ page.bio }}
+<div class="clearfix"></div>
+  
+<div class="meet-team">
+  <div class="sixteen columns">
+    </div>
+        
+    <div class="clearfix"></div>
+        
+    <ul class="team">
+      <!-- each pastor-->
+      <li class="one-third column">
+        <img src="{{ root_url }}{{ page.image.url}}" alt="{{ page.name }}" />
+        <h3>
+          {{ page.name }}
+		    {% if page.facebook %}
+          <a href="http://facebook.com/{{ page.facebook }}" class="facebook">facebook</a>
+		    {% endif %}
+			 {% if page.twitter %}
+          <a href="http://twitter.com/{{ page.twitter }}" class="twitter">twitter</a>
+		    {% endif %}
+        </h3>
+        <p>{{ page.role }}</p>
+      </li>
+      <!-- End -->
+	  
+      <!--  description-->
+      <li class="one-third column">
+		  Test
+      </li>
+      <!-- End -->
+	  
+	  
+    </ul><!-- End team -->
+        
+</div><!-- End meet team -->
 
-    <ul>
-      {% if page.linkedin %}
-        <li><a href="http://www.linkedin.com/in/{{ page.linkedin }}">Connect on LinkedIn</a></li>
-      {% endif %}
-
-      {% if page.twitter %}
-        <li><a href="http://twitter.com/{{ page.twitter }}">Follow on Twitter</a></li>
-      {% endif %}
-
-      {% if page.github %}
-        <li><a href="http://github.com/{{ page.github }}">Follow on GitHub</a></li>
-      {% endif %}
-    </ul>
-  </div>
-</div>
+</div><!-- <<< End Container >>> -->

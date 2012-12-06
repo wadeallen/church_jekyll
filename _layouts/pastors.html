@@ -1,0 +1,45 @@
+---
+layout: default
+title: Pastors
+---
+<div class="container clearfix">
+  
+  <div class="sixteen columns"> <h1 class="page-title">{{ page.title }} <span class="line"></span></h1> </div> <!-- Page Title -->
+
+<div class="clearfix"></div>
+  
+<div class="meet-team">
+  <div class="sixteen columns">
+    <p>
+	  We believe that all members of First Baptist are ministers. Each one has gifts that are utilized in ministry. However, we also believe that God has called some among us to lead as pastors. 
+    </p>
+    </div>
+        
+    <div class="clearfix"></div>
+        
+    <ul class="team">
+          {% for person in page.team['pastor'] %}
+      <!-- each pastor-->
+      <li class="one-third column">
+        <a href="/pastors/{{ person[0] }}"><img src="{{ root_url }}{{ person[1].image.url}}" alt="{{ person[1].name }}" /></a>
+        <h3>
+          <a href="/pastors/{{ person[0] }}"> {{ person[1].name }}</a>
+		    {% if person[1].facebook %}
+          <a href="http://facebook.com/{{ person[1].facebook }}" class="facebook">facebook</a>
+		    {% endif %}
+			 {% if person[1].twitter %}
+          <a href="http://twitter.com/{{ person[1].twitter }}" class="twitter">twitter</a>
+		    {% endif %}
+        </h3>
+        <p>{{ person[1].role }}</p>
+		<p><a href="/pastors/{{ person[0] }}">read more</a></p>
+
+
+      </li>
+      <!-- End -->
+         {% endfor %} 
+    </ul><!-- End team -->
+        
+</div><!-- End meet team -->
+
+</div><!-- <<< End Container >>> -->

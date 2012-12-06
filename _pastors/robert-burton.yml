@@ -1,0 +1,12 @@
+active: true
+bio:
+  This is a sample person's bio.
+email: robert@fbcmuncie.org
+image:
+  url: /images/img/team/member-1.jpg
+layout: profile
+name: Robert Burton
+role: Minister to Senior Adults
+twitter: 
+facebook: robert.burton.718?fref=ts
+type: pastor

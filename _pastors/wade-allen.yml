@@ -1,0 +1,12 @@
+active: true
+bio:
+  This is a sample person's bio.
+email: wade@fbcmuncie.org
+image:
+  url: /images/img/team/member-1.jpg
+layout: profile
+name: Wade Allen
+role: Pastor
+twitter: wadeallen
+facebook: wadesallen
+type: pastor

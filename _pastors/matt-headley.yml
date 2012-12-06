@@ -1,0 +1,13 @@
+active: true
+bio:
+  This is a sample person's bio.
+email: robert@fbcmuncie.org
+image:
+  url: /images/img/team/member-1.jpg
+layout: profile
+name: Matt Headley
+role: Associate Pastor
+twitter: mattheadley
+facebook: MatthewPaulHeadley?fref=ts
+googleplus: 
+type: pastor
