@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Christmas Eve
-date: 2012-12-24
+worship_date: 2012-12-24
 layout: worship
 ---
 

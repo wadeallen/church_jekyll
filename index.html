@@ -25,8 +25,8 @@ layout: default
       <ul>
         <li class="one-third column">
           <div class="icon-box"><img src="images/icons/services/worship-icon.png" alt="" /></div>
-          <h3>Worship Gatherings</h3>
-          <p>We gather for worship every Sunday at 9:15 and 10:45 a.m. The early service is classical in style and the later is more contemporary in style. <a href="/worship.html">Read more</a> </p>
+          <h3><a href="/worship">Worship Gatherings</a></h3>
+          <p>We gather for worship every Sunday at 9:15 and 10:45 a.m. The early service is classical in style and the later is more contemporary in style. <a href="/worship">Read more</a> </p>
         </li>
         <li class="one-third column">
           <div class="icon-box"><img src="images/icons/services/life-groups-icon.png" alt="" /></div>
@@ -45,15 +45,13 @@ layout: default
         </li>
         <li class="one-third column">
           <div class="icon-box"><img src="images/icons/services/sermon-icon.png" alt="" /></div>
-          <h3>Sermon Videos</h3>
-          <p>usce porttitor turpis quis urna molestie cons equat. Nam felis purus, tincidunt sed dapibus ugravida fusce et magna cons equat. 
-          Nam felis purus . </p>
+          <h3><a href="/video">Sermon Videos</a></h3>
+          <p>The sermons are recorded each week and post it online.Take a few minutes and listen to last week's sermon. <a href="/video">Read more</a> </p>
         </li>
         <li class="one-third column">
-          <div class="icon-box"><img src="images/icons/services/social-small.png" alt="" /></div>
-          <h3>Publications</h3>
-          <p>usce porttitor turpis quis urna molestie cons equat. Nam felis purus, tincidunt sed dapibus ugravida fusce et magna cons equat. 
-          Nam felis purus . </p>
+          <div class="icon-box"><img src="images/icons/services/webdesign-small.png" alt="" /></div>
+          <h3><a href="/calendar">Calendar</a></h3>
+          <p>Take a look at a live church calendar to see what is going on today at First Baptist.  <a href="/calendar">Read more</a> </p>
         </li>
       </ul>
         
@@ -81,15 +79,15 @@ layout: default
      <div class="recent-blog">
          <div  class="recent-blog2">
         
-   	      {% for post in site.categories.worship reversed %}
-         <div class=" blog-item vertical">
-           <div class="date3"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" }}</span></div>
-           <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-           <p>{{post.content | truncatewords:12}} </p>
-           <span class="more"><a href="{{post.url}}">Read more</a></span>
-         </div>
-         {% endfor %}
-        
+   	      {% for post in site.categories.worship  %}
+		  {% if forloop.index == forloop.length %}
+          <div class=" blog-item vertical">
+            <div class="date3"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" }}</span></div>
+            <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+            <p>{{post.content | truncatewords:12}} </p>
+            <span class="more"><a href="{{post.url}}">Read more</a></span>
+          </div>
+		  {% endif %} {% endfor %}      
     
         
     </div>
@@ -136,7 +134,7 @@ layout: default
      <div class="recent-blog">
       <div  class="recent-blog2">
         
-	      {% for post in site.categories.blog limit:2  %}
+	      {% for post in site.categories.blog limit:1  %}
       <div class=" blog-item vertical">
         <div class="date3"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" }}</span></div>
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
@@ -149,10 +147,6 @@ layout: default
         
     </div>
     </div>
-
-    
   </div><!-- End recent blog -->
-    
-
-     
+      
 </div><!-- <<< End Container >>> -->

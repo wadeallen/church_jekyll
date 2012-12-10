@@ -1,7 +1,7 @@
 --- 
 author: Wade Allen 
 title: Giving God Credit 
-date: 2013-01-13 
+worship_date: 2013-01-13
 layout: worship 
 ---
 

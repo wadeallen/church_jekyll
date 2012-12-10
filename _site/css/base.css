@@ -125,11 +125,11 @@ body, .navigation ul li a, .navigation ul li ul li a, .subscribe input.mail, .su
 }
 
 .recent-blog .tags, .recent-blog .tags-comments, .tags-comments2, .subscribe input.mail, span.copyright, ul.team  li p, .most-posts li span, .post-meta, .comment .title span.right {
-	font-size:12px;
+	font-size:13px;
 }
 
 body, .navigation ul li ul li a, .services p {
-	font-size:13px;
+	font-size:14px;
 }
 
 .alert, blockquote, table th, .tables-column .header h3, .pricing-tables-2 .tables-column .list li, #options, .about-project p, .job, .categories, .post-content p, .ei-title h3  {

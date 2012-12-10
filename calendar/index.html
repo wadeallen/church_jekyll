@@ -1,35 +1,28 @@
 ---
-layout: calendar
+layout: full
+title: Calendar
 ---
+<script type='text/javascript'>
 
-<html>
-  <head>
-    <script>
-      function appendResults(text) {
-        var results = document.getElementById('results');
-        results.appendChild(document.createElement('P'));
-        results.appendChild(document.createTextNode(text));
-      }
+$(document).ready(function() {
+    $('#calendar').fullCalendar({
+	    header: {
+	           left: 'prev,next today',
+	           center: 'title',
+	           right: 'month,basicWeek,basicDay'
+	       },
+		
+		defaultView: 'basicWeek',
+		
+		events: {
+            url: 'http://www.google.com/calendar/feeds/fbcmuncie.org_oamafcbnnsdl356288bd7hka84%40group.calendar.google.com/public/basic',
+            className: 'gcal-event',           // an option!
+            currentTimezone: 'America/Indiana/Indianapolis',
+        },
+		eventColor: '#333366'
+    });
+});
 
-      function makeRequest() {
-        var request = gapi.client.urlshortener.url.get({
-          'shortUrl': 'http://goo.gl/fbsS'
-        });
-        request.execute(function(response) {
-          appendResults(response.longUrl);
-        });
-      }
+</script>
 
-      function load() {
-        gapi.client.setApiKey('AIzaSyCTo2_Or8ihKOU9Q0JC1apK5f3YgkXIat0');
-        gapi.client.load('urlshortener', 'v1', makeRequest);
-      }
-    </script>
-    <script src="https://apis.google.com/js/client.js?onload=load"></script>
-  </head>
-  <body>
-    <div id="results"></div>
-	test
-  </body>
-</html>
-
+<div id='calendar'></div>

@@ -3,7 +3,6 @@ author: Wade Allen
 date: 2012-09-25
 layout: blog
 title: Reliance
-tag: blog
 ---
 
 In our culture, we are often told that we can accomplish whatever we want. We simply need to give it enough energy, focus; if we simply work hard enough, it will be ours. While there is merit in such advice, we may want to rethink how we guide our children.

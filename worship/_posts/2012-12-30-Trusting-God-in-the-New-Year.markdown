@@ -1,7 +1,7 @@
 --- 
 author: Wade Allen 
 title: Trusting God in the New Year 
-date: 2012-12-30 
+worship_date: 2012-12-30 
 layout: worship 
 ---
 

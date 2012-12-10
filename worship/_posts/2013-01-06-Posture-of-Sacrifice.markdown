@@ -1,7 +1,7 @@
 --- 
 author: Wade Allen 
 title: Posture of Sacrifice 
-date: 2013-01-06 
+worship_date: 2013-01-06 
 layout: worship 
 ---
 

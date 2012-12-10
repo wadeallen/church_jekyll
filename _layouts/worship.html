@@ -34,11 +34,11 @@ layout: default
       <div class="clearfix"></div>
         
       <ul>
-		  {% for post in site.tags.worship reversed limit:3 %}
+		  {% for post in site.categories.worship reversed %}
         <li class="one-third column">
             <div class="date3"><span class="day">{{ post.date | date: "%d" }}</span><span class="month">{{ post.date | date: "%b" }}</span></div>
           <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-         <p>{{post.content | truncatewords:20}} </p>
+         <p>{{post.content | truncatewords:12}} </p>
         </li>
 		{% endfor %}
       </ul>

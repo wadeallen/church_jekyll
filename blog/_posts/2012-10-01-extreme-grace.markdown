@@ -3,7 +3,6 @@ author: Wade Allen
 date: 2012-10-01
 layout: blog
 title: Extreme Grace
-tag: blog
 ---
 
 When we lived in Springfield, Illinois, a friend (and member of our church) worked on the Governor's staff. I was pleasantly surprised when he offered me and Christy tickets to the Inaugural Ball. It was pretty cool to be involved in a VIP event of this sort. Our coats were taken at the door; we were invited to enjoy an unbelievable display of prime rib, seafood and all kinds of hors d'oeuvres. We were able to dance, feast and rub shoulders with celebrities. We clearly did not belong at the event. I was a youth pastor, not a political supporter. Yet, we enjoyed the elevated treatment for one evening.
