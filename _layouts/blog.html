@@ -30,6 +30,29 @@
       
       
    </div> 
+   
+   <!-- facebook comments -->
+   <div class="eleven columns top bottom">
+   
+   <div id="fb-root"></div>
+   <script>(function(d, s, id) {
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) return;
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=APPID";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, "script", "facebook-jssdk"));</script>
+   
+   {% if page.comments %} 
+   <h2 class="title top-2 bottom-2">Comments<span class="line"></span></h2>
+   <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-num-posts="4"></div>
+   {% endif%}
+   
+</div>
+   
+   <!-- end facebook comments -->
+
+
    <!-- ==================== End single post  ==================== -->
       
  </div><!-- End column -->  

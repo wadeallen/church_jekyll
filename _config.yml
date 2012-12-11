@@ -1,5 +1,9 @@
 site_name: 'First Baptist Church Muncie'
+url: fbcmuncie.org
 markdown: rdiscount
 rdiscount:
     extensions: [smart]
 permalink: /:categories/:title
+
+# Facebook comments
+facebook_appid: 397803531137

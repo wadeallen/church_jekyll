@@ -33,7 +33,9 @@ layout: default
 	  
       <!--  description-->
       <li class="one-third column">
-		  Test
+		  {% if page.bio %}
+		  <p>{{ page.bio }}</p>
+		  {% endif %}
       </li>
       <!-- End -->
 	  

@@ -55,6 +55,11 @@
     <script src="/js/styleswitch.js"></script> <!-- Style Switcher -->
 	<script type='text/javascript' src='/js/fullcalendar.js'></script> <!-- Full Calendar -->
 	<script type='text/javascript' src='/js/gcal.js'></script> <!-- Google Calendar -->
+	
+	<!-- enable facebook comment moderation -->
+	{% if site.facebook_appid %}
+	<meta property="fb:app_id" content="{{ site.facebook_appid }}" />
+	{% endif %}
   
   <!-- End JavaScript -->
 

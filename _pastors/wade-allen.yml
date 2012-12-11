@@ -1,6 +1,6 @@
 active: true
 bio:
-  This is a sample person's bio.
+  Wade attended Liberty University (BA), Southern Seminary (MDiv), and Northern Seminary (DMin). Wade is married to Christy (1994) and they have three children, Anna (1997), Dawson (1998), and Levi (2004). Wade enjoys computers, great coffee, reading and all sorts of sports. He particularly enjoys Georgia Bulldog football.
 email: wade@fbcmuncie.org
 image:
   url: /images/img/team/member-1.jpg
@@ -10,3 +10,4 @@ role: Pastor
 twitter: wadeallen
 facebook: wadesallen
 type: pastor
+url: wade-allen
