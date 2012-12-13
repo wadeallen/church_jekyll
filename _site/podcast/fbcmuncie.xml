@@ -2,731 +2,99 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>First Baptist Church Muncie Indiana</title>
+	<link type="application/atom+xml" href="http://fbcmuncie.org/feed/" rel="self"/>
+ 	<link type="text" href="http://fbcmuncie.org" rel="alternate"/>
+	<updated>2012-12-13T14:55:49-05:00</updated>
+	<id>http://fbcmuncie.org</id>
+	<author>
+		<name>First Baptist Church Muncie</name>
+	</author>
+	<rights>Copyright (c) 2013, First Baptist Church Muncie; all rights reserved.</rights>
+    <image>
+        <url>http://fbcmuncie.org/images/fbc_logo-144x119.png</url>
+        <title>First Baptist Church Muncie Indiana</title>
         <link>http://fbcmuncie.org</link>
-        <description>We are: A Spirit-led people gathered to care for and empower each other by stewarding God's resources to impact our community for Christ</description>
-        <generator>Feeder 2.3.5(1682); Mac OS X Version 10.7.5 (Build 11G63b) http://reinventedsoftware.com/feeder/</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <language>en</language>
-        <copyright>2012</copyright>
-        <managingEditor>wade@fbcmuncie.org</managingEditor>
-        <pubDate>Mon, 19 Nov 2012 12:24:53 -0500</pubDate>
-        <lastBuildDate>Mon, 19 Nov 2012 12:24:53 -0500</lastBuildDate>
-        <image>
-            <url>http://fbcmuncie.org/images/fbc_logo-144x119.png</url>
-            <title>First Baptist Church Muncie Indiana</title>
-            <link>http://fbcmuncie.org</link>
-            <width>144</width>
-            <height>119</height>
-        </image>
-        <atom:link href="http://fbcmuncie.org/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml"/>
-        <itunes:author>Wade Allen</itunes:author>
-        <itunes:subtitle>Sermons from First Baptist Church in Muncie, Indiana</itunes:subtitle>
-        <itunes:summary>We are: A Spirit-led people gathered to care for and empower each other by stewarding God's resources to impact our community for Christ. In this podcast, you will hear sermons from First Baptist Church in Muncie, Indiana.</itunes:summary>
-        <itunes:keywords>Muncie, First Baptist Church, Wade Allen, sermons</itunes:keywords>
-        <itunes:image href="http://fbcmuncie.org/images/fbclogo.png"/>
+        <width>144</width>
+        <height>119</height>
+    </image>
+    <itunes:author>Wade Allen</itunes:author>
+    <itunes:subtitle>Sermons from First Baptist Church in Muncie, Indiana</itunes:subtitle>
+    <itunes:summary>We are: A Spirit-led people gathered to care for and empower each other by stewarding God's resources to impact our community for Christ. In this podcast, you will hear sermons from First Baptist Church in Muncie, Indiana.</itunes:summary>
+    <itunes:keywords>Muncie, First Baptist Church, Wade Allen, sermons</itunes:keywords>
+    <itunes:image href="http://fbcmuncie.org/images/fbclogo.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+        <itunes:name>Wade Allen</itunes:name>
+        <itunes:email>wade@fbcmuncie.org</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Christianity"/>
+    </itunes:category>
+	
+	
+	<item>
+        <title>Expectant</title>
+        <description>&lt;p&gt; Paul&amp;rsquo;s letter to the Philippians allows us to peer into his heart. He is confident that God will complete the work He began in the Philippians church. He anticipates that this work one day come to an end as Jesus returns. His prayer for the Philippians is that they would also live in this anticipation of Jesus&amp;rsquo;s return. As you and I explore this text, we are challenged to live in a posture of expectancy and urgency. God will one day return; this truth should drive us as we live out the gospel in our world. Philippians 1:3-11&lt;/p&gt;
+</description>
+        <pubDate>2012-12-09T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-12-09.mp3" type="audio/mpeg"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:owner>
-            <itunes:name>Wade Allen</itunes:name>
-            <itunes:email>wade@fbcmuncie.org</itunes:email>
-        </itunes:owner>
-        <itunes:block>no</itunes:block>
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Christianity"/>
-        </itunes:category>
-        <item>
-            <title>I Don't Want to Go</title>
-            <description><![CDATA[On November 18, we will worship in a combined worship service at 1045 a.m. The children will share a musical about the story of Jonah. We will also reflect the sermon on the call of God in our own lives. Jonah was more concerned about his own comfort, less concerned about following God's mission in the world. We are challenged by his story to discard our own plans for God's mission.]]></description>
-            <pubDate>Sun, 18 Nov 2012 12:24:39 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-11-18.mp3" length="7883127" type="audio/mpeg"/>
-            <guid isPermaLink="false">77EA9213-517C-475D-8D2B-AB5C30F67A83</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>16:10</itunes:duration>
-        </item>
-        <item>
-            <title>A Closing Scene</title>
-            <description><![CDATA[<p>. . . but the story continues  
-<br />Genesis 50</p>
-
-<p>In the closing scenes of Genesis, we are reminded that God's story is not over. As Jacob and Joseph pass from the scene, the promise of deliverance looms. As the curtain closes in Genesis, Joseph is embalmed and lies in an Egyptian coffin. Yet the story of God continues. As we gather, we are reminded of our connection with this story. We are reminded that God's grace comes to fruition through the work of Jesus. As we connect and live in story of God, we are transformed.</p>]]></description>
-            <pubDate>Sun, 11 Nov 2012 13:07:28 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-11-11.mp3" length="13576848" type="audio/mpeg"/>
-            <guid isPermaLink="false">7ECB9893-1FDF-4625-9C34-8C56E6170A6F</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>28:04</itunes:duration>
-        </item>
-        <item>
-            <title>The Destiny of Jacob's Sons</title>
-            <description><![CDATA[In Genesis 49, Jacob calls his sons to his deathbed for a blessing. He speaks powerful words that shape generations to come. His sons, forming the twelve tribes of Israel, will prepare the way for God to enter the world through Jesus. As the book of Genesis nears its end, we are reminded that the story continues as the people of God are now formed.]]></description>
-            <pubDate>Sun, 04 Nov 2012 14:49:36 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-11-04.mp3" length="13358528" type="audio/mpeg"/>
-            <guid isPermaLink="false">CA30A357-FE54-4CAE-8568-D7F1643F2FB6</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>27:34</itunes:duration>
-        </item>
-        <item>
-            <title>Surprise Blessing</title>
-            <description><![CDATA[As we near the conclusion of the book of Genesis, Jacob is near death. Joseph and his sons pay a visit to his ailing father. Jacob's actions of adopting and blessing his grandsons remind us that God often moves in surprising ways. As we learn to follow God, we discover that He often acts and moves in ways that we would not plan. Genesis 48]]></description>
-            <pubDate>Sun, 28 Oct 2012 21:25:38 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-10-28.mp3" length="13562642" type="audio/mpeg"/>
-            <guid isPermaLink="false">6755137E-3481-459E-A6F9-B7819F7FF9B2</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>28:00</itunes:duration>
-        </item>
-        <item>
-            <title>Provision</title>
-            <description><![CDATA[As Joseph's brothers have experienced grace, they now experience provision. Joseph sends the necessary supplies for Jacob and his family to relocate to Egypt. This relocation saves the people of God during a time of famine. As we continue to live in the story, we are challenged to acknowledge our own provision. God gives us, not what we deserve, but more than we need. May we respond in unity and gratefulness to the provision of God. Genesis 45-46]]></description>
-            <pubDate>Sun, 21 Oct 2012 14:14:26 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-10-21.mp3" length="16075715" type="audio/mpeg"/>
-            <guid isPermaLink="false">DEA8FEFF-C8A8-4307-80B1-4B175C95408A</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>33:17</itunes:duration>
-        </item>
-        <item>
-            <title>The Reality of Restoration</title>
-            <description><![CDATA[Betsy Whaley preached about Joseph's reconciliation with his brothers. Genesis 45:1-15 offers a profound account of Joseph's interaction with his brothers, his revealing his identity and offering forgiveness.]]></description>
-            <pubDate>Mon, 15 Oct 2012 12:45:33 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-10-14.mp3" length="21183889" type="audio/mpeg"/>
-            <guid isPermaLink="false">FA1A930E-C7D4-421C-9033-B9506A9CCA1B</guid>
-            <itunes:author>Betsy Whaley</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>43:55</itunes:duration>
-        </item>
-        <item>
-            <title>Invited to the Table</title>
-            <description><![CDATA[A famine forces Joseph brothers to Egypt in search of food. In an astonishing turn of events, Joseph and his brothers are brought together. While his brothers do not recognize him, Joseph offers them tremendous grace. In the mind of the brothers, God is punishing them for what they did to Joseph. In reality God is extending grace. As we gather at the table on this first Sunday of the month, we are reminded that we are invited even when we don't deserve it. Genesis 42-43.]]></description>
-            <pubDate>Sun, 07 Oct 2012 16:34:26 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-10-07.mp3" length="16134134" type="audio/mpeg"/>
-            <guid isPermaLink="false">472285E9-806D-4985-A180-653E6B37499A</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>33:23</itunes:duration>
-        </item>
-        <item>
-            <title>Out of the Pit</title>
-            <description><![CDATA[While it seemed that God had abandoned Joseph in prison, God was not finished with him. In Genesis 41, we read of Joseph’s deliverance from prison. As Joseph learns what it means to depend on God, God rescues him; He offers provision beyond his wildest dreams.]]></description>
-            <pubDate>Sun, 30 Sep 2012 16:29:57 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-09-30.mp3" length="14459629" type="audio/mpeg"/>
-            <guid isPermaLink="false">AE7AF759-67E6-47F7-A8A0-4368277ED980</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>29:53</itunes:duration>
-        </item>
-        <item>
-            <title>Trusting God's Timing</title>
-            <description><![CDATA[While in prison, Joseph has an opportunity to assist two of Pharaoh’s servants by interpreting their dreams. It seems that this may be Joseph ticket out of prison. However, Joseph will be required to wait a bit longer. At the same time, God is working, planning Joseph’s deliverance. As we explore this story, we are challenged to wait on God’s timing in all things.]]></description>
-            <pubDate>Sun, 23 Sep 2012 10:39:53 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-09-23.mp3" length="13910510" type="audio/mpeg"/>
-            <guid isPermaLink="false">3332B595-9C65-4AC1-9F7D-D781057CD909</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>28:48</itunes:duration>
-        </item>
-        <item>
-            <title>Potiphar's Wife</title>
-            <description><![CDATA[The story of Potifer's wife is an infamous story of temptation. Day after day, Joseph is required to resist what many might consider acceptable, given his circumstances. Yet Joseph's primary consideration is the impact such a decision would have on his relationship with God. Joseph remains faithful. While it does not immediately pay off, God is bringing Joseph one more step closer to where he wants him to be. Genesis 39]]></description>
-            <pubDate>Sun, 16 Sep 2012 14:21:41 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-09-16.mp3" length="13303864" type="audio/mpeg"/>
-            <guid isPermaLink="false">D2AE071C-EDAC-4CFF-9148-4F7E1C057B75</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>27:32</itunes:duration>
-        </item>
-        <item>
-            <title>The Coat of Many Colors</title>
-            <description><![CDATA[<p>Like Joseph, and like Jesus, we often find ourselves abused and abandoned by our own. But our loving Father sees our brokenness and has destined us for great things in his kingdom so He will be exalted.</p>
-
-<p>Genesis 37:1-4, 12-28</p>]]></description>
-            <pubDate>Sun, 09 Sep 2012 13:55:47 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-09-09.mp3" length="11540029" type="audio/mpeg"/>
-            <guid isPermaLink="false">AA6163F5-6312-4B2E-9706-EA7311D1E3B5</guid>
-            <itunes:author>William Eidson</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>23:48</itunes:duration>
-        </item>
-        <item>
-            <title>Reconciled</title>
-            <description><![CDATA[Many years have passed since Jacob's deception. Safe from Esau's revenge, he has been spending his time in Padam Aram. But now, Jacob is called by God to return to the land of his grandfather Abraham. He will be required to face the sins of his past, but he will not have to face them alone. In Genesis 33, Jacob and Esau meet once again. Jacob's posture is reflective of a changed heart. Esau's response indicates that God provides the power to reconcile.]]></description>
-            <pubDate>Sun, 02 Sep 2012 14:25:10 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-09-02.mp3" length="13281957" type="audio/mpeg"/>
-            <guid isPermaLink="false">3C0D1052-C1F6-4BC4-93FD-CEC8D04E5B1A</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>27:31</itunes:duration>
-        </item>
-        <item>
-            <title>Servanthood (Camp Barnabas Stories)</title>
-            <description><![CDATA[Jesus turned our notions of servant and master upside down. He (clearly the superior) became the servant. He put our needs ahead of his own. In the same way, a group of teenagers from First Baptist traveled to Purdy, MO in July. They served a group of disabled kids for a week; they will share their experience during both services.]]></description>
-            <pubDate>Sun, 26 Aug 2012 13:19:33 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-08-26.mp3" length="16311441" type="audio/mpeg"/>
-            <guid isPermaLink="false">77D857C7-5D6A-4A4B-909A-17B1BB6B020E</guid>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>33:11</itunes:duration>
-        </item>
-        <item>
-            <title>Wrestling with God</title>
-            <description><![CDATA[Jacob is quite the character. He deceived his brother, gaining a birthright and a blessing. Last week, we saw the tables turned; Jacob was on the other end of deception. This week, we explore a game changing event in Jacob's life. Jacob spends a night wrestling with God. He is forever changed. In the same way, we often struggle to relate to God. Genesis 32:22-31]]></description>
-            <pubDate>Sun, 19 Aug 2012 14:47:17 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-08-19.mp3" length="15100457" type="audio/mpeg"/>
-            <guid isPermaLink="false">F6D14942-A4E5-4D18-B5D1-2D142F51603C</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>30:52</itunes:duration>
-        </item>
-        <item>
-            <title>Reaping What You Sow</title>
-            <description><![CDATA[We were left scratching our heads with Jacob's deception of Esau. How could God fulfill his promise for someone like Jacob? In today's text (Genesis 29), we see God forming Jacob into the man he desires them to be. The tables will turn and Jacob will be on the other end of trickery. God continues to work with the unlikely to fulfill his promise.]]></description>
-            <pubDate>Sun, 12 Aug 2012 13:41:54 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-08-12.mp3" length="14184949" type="audio/mpeg"/>
-            <guid isPermaLink="false">6930D0CC-3486-4804-BD12-4738BD93A1CE</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>29:24</itunes:duration>
-        </item>
-        <item>
-            <title>Jacob and Esau: Part 2</title>
-            <description><![CDATA[The story of Jacob and Esau leaves us scratching our heads. How could God use such tactics to establish a lineage for Jesus? As we explore this story of trickery and deceit, we are reminded that God uses our failures for his glory. Join us as we walk through Genesis 27.]]></description>
-            <pubDate>Sun, 05 Aug 2012 14:44:58 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-08-05.mp3" length="16751288" type="audio/mpeg"/>
-            <guid isPermaLink="false">C07C82E2-5BA0-4E6A-BD38-5311D81BBF0F</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>34:38</itunes:duration>
-        </item>
-        <item>
-            <title>Jacob and Esau Part 1</title>
-            <description><![CDATA[As we come to the story of Jacob and Esau, we are reminded that God is faithful to fulfill his promises to Abraham and Isaac. Their faithfulness and attention to God's leading his characteristic in their lives. Jacob's oldest son, however, is not so attentive. He carelessly trades his birthright for a bowl of stew. Genesis 25:19-34]]></description>
-            <pubDate>Sun, 29 Jul 2012 15:07:01 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-07-29.mp3" length="15308556" type="audio/mpeg"/>
-            <guid isPermaLink="false">05D53A8D-E22E-4BB6-ACB9-97F376734012</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>31:38</itunes:duration>
-        </item>
-        <item>
-            <title>A Wife for Isaac</title>
-            <description><![CDATA[While God has provided for Abraham over and over, the question still remains how God will fulfill his promise. Abraham's son, Isaac, does not have a wife; Abraham is growing older. They are still living in tents surrounded by the Canaanite, pagan people. Genesis 24 recounts the story of Isaac and Rebekah. God is faithful and provides in tremendous ways for those who are willing to step out in faith. Genesis 24.]]></description>
-            <pubDate>Sun, 22 Jul 2012 20:58:28 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-07-22.mp3" length="15189753" type="audio/mpeg"/>
-            <guid isPermaLink="false">BF31643A-5F87-4C08-A0A6-A8A4C0A690A3</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>31:25</itunes:duration>
-        </item>
-        <item>
-            <title>The Testing of Abraham</title>
-            <description><![CDATA[<p>God promised to make Abraham into a great nation and to bless all nations through him (Genesis 12).  Despite great odds, God gave Abraham a son, Issac, to make this all possible.  But in Genesis 22, God commands Abraham to do something that could undo everything:</p>
-
-<p>> Then God said, “Take your son, your only son, Isaac, whom you love, and go to the region of Moriah. Sacrifice him there as a burnt offering on one of the mountains I will tell you about.”  (Genesis 22:2 NIV)</p>
-
-<p>Abraham demonstrates for us what true faith looks like–he sets out to obey God’s command, even though it defies logic or reason.  Does faith in God require more than belief and good intentions?</p>
-
-<p>Genesis 22:1-19</p>]]></description>
-            <pubDate>Sun, 15 Jul 2012 16:02:38 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-07-15.mp3" length="15857705" type="audio/mpeg"/>
-            <guid isPermaLink="false">9BDA2634-C2DE-4D28-BFEC-310D92E62ADD</guid>
-            <itunes:author>Matt Headley</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>32:49</itunes:duration>
-        </item>
-        <item>
-            <title>A Faithful God</title>
-            <description><![CDATA[God called Abraham out of the security of his hometown and promised to make a great nation from his descendants. The only problem was that Abraham was old, and his wife was old and barren. Would God be able to provide a son to this old couple? The suggestion was laughable; yet God was faithful to fulfill his promise. Genesis 21:1-8]]></description>
-            <pubDate>Sun, 08 Jul 2012 17:06:10 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-07-08.mp3" length="12073387" type="audio/mpeg"/>
-            <guid isPermaLink="false">D02A5FBB-BD46-4C2E-81FC-FBBFC7C91A5C</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>24:52</itunes:duration>
-        </item>
-        <item>
-            <title>Ishmael</title>
-            <description><![CDATA[David Jones preached on July 1 from Genesis 16.]]></description>
-            <pubDate>Sun, 01 Jul 2012 13:46:10 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-07-01.mp3" length="14018377" type="audio/mpeg"/>
-            <guid isPermaLink="false">8FD42D61-03A1-4630-83D5-3F9FE7FD7182</guid>
-            <itunes:author>David Jones</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>29:00</itunes:duration>
-        </item>
-        <item>
-            <title>Going Not Knowing</title>
-            <description><![CDATA[The story of God involves a continual pattern of people turning away and God pulling them back to himself. As God’s story turns to one man, one family, we consider the difficulty of following God in uncertainty. Abram was challenged with a risky venture; he responds in obedience and faith. Genesis 12:1-8]]></description>
-            <pubDate>Sun, 24 Jun 2012 12:54:15 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-06-24.mp3" length="12851068" type="audio/mpeg"/>
-            <guid isPermaLink="false">C6270049-0A8F-41D3-8889-A13D31C492D4</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>26:28</itunes:duration>
-        </item>
-        <item>
-            <title>A Father's Legacy</title>
-            <description><![CDATA[As we gather on Father's Day, we will share stories from the lives of those in our congregation. We realize that our lineage impacts us. At the same time, we are responsible to impact the generations that follow us. Genesis 11:10-32]]></description>
-            <pubDate>Sun, 17 Jun 2012 20:23:14 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-06-17.mp3" length="15691197" type="audio/mpeg"/>
-            <guid isPermaLink="false">5DB6031E-B2BF-4C2A-A49F-C9765D77300C</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>32:27</itunes:duration>
-        </item>
-        <item>
-            <title>The Tower</title>
-            <description><![CDATA[The Bible is a story of man’s failures and God’s continual rescue. The book of Genesis seems to cycle through this pattern. God provides and man continually turns away. In Genesis 11, we find another story of mankind’s striving for independence. While his efforts may seem industrious, his worship is no longer on God but on the idols of security and pride. Genesis 11:1-8]]></description>
-            <pubDate>Sun, 10 Jun 2012 15:13:58 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-06-10.mp3" length="14568475" type="audio/mpeg"/>
-            <guid isPermaLink="false">6A740A18-487F-4C82-88C8-DEEB4D22CA81</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>30:06</itunes:duration>
-        </item>
-        <item>
-            <title>Noah</title>
-            <description><![CDATA[On June 3 Matt Headley preached about the story of Noah from Genesis 6-8.]]></description>
-            <pubDate>Sun, 03 Jun 2012 14:20:01 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-06-03.mp3" length="15898457" type="audio/mpeg"/>
-            <guid isPermaLink="false">240F3B3E-E44B-455E-B247-889BBA690AE9</guid>
-            <itunes:author>Matt Headley</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>32:57</itunes:duration>
-        </item>
-        <item>
-            <title>A Wicked World</title>
-            <description><![CDATA[The story of Noah is familiar to most of us. We remember the ark, the rainbow and the dove. We remember how God rescued in a world of wickedness. However, we seldom reflect on the wickedness of the world in these days. Genesis 6:1-8 describes the days of Noah. We will consider the pre-flood world and explore implications for our culture today. Genesis 6:1-8]]></description>
-            <pubDate>Sun, 27 May 2012 17:46:37 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-05-27.mp3" length="14118832" type="audio/mpeg"/>
-            <guid isPermaLink="false">679077F0-6BF9-439F-8581-0BD0A2348B6F</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>29:11</itunes:duration>
-        </item>
-        <item>
-            <title>The Fall</title>
-            <description><![CDATA[The story of Adam and Eve is a fascinating account. Living in the glory of Eden, one could not imagine wanting more. Yet they are tricked into thinking that God is holding back. Their story is our story. The Fall describes the nature of evil in our world; the same forces are present in our culture today. Genesis 3:1-24]]></description>
-            <pubDate>Sun, 20 May 2012 13:54:12 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-05-20.mp3" length="15028379" type="audio/mpeg"/>
-            <guid isPermaLink="false">BA7EEFA0-FC89-423F-9BEE-251A5DB00BBC</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>31:04</itunes:duration>
-        </item>
-        <item>
-            <title>Creating Woman</title>
-            <description><![CDATA[On this Mother's Day, we turn to Genesis 2; Eve is created. We learn from this text the purpose for woman and God's design for sexuality. As we enter into this text, may we celebrate the women in our lives. Genesis 2:18–25]]></description>
-            <pubDate>Sun, 13 May 2012 13:14:38 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-05-13.mp3" length="11437073" type="audio/mpeg"/>
-            <guid isPermaLink="false">7BC57A63-DB48-4D8B-89FB-2F15A4D60F9D</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>23:35</itunes:duration>
-        </item>
-        <item>
-            <title>Longing for Eden</title>
-            <description><![CDATA[After God created the world, he crafted a place for the first humans. It was a beautiful place providing all that they needed. As we explore this environment, may we yearn to return to this place. The story of God promises that we will one day return to a similar place as God will restore all creation. Genesis 2:4–17]]></description>
-            <pubDate>Sun, 06 May 2012 14:42:27 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-05-06.mp3" length="12223876" type="audio/mpeg"/>
-            <guid isPermaLink="false">0DE96291-288D-4179-9376-5EA8C1D1C1DC</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>25:12</itunes:duration>
-        </item>
-        <item>
-            <title>What Jesus Thinks of His Kingdom in Relationship to This World</title>
-            <description><![CDATA[<p>Matthew 13:1-9; 24-30</p>
-
-<p>Randy Gruendyke, campus pastor at Taylor University, preached on April 29. Randy has preached at first First Baptist Church Muncie several times. We welcome Randy back on this date.</p>]]></description>
-            <pubDate>Sun, 29 Apr 2012 16:01:41 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-04-29.mp3" length="12828314" type="audio/mpeg"/>
-            <guid isPermaLink="false">1428CB8E-CD96-47D9-9C35-B2A7CD901277</guid>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>26:36</itunes:duration>
-        </item>
-        <item>
-            <title>The 7th Day</title>
-            <description><![CDATA[We discussed the first 6 days of creation in one sermon. We will dedicate an entire sermon to the seventh day of creation. What happens on this day is incredibly important and extremely relevant in our culture. Rest. God takes a break from his work and we are called to model God's action. The story of creation gives us a pattern in life that few enact in today's world. Genesis 2:1–4]]></description>
-            <pubDate>Sun, 22 Apr 2012 14:55:42 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-04-22.mp3" length="12631521" type="audio/mpeg"/>
-            <guid isPermaLink="false">483E320F-6E5B-41D7-B7AE-14F707ED95CD</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>26:01</itunes:duration>
-        </item>
-        <item>
-            <title>In the Beginning</title>
-            <description><![CDATA[In the beginning . . . How did it all begin? This question is often asked by small children. We long to know the origin of the world in which we live. Scientists have attempted to explain our beginnings with theories of origin. Pagan religions have developed stories throughout the years that explain how our world came to be. We will engage Genesis 1 together to discover what the Bible says about how it all began. Genesis 1:1-25]]></description>
-            <pubDate>Sun, 15 Apr 2012 13:43:23 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-04-15.mp3" length="14484059" type="audio/mpeg"/>
-            <guid isPermaLink="false">6BD092FE-DE72-4669-9FBD-733D81392B98</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>29:57</itunes:duration>
-        </item>
-        <item>
-            <title>God's Doorway</title>
-            <description><![CDATA[In our final sermon of the Psalms series, we interpret Psalm 118 in light of the resurrection of Jesus. The psalmist proclaims that God has accomplished a mighty work that opens gates. No one anticipated God using a perceived rejected stone as the foundation for salvation history. Yet this is how it all worked out. This Easter, we explore words written nearly 1000 years before the resurrection. Still these words articulately describe what happened on Easter morning.]]></description>
-            <pubDate>Sun, 08 Apr 2012 16:13:19 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-04-08.mp3" length="11853828" type="audio/mpeg"/>
-            <guid isPermaLink="false">C0D6463D-F874-40F5-90B7-1568D694064F</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>24:32</itunes:duration>
-        </item>
-        <item>
-            <title>In the Hand of God</title>
-            <description><![CDATA[As we enter Holy Week, we explore once again a psalm that Jesus quoted on the cross. Psalm 31 is a statement of trust in God through a dire situation. Can we, like David and Jesus, offer our lives to God? Can we place our times in His hands? Psalm 31:9-16]]></description>
-            <pubDate>Sun, 01 Apr 2012 22:54:39 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-04-01.mp3" length="13419918" type="audio/mpeg"/>
-            <guid isPermaLink="false">945F223B-74A0-4F02-80C6-AB31B97D7255</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>27:46</itunes:duration>
-        </item>
-        <item>
-            <title>Repentance</title>
-            <description><![CDATA[The story of David and Bathsheba would qualify for a TV mini-series or blockbuster movie. We have all the elements; adultery, sex, misuse of power, lying, and murder litter the story. But the Bible records more than just the historical account. We have insight into David's heart during this period. Psalm 51 records his response to God after being confronted by Nathan. As we explore this text, we find characteristics of true repentance and true restoration. Psalm 51:1-12]]></description>
-            <pubDate>Sun, 25 Mar 2012 14:40:05 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-03-25.mp3" length="14397764" type="audio/mpeg"/>
-            <guid isPermaLink="false">41C1B451-1600-4626-8929-33B13CF31E6D</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>29:45</itunes:duration>
-        </item>
-        <item>
-            <title>A Thankful Heart</title>
-            <description><![CDATA[The psalmist in chapter 107 instructs the reader to thank God for his intense love and marvelous deeds. Too often, we go about our days neglecting to give God credit for who He is and what he has done. As we consider this text, we are challenged to live lives with a thankful heart. Psalm 107:1-3, 17-22]]></description>
-            <pubDate>Sun, 18 Mar 2012 14:54:31 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-03-18.mp3" length="13673053" type="audio/mpeg"/>
-            <guid isPermaLink="false">39F80642-D83F-4719-991A-4BDFBD1AA19D</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>28:15</itunes:duration>
-        </item>
-        <item>
-            <title>The Wonder of the Lord</title>
-            <description><![CDATA[As we gather for worship on March 11, we are joined by musicians from Taylor University. As we engage Psalm 19, we are reminded of the power of Creation to reveal God, the beauty of God’s Word, and the intimate interaction that the grand Creator has with you and me.]]></description>
-            <pubDate>Sun, 11 Mar 2012 14:19:30 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-03-11.mp3" length="14722329" type="audio/mpeg"/>
-            <guid isPermaLink="false">FAE4B300-5776-4FB4-ACEA-EA2FBA1F0B67</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>30:27</itunes:duration>
-        </item>
-        <item>
-            <title>Remember and Turn</title>
-            <description><![CDATA[In Psalm 22, the worshiper feels that God has abandoned him. However, by the time we get to verse 23, we are instructed to offer God praise, honor, reverence. Why should we do this? What basis do we have to praise God? As we interpret this psalm, we do so through the lens of the Cross. The psalmist predicts that nations will remember and turn to God. This has happened. We are prompted to continually remember and turn as we face difficult times in our lives. Psalm 22:23-31]]></description>
-            <pubDate>Sun, 04 Mar 2012 14:31:47 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-03-04.mp3" length="15120401" type="audio/mpeg"/>
-            <guid isPermaLink="false">FD3E9B7E-001D-41B2-B9C6-A868266C5EE2</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>31:21</itunes:duration>
-        </item>
-        <item>
-            <title>Your Ways, Your Paths</title>
-            <description><![CDATA[<p>For thousands of years, God followers have confessed that God is worthy of their trust. As we explore these ancient words, we are challenged to do the same. As we survey Psalm 25, we are assured that God is faithful. "No one whose hope is in you will ever be put to shame" (Ps. 25:3)</p>
-
-<p>Psalm 25:1-10</p>]]></description>
-            <pubDate>Sun, 26 Feb 2012 14:20:09 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-02-26.mp3" length="16929880" type="audio/mpeg"/>
-            <guid isPermaLink="false">DFEEB502-52B6-4E67-AC79-7C61C71E6808</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>35:08</itunes:duration>
-        </item>
-        <item>
-            <title>Impact</title>
-            <description><![CDATA[In our final sermon in our mission series, we are reminded that the ultimate goal of our existence is to impact our community with the love of Christ. We will explore Jesus's words in Matthew 5; we are to be salt and light in our world.]]></description>
-            <pubDate>Sun, 19 Feb 2012 15:00:46 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-02-19.mp3" length="20143344" type="audio/mpeg"/>
-            <guid isPermaLink="false">B72C7E90-9822-480C-B067-31EC41955153</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>41:49</itunes:duration>
-        </item>
-        <item>
-            <title>Steward</title>
-            <description><![CDATA[In this third sermon in our mission statement series, we consider the task of empowering one another in the faith. First Baptist Church Muncie exists to equip this body of believers to walk with Jesus. We do this by engaging Scripture, sharing our stories, praying together, prompting each other in spiritual disciplines, and discerning and using our spiritual gifts. Luke 16:1-13]]></description>
-            <pubDate>Sun, 12 Feb 2012 14:43:41 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-02-12.mp3" length="18915788" type="audio/mpeg"/>
-            <guid isPermaLink="false">62F4F6E5-9979-4480-A2EF-3B69397882D9</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>39:15</itunes:duration>
-        </item>
-        <item>
-            <title>Empower</title>
-            <description><![CDATA[In this third sermon in our mission statement series, we consider the task of empowering one another in the faith. First Baptist Church Muncie exists to equip this body of believers to walk with Jesus. We do this by engaging Scripture, sharing our stories, praying together, prompting each other in spiritual disciplines, and discerning and using our spiritual gifts.]]></description>
-            <pubDate>Sun, 05 Feb 2012 14:42:11 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-02-05.mp3" length="16889708" type="audio/mpeg"/>
-            <guid isPermaLink="false">AC2E373A-FF29-44CC-A36A-BD7C139D3112</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>35:01</itunes:duration>
-        </item>
-        <item>
-            <title>Care</title>
-            <description><![CDATA[As we come to the second sermon in our mission statement series, we explore our calling to care for one another. We open the letter of 1 John; the elder John speaks from tremendous experience to the Christians of the first century. He calls them to the remarkable task of caring, loving one another. As we love one another we complete the work of Christ and reveal to the world God's love for them. 1 John 4]]></description>
-            <pubDate>Sun, 29 Jan 2012 20:42:09 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-01-29.mp3" length="15444844" type="audio/mpeg"/>
-            <guid isPermaLink="false">6701FC0C-2A8C-436C-8D41-44AD80B64244</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>32:00</itunes:duration>
-        </item>
-        <item>
-            <title>Gather</title>
-            <description><![CDATA[As we begin a five-week series on our mission as a church, we consider the importance of gathering. A central part of our mission is our gathering together. But, our gathering is not just a social get-together. We are called together physically, to unite our hearts and minds, and to remind ourselves of who we are and who we are called to be as the people of God.]]></description>
-            <pubDate>Sun, 22 Jan 2012 16:44:54 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-01-22.mp3" length="14976940" type="audio/mpeg"/>
-            <guid isPermaLink="false">1E1FE4B2-901C-4E68-9E9B-9590538A6122</guid>
-            <itunes:author>Matt Headley</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>31:01</itunes:duration>
-        </item>
-        <item>
-            <title>Who is in Control?</title>
-            <pubDate>Sun, 15 Jan 2012 14:51:36 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-01-15.mp3" length="13887731" type="audio/mpeg"/>
-            <guid isPermaLink="false">670395B8-E78A-400C-8740-01734749AB7D</guid>
-            <itunes:author>Doug Gregg</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>28:55</itunes:duration>
-        </item>
-        <item>
-            <title>We Three Kings</title>
-            <description><![CDATA[<p>The song Twelve Days of Christmas remind us that Christmas does not happen on one day. In fact, it actually begins on Christmas Day and goes through the evening of January 5. January 6 is the celebration of Epiphany. This celebration marks the events of Matthew 2, the coming of the three kings (wise men). We will explore the story of the wise men, separating myth from reality. The Magi offer insight into Jesus' life and purpose.</p>
-
-<p>Credit to Dr. Charles Cosgrove for research</p>]]></description>
-            <pubDate>Sun, 08 Jan 2012 13:59:12 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2012-01-08.mp3" length="11540857" type="audio/mpeg"/>
-            <guid isPermaLink="false">2BF3CD2C-7BC0-48A6-973F-747C65194F68</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>23:55</itunes:duration>
-        </item>
-        <item>
-            <title>Christmas Day Worship</title>
-            <description><![CDATA[As we gather on Christmas day, we contemplate the story of the Nativity. Jesus' birth was not a snow filled, hot chocolate laced occasion. It was messy, dirty, smelly. As we celebrate Christmas, we are reminded of the reality of Jesus' coming. The circumstances of Jesus' birth communicate God's intention of entering our world, he purposefully came in this manner. Join us on Christmas morning as we reflect on the Nativity. Luke 2:1-14, (15-20)]]></description>
-            <pubDate>Sun, 25 Dec 2011 12:50:15 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-12-25.mp3" length="13701238" type="audio/mpeg"/>
-            <guid isPermaLink="false">37CCC460-582A-42D0-821D-375160CFCE15</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>28:17</itunes:duration>
-        </item>
-        <item>
-            <title>Christmas Eve Worship</title>
-            <description><![CDATA[As we come to the final worship celebration of the season of Advent, we light the white Christ candle. We celebrate the fact that God broke into darkness; He came as light into the world to redeem us. This shattering of darkness took the form of a child, a son. As we gather on Christmas Eve, we celebrate this child is the one who fulfills the words of Isaiah, the promises of God from ages past. Isaiah 9:2-7]]></description>
-            <pubDate>Sun, 25 Dec 2011 12:45:25 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-12-24.mp3" length="7507383" type="audio/mpeg"/>
-            <guid isPermaLink="false">D4A113B1-E95F-4074-A52F-7569BC90AC27</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>15:26</itunes:duration>
-        </item>
-        <item>
-            <title>God's Everlasting Covenant</title>
-            <description><![CDATA[We gather on December 18 to celebrate the coming of Christ through music. In this combined service, the choir will lead us in worship through the Christmas cantata entitled Heaven on Earth. We will also explore Isaiah 61:8-11. The prophet speaks of the coming Messiah as one who will seal the covenant of God with His people. This covenant is rooted in the character of God and provides a permanence that is beyond our performance. Isaiah 61:8-11]]></description>
-            <pubDate>Sun, 18 Dec 2011 12:44:13 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-12-18.mp3" length="9346927" type="audio/mpeg"/>
-            <guid isPermaLink="false">C04F2C57-F86E-4A62-A23E-F6021A8B566C</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>19:13</itunes:duration>
-        </item>
-        <item>
-            <title>Messiah is Coming</title>
-            <description><![CDATA[When Jesus addressed those in his hometown for the first time, he quoted Isaiah 61. He told them that he was the fulfillment of these words. What do Isaiah's words mean? How do they describe the purpose of the Messiah? Join us as we explore 7 purposes of the Messiah. In the season of Advent, we long for God to show up. Isaiah reminds us that God gives us exactly what we need at just the right time. Isaiah 61:1-4]]></description>
-            <pubDate>Sun, 11 Dec 2011 13:40:18 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-12-11.mp3" length="15369210" type="audio/mpeg"/>
-            <guid isPermaLink="false">2A961BD8-FDAC-4522-8E08-7842E09C21FC</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>31:48</itunes:duration>
-        </item>
-        <item>
-            <title>The Promise</title>
-            <description><![CDATA[In this season of Advent, we celebrate the coming of Jesus. In Isaiah 40, the prophet reminds the people that God deeply desires to rescue them. The prophet declares that God is making a highway to rescue us, we are incapable of our own rescue (we are grass), and God's promise is good news for us. Isaiah 40:1-11]]></description>
-            <pubDate>Sun, 04 Dec 2011 15:12:56 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-12-04.mp3" length="11873628" type="audio/mpeg"/>
-            <guid isPermaLink="false">4A56DAE6-4603-4BEA-BA53-BDCB62383423</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>24:30</itunes:duration>
-        </item>
-        <item>
-            <title>The Plea of the Prophet</title>
-            <description><![CDATA[Advent is the season of waiting, yearning for God to show up. The Old Testament prophets lived in the tension of two truths. God is able to deliver His people. Yet, His people are in terrible shape. Are they beyond repair? Why would God respond to a people so far gone? It is in this tension that Isaiah calls for God to respond. In Isaiah 64, Isaiah pleads for God to do the impossible, to redeem His people. Isaiah 64:1-9]]></description>
-            <pubDate>Sun, 27 Nov 2011 14:06:29 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-11-27.mp3" length="11940620" type="audio/mpeg"/>
-            <guid isPermaLink="false">CB483B3E-E4F8-4138-802C-84D2BBC0CFB7</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>24:42</itunes:duration>
-        </item>
-        <item>
-            <title>The Bible and Poverty: NT</title>
-            <description><![CDATA[As we continue our discussion on what the Bible says about poverty, we turn to the New Testament. What does the Bible say about poverty in the Gospels? in Paul's letters? in James? in Revelation? In this second part of a two-part series, we turn to the New Testament to reveal God's heart for those living in need.]]></description>
-            <pubDate>Sun, 20 Nov 2011 14:20:36 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-11-20.mp3" length="14034720" type="audio/mpeg"/>
-            <guid isPermaLink="false">65F833AB-DCCF-48E9-A0E2-B3B0CAC2466F</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>28:57</itunes:duration>
-        </item>
-        <item>
-            <title>The Bible and Poverty: OT</title>
-            <description><![CDATA[We have been talking a lot about those living in poverty in our community. But what does the Bible say about the poor? How are we to respond to those who are living in poverty in our community? In this first week, we will discuss what the Bible has to say about poverty in the Old Testament. The societal practices that God established in the Old Testament reveal the heart of God toward those who are in need.]]></description>
-            <pubDate>Sun, 13 Nov 2011 15:33:28 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-11-13.mp3" length="19488347" type="audio/mpeg"/>
-            <guid isPermaLink="false">AE4605E4-F3AD-4F05-9423-338B038D87F3</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>40:19</itunes:duration>
-        </item>
-        <item>
-            <title>Closing Corinthians</title>
-            <description><![CDATA[As we come to the final chapter in 1 Corinthians, we encounter several practical instructions for the church at Corinth. While the words may seem immaterial for us, they center us in important truths. In the final verses, the scribe hands the pen to Paul. We consider his words as we gather around the Lord's table. 1 Corinthians 16:1–24]]></description>
-            <pubDate>Sun, 06 Nov 2011 16:38:04 -0500</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-11-06.mp3" length="14182235" type="audio/mpeg"/>
-            <guid isPermaLink="false">A6B200D7-8F09-4BDD-B725-8E8085DE9377</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>29:22</itunes:duration>
-        </item>
-        <item>
-            <title>If . . . </title>
-            <description><![CDATA[Have you ever watched a movie with an alternate reality? The plot usually includes the main character experiencing an alternate reality through a dream or vision. The encounter often provides new significance for life. In today's text, Paul ventures into an alternate reality where Jesus did not rise from the dead. The ramifications are huge. We will venture with him into this world with no risen Christ. Let me warn you, it is not a pretty picture. 1 Corinthians 15:12-20]]></description>
-            <pubDate>Sun, 30 Oct 2011 13:25:12 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-10-30.mp3" length="11657188" type="audio/mpeg"/>
-            <guid isPermaLink="false">453151B9-35E3-4A22-A4C5-A2B11947B79E</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>24:09</itunes:duration>
-        </item>
-        <item>
-            <title>Building 1 Another</title>
-            <description><![CDATA[Like small children watching their siblings open Christmas presents, the church at Corinth is jealous, envying, and competing. Their gatherings have turned into exhibitions of gifts. Paul challenges them to a greater goal, the building up of one another. He lifts this ideal to the center of their understanding of spiritual gifts. 1 Corinthians 14:1–40]]></description>
-            <pubDate>Sun, 23 Oct 2011 16:16:20 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-10-23.mp3" length="15511759" type="audio/mpeg"/>
-            <guid isPermaLink="false">AE83EC27-BF6F-4D25-8727-A0594F44BB41</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>32:09</itunes:duration>
-        </item>
-        <item>
-            <title>The Main Thing</title>
-            <description><![CDATA[Love is an overused word in our culture today. We use it to describe everything from a particular food, to a movie, to our spouse or children. We are confused about the nature of true love. Paul describes love as the central ingredient for the church of Christ. Without it, we are nothing. With it, we are able to produce eternal results. What does true love look like? How can we live as a community of love? 1 Corinthians 13]]></description>
-            <pubDate>Sun, 16 Oct 2011 14:31:05 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-10-16.mp3" length="16538770" type="audio/mpeg"/>
-            <guid isPermaLink="false">B96DA615-BB73-4EB5-BB62-4654DEBF31BA</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>34:18</itunes:duration>
-        </item>
-        <item>
-            <title>Life Together</title>
-            <description><![CDATA[How do we join together as a congregation when we come from such varied backgrounds, from different generations and with different priorities, political opinions and life circumstances?  In 1 Corinthians 12, Paul offers us guidance about how to celebrate our differences, affirm each person's gifts and come together to be the Body of Christ.]]></description>
-            <pubDate>Sun, 09 Oct 2011 12:15:02 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-10-09.mp3" length="17824751" type="audio/mpeg"/>
-            <guid isPermaLink="false">BCFA01AD-11BB-4090-AB4B-14A5A25B05FD</guid>
-            <itunes:author>Betsy Whaley</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>36:55</itunes:duration>
-        </item>
-        <item>
-            <title>RE Member</title>
-            <description><![CDATA[Why do we gather for worship? Too often we come for the wrong reasons. At times, we mindlessly go through the motions; we sing, sit, stand, daydream. It is about mechanical routine. Other times, we actively engage worship for our own indulgence. We think that it is about us; we demand an emotional buzz or high. Paul cautions the church at Corinth; their gathering is to remember the work of Christ on the cross. Their dysfunction is serious; Paul calls them back to the central tenet of their gathering. 1 Corinthians 11:17-34]]></description>
-            <pubDate>Sun, 02 Oct 2011 14:25:46 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-10-02.mp3" length="14769079" type="audio/mpeg"/>
-            <guid isPermaLink="false">15565567-3298-4483-B288-AEB952F4FE38</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>30:37</itunes:duration>
-        </item>
-        <item>
-            <title>Living Upside Down</title>
-            <description><![CDATA[Paul uses a series of metaphors to instruct the church at Corinth. He describes what it means to live in the age of Jesus. In many ways, it is a complete reversal of the values of this world. As we explore Paul's words, we find this reversal particularly pertinent in our culture today. 1 Corinthians 3:1–4:21]]></description>
-            <pubDate>Sun, 07 Aug 2011 11:21:50 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-08-07.mp3" length="13090789" type="audio/mpeg"/>
-            <guid isPermaLink="false">1938E9EE-1963-40D2-B96F-CD1AC5E0FE40</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>27:02</itunes:duration>
-        </item>
-        <item>
-            <title>Sexual Brokenness</title>
-            <description><![CDATA[As we explore Paul's words regarding sexuality, we struggle to articulate what this means. We, the church, are often seen in a "holier than you" posture of judgment and condemnation. Or we jump to the other extreme of easygoing tolerance. How might Paul's letter to the similar culture of Corinth help us understand God's design for our sexuality. 1 Corinthians 5:1–13; 6:9–20]]></description>
-            <pubDate>Sun, 14 Aug 2011 11:21:04 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-08-14.mp3" length="16092514" type="audio/mpeg"/>
-            <guid isPermaLink="false">1B4EC9D8-A81E-4A65-BB2B-4115AA6D2C67</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>33:21</itunes:duration>
-        </item>
-        <item>
-            <title>Clinging to Rights</title>
-            <description><![CDATA[Paul is astonished at the way that Christians are taking other Christians to court. They have forgotten their true identity and have turned to corrupt officials for guidance. Paul suggests relinquishing their rights in order to save face with unbelievers. 1 Corinthians 6:1–8]]></description>
-            <pubDate>Sun, 21 Aug 2011 11:20:20 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-08-21.mp3" length="14603636" type="audio/mpeg"/>
-            <guid isPermaLink="false">103760B4-A51B-47CF-9D7F-C26404AB0151</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>30:09</itunes:duration>
-        </item>
-        <item>
-            <title>Marriage and Divorce</title>
-            <description><![CDATA[Christians often develop hard lines regarding marriage and divorce. The irony is that the lines are all over the place. So how does Paul respond to the church at Corinth regarding their questions about marriage and divorce? What instructions does he give them and how do we apply his instructions to our world in 2011? 1 Corinthians 7:1–40]]></description>
-            <pubDate>Sun, 28 Aug 2011 22:11:33 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-08-28.mp3" length="15225841" type="audio/mpeg"/>
-            <guid isPermaLink="false">B6711C9E-71BC-407D-B6F4-CEC943C835F2</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>31:30</itunes:duration>
-        </item>
-        <item>
-            <title>Hospitality</title>
-            <description><![CDATA[What does it mean to show hospitality? What biblical examples do we have to follow? Is it simply good etiquette, or something more? Matt will preach on why and how Christians are to show hospitality.]]></description>
-            <pubDate>Sun, 04 Sep 2011 22:08:49 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-09-04.mp3" length="14213695" type="audio/mpeg"/>
-            <guid isPermaLink="false">A980514C-7AF8-415A-B2ED-1F08942EAEA1</guid>
-            <itunes:author>Matt Headley</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>29:18</itunes:duration>
-        </item>
-        <item>
-            <title>All for One</title>
-            <description><![CDATA[We are often told to “look out for number one”, if we want to win in this life. Taking care of ourselves first is an acceptable norm in our culture. Yet, Kingdom living requires the opposite approach. As Paul addresses the particular issue of eating meat sacrificed to idols, he teaches the timeless principle of considering others as we develop our convictions. 1 Corinthians 8:1–13]]></description>
-            <pubDate>Sun, 11 Sep 2011 22:02:58 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-09-11.mp3" length="14711906" type="audio/mpeg"/>
-            <guid isPermaLink="false">CCFA2380-A2CE-4F53-9383-06837161FF7B</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>30:27</itunes:duration>
-        </item>
-        <item>
-            <title>Whatever It Takes</title>
-            <description><![CDATA[As Paul’s leadership is questioned by the Corinthians, his words speak of submission, a willing forgoing of his rights. The reason: the gospel. Paul goes to great lengths in order to bring this good news to his world. In fact, he views this endeavor as a race; he is running to win. We are all contenders in this journey. Will we have the same determination to finish strong? 1 Corinthians 9:1–27]]></description>
-            <pubDate>Sun, 18 Sep 2011 22:02:07 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-09-18.mp3" length="12694713" type="audio/mpeg"/>
-            <guid isPermaLink="false">6BA2EB0D-A040-4FBE-A31C-83AB30C2A02C</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>26:10</itunes:duration>
-        </item>
-        <item>
-            <title>Fighting Temptation</title>
-            <description><![CDATA[Paul reminds the Corinthians that life did not turn out good for their spiritual forefathers. While God redeemed them in incredible ways, temptation pulled them into dangerous places. Their lives warn us that going down the same path will lead to equally destructive ends. However, Paul assures us that God will give us all we need to escape this fate. 1 Corinthians 10:1–13]]></description>
-            <pubDate>Sun, 25 Sep 2011 21:01:42 -0400</pubDate>
-            <enclosure url="http://fbcmuncie.org/audio/2011-09-25.mp3" length="13796133" type="audio/mpeg"/>
-            <guid isPermaLink="false">D12C9E9F-3B68-48D8-B1E3-016FE901F9BF</guid>
-            <itunes:author>Wade Allen</itunes:author>
-            <itunes:summary>Paul reminds the Corinthians that life did not turn out good for their spiritual forefathers. While God redeemed them in incredible ways, temptation pulled them into dangerous places. Their lives warn us that going down the same path will lead to equally destructive ends. However, Paul assures us that God will give us all we need to escape this fate. 1 Corinthians 10:1–13</itunes:summary>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>28:33</itunes:duration>
-        </item>
+	</item>
+	
+	<item>
+        <title>Expectant</title>
+        <description>&lt;p&gt;As we approach the season of Advent, we are reminded that it is a season of urgency and expectancy. Jesus called his disciples to this posture of urgency and expectancy as he told them of his second coming. May we learn to live in the same posture as we look forward to Christ&amp;rsquo;s return.&lt;/p&gt;
+</description>
+        <pubDate>2012-12-02T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-12-02.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Expectant</title>
+        <description>&lt;p&gt;Katy Kessler, a student at Ball State, will be sharing about her experience this summer. She is an occupational therapy major who worked in an orphanage in China this summer. She will be sharing her story in worship.&lt;/p&gt;
+</description>
+        <pubDate>2012-11-25T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-11-25.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Expectant</title>
+        <description>&lt;p&gt;On November 18, we will worship in a combined worship service at 1045 a.m. The children will share a musical about the story of Jonah. We will also reflect the sermon on the call of God in our own lives. Jonah was more concerned about his own comfort, less concerned about following God’s mission in the world. We are challenged by his story to discard our own plans for God’s mission.&lt;/p&gt;
+</description>
+        <pubDate>2012-11-18T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-11-18.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Expectant</title>
+        <description>&lt;p&gt;In the closing scenes of Genesis, we are reminded that God’s story is not over. As Jacob and Joseph pass from the scene, the promise of deliverance looms. As the curtain closes in Genesis, Joseph is embalmed and lies in an Egyptian coffin. Yet the story of God continues. As we gather, we are reminded of our connection with this story. We are reminded that God’s grace comes to fruition through the work of Jesus. As we connect and live in story of God, we are transformed.&lt;/p&gt;
+</description>
+        <pubDate>2012-11-11T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-11-11.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Expectant</title>
+        <description>&lt;p&gt;In Genesis 49, Jacob calls his sons to his deathbed for a blessing. He speaks powerful words that shape generations to come. His sons, forming the twelve tribes of Israel, will prepare the way for God to enter the world through Jesus. As the book of Genesis nears its end, we are reminded that the story continues as the people of God are now formed.&lt;/p&gt;
+</description>
+        <pubDate>2012-11-04T00:00:00-04:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-11-04.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Expectant</title>
+        <description>&lt;p&gt;As we near the conclusion of the book of Genesis, Jacob is near death. Joseph and his sons pay a visit to his ailing father. Jacob’s actions of adopting and blessing his grandsons remind us that God often moves in surprising ways. As we learn to follow God, we discover that He often acts and moves in ways that we would not plan. Genesis 48&lt;/p&gt;
+</description>
+        <pubDate>2012-10-28T00:00:00-04:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-10-28.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
     </channel>
 </rss>
