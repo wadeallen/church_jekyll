@@ -4,24 +4,23 @@
         <title>First Baptist Church Muncie Indiana</title>
 	<link type="application/atom+xml" href="http://fbcmuncie.org/feed/" rel="self"/>
  	<link type="text" href="http://fbcmuncie.org" rel="alternate"/>
-	<updated>2012-12-13T15:57:14-05:00</updated>
+	<updated>2012-12-19T11:45:37-05:00</updated>
 	<id>http://fbcmuncie.org</id>
 	<author>
 		<name>First Baptist Church Muncie</name>
 	</author>
 	<rights>Copyright (c) 2013, First Baptist Church Muncie; all rights reserved.</rights>
-    <image>
-        <url>http://fbcmuncie.org/images/fbc_logo-144x119.png</url>
-        <title>First Baptist Church Muncie Indiana</title>
-        <link>http://fbcmuncie.org</link>
-        <width>144</width>
-        <height>119</height>
-    </image>
+	<image>
+		<url>http://audio.fbcmuncie.org/fbc_podcast_logo.png</url>
+		<title>First Baptist Church Muncie</title>
+		<link>http://fbcmuncie.org</link>
+		<description>Sermons from First Baptist Church Muncie Indiana</description>
+	</image>
     <itunes:author>Wade Allen</itunes:author>
     <itunes:subtitle>Sermons from First Baptist Church in Muncie, Indiana</itunes:subtitle>
     <itunes:summary>We are: A Spirit-led people gathered to care for and empower each other by stewarding God's resources to impact our community for Christ. In this podcast, you will hear sermons from First Baptist Church in Muncie, Indiana.</itunes:summary>
     <itunes:keywords>Muncie, First Baptist Church, Wade Allen, sermons</itunes:keywords>
-    <itunes:image href="http://fbcmuncie.org/images/fbclogo.png"/>
+    <itunes:image href="http://audio.fbcmuncie.org/fbc_podcast_logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
         <itunes:name>Wade Allen</itunes:name>
@@ -34,6 +33,15 @@
 	
 	
 	<item>
+        <title>Re Focus</title>
+        <description>&lt;p&gt;Our lives are often overwhelmed by the anxiety of our current circumstances. In this Advent season, we are challenged to refocus on the greater realities. As Paul instructed the Philippians church, we must place our anxieties in God’s care. As we are able to do this, we will experience a piece that is beyond understanding. Philippians 4:4-7&lt;/p&gt;
+</description>
+        <pubDate>2012-12-16T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-12-16.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
         <title>Expectant</title>
         <description>&lt;p&gt; Paul&amp;rsquo;s letter to the Philippians allows us to peer into his heart. He is confident that God will complete the work He began in the Philippians church. He anticipates that this work one day come to an end as Jesus returns. His prayer for the Philippians is that they would also live in this anticipation of Jesus&amp;rsquo;s return. As you and I explore this text, we are challenged to live in a posture of expectancy and urgency. God will one day return; this truth should drive us as we live out the gospel in our world. Philippians 1:3-11&lt;/p&gt;
 </description>
@@ -43,7 +51,7 @@
 	</item>
 	
 	<item>
-        <title>Expectant</title>
+        <title>His Return</title>
         <description>&lt;p&gt;As we approach the season of Advent, we are reminded that it is a season of urgency and expectancy. Jesus called his disciples to this posture of urgency and expectancy as he told them of his second coming. May we learn to live in the same posture as we look forward to Christ&amp;rsquo;s return.&lt;/p&gt;
 </description>
         <pubDate>2012-12-02T00:00:00-05:00</pubDate>
@@ -52,7 +60,7 @@
 	</item>
 	
 	<item>
-        <title>Expectant</title>
+        <title>Orphans in China</title>
         <description>&lt;p&gt;Katy Kessler, a student at Ball State, will be sharing about her experience this summer. She is an occupational therapy major who worked in an orphanage in China this summer. She will be sharing her story in worship.&lt;/p&gt;
 </description>
         <pubDate>2012-11-25T00:00:00-05:00</pubDate>
@@ -61,7 +69,7 @@
 	</item>
 	
 	<item>
-        <title>Expectant</title>
+        <title>The Story of Jonah</title>
         <description>&lt;p&gt;On November 18, we will worship in a combined worship service at 1045 a.m. The children will share a musical about the story of Jonah. We will also reflect the sermon on the call of God in our own lives. Jonah was more concerned about his own comfort, less concerned about following God’s mission in the world. We are challenged by his story to discard our own plans for God’s mission.&lt;/p&gt;
 </description>
         <pubDate>2012-11-18T00:00:00-05:00</pubDate>
@@ -70,7 +78,7 @@
 	</item>
 	
 	<item>
-        <title>Expectant</title>
+        <title>A Closing Scene</title>
         <description>&lt;p&gt;In the closing scenes of Genesis, we are reminded that God’s story is not over. As Jacob and Joseph pass from the scene, the promise of deliverance looms. As the curtain closes in Genesis, Joseph is embalmed and lies in an Egyptian coffin. Yet the story of God continues. As we gather, we are reminded of our connection with this story. We are reminded that God’s grace comes to fruition through the work of Jesus. As we connect and live in story of God, we are transformed.&lt;/p&gt;
 </description>
         <pubDate>2012-11-11T00:00:00-05:00</pubDate>
@@ -79,7 +87,7 @@
 	</item>
 	
 	<item>
-        <title>Expectant</title>
+        <title>The Destiny of Jacob's Sons</title>
         <description>&lt;p&gt;In Genesis 49, Jacob calls his sons to his deathbed for a blessing. He speaks powerful words that shape generations to come. His sons, forming the twelve tribes of Israel, will prepare the way for God to enter the world through Jesus. As the book of Genesis nears its end, we are reminded that the story continues as the people of God are now formed.&lt;/p&gt;
 </description>
         <pubDate>2012-11-04T00:00:00-04:00</pubDate>
@@ -88,7 +96,7 @@
 	</item>
 	
 	<item>
-        <title>Expectant</title>
+        <title>Surprise Blessing</title>
         <description>&lt;p&gt;As we near the conclusion of the book of Genesis, Jacob is near death. Joseph and his sons pay a visit to his ailing father. Jacob’s actions of adopting and blessing his grandsons remind us that God often moves in surprising ways. As we learn to follow God, we discover that He often acts and moves in ways that we would not plan. Genesis 48&lt;/p&gt;
 </description>
         <pubDate>2012-10-28T00:00:00-04:00</pubDate>

@@ -13,18 +13,17 @@ layout: nil
 		<name>First Baptist Church Muncie</name>
 	</author>
 	<rights>Copyright (c) 2013, First Baptist Church Muncie; all rights reserved.</rights>
-    <image>
-        <url>http://fbcmuncie.org/images/fbc_logo-144x119.png</url>
-        <title>First Baptist Church Muncie Indiana</title>
-        <link>http://fbcmuncie.org</link>
-        <width>144</width>
-        <height>119</height>
-    </image>
+	<image>
+		<url>http://audio.fbcmuncie.org/fbc_podcast_logo.png</url>
+		<title>First Baptist Church Muncie</title>
+		<link>http://fbcmuncie.org</link>
+		<description>Sermons from First Baptist Church Muncie Indiana</description>
+	</image>
     <itunes:author>Wade Allen</itunes:author>
     <itunes:subtitle>Sermons from First Baptist Church in Muncie, Indiana</itunes:subtitle>
     <itunes:summary>We are: A Spirit-led people gathered to care for and empower each other by stewarding God's resources to impact our community for Christ. In this podcast, you will hear sermons from First Baptist Church in Muncie, Indiana.</itunes:summary>
     <itunes:keywords>Muncie, First Baptist Church, Wade Allen, sermons</itunes:keywords>
-    <itunes:image href="http://fbcmuncie.org/images/fbclogo.png"/>
+    <itunes:image href="http://audio.fbcmuncie.org/fbc_podcast_logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
         <itunes:name>Wade Allen</itunes:name>
@@ -37,7 +36,7 @@ layout: nil
 	
 	{% for post in site.categories.video %}
 	<item>
-        <title>Expectant</title>
+        <title>{{ post.title }}</title>
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         <enclosure url="http://audio.fbcmuncie.org/{{ post.date | date: "%Y-%m-%d" }}.mp3" type="audio/mpeg"/>
