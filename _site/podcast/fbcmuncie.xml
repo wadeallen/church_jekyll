@@ -4,7 +4,7 @@
         <title>First Baptist Church Muncie Indiana</title>
 	<link type="application/atom+xml" href="http://fbcmuncie.org/feed/" rel="self"/>
  	<link type="text" href="http://fbcmuncie.org" rel="alternate"/>
-	<updated>2012-12-19T11:45:37-05:00</updated>
+	<updated>2013-01-22T11:41:31-05:00</updated>
 	<id>http://fbcmuncie.org</id>
 	<author>
 		<name>First Baptist Church Muncie</name>
@@ -31,6 +31,60 @@
         <itunes:category text="Christianity"/>
     </itunes:category>
 	
+	
+	<item>
+        <title>Stewardship</title>
+        <description>&lt;p&gt;Doug Gregg preaches a sermon on stewardship.&lt;/p&gt;
+</description>
+        <pubDate>2013-01-20T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-01-20.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Giving God Credit</title>
+        <description>&lt;p&gt;In Psalm 29, David challenges us to give God credit in all things. But giving credit to God is more than lip service. It includes giving God what he is due. This plays out in the way in which we allocate our resources (our time, our money, our attention). And the promise of this psalm is that when we truly make God King (ascribe to Him all that is due Him), he blesses his people with peace.&lt;/p&gt;
+</description>
+        <pubDate>2013-01-13T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-01-13.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Posture of Sacrifice</title>
+        <description>&lt;p&gt;On this first Sunday of Epiphany, we consider the journey of the wise men. They travel a great distance and offer valuable gifts in order to worship Jesus. Their worship is a model of authentic worship. May we consider our own acts of worship as we engage the story together. Matthew 2:1-12&lt;/p&gt;
+</description>
+        <pubDate>2013-01-06T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-01-06.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Trusting God in the New Year</title>
+        <description>&lt;p&gt;On the final Sunday of 2012, we consider God&amp;rsquo;s calling in our life to live in various times. We will journey through the story of a small group at First Baptist Church Muncie. in 2012, God called this group to step out into something new and different. We will celebrate their courage and look forward to their new adventure in 2013.&lt;/p&gt;
+</description>
+        <pubDate>2012-12-30T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-12-30.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Christmas Eve</title>
+        <description>&lt;p&gt;The candlelight Christmas Eve service at First Baptist Church Muncie is a highlight of the Christmas season. Families gather to kick off Christmas celebrations in a beautifully decorated sanctuary. As we light Christmas eve candle, we remember the reason for our celebration. The story of Christmas is placed in the context of Christ&amp;rsquo;s sacrifice for us. There is no more appropriate way to begin Christmas than by receiving the most precious gift, His body broken for us and His blood shed for us.&lt;/p&gt;
+</description>
+        <pubDate>2012-12-24T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-12-24.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Mary's Song</title>
+        <description>&lt;p&gt;As we approach Christmas day, we are often overwhelmed with the stress of the holiday season. The hustle and bustle of buying gifts and preparing food often overshadow the true meaning of Christmas. On this third Sunday of Advent, we consider Mary&amp;rsquo;s response to God&amp;rsquo;s intervention in her life. It is a response of giving. May we be challenged through this story to submit our lives to God&amp;rsquo;s purposes. Luke 1:39-55&lt;/p&gt;
+</description>
+        <pubDate>2012-12-23T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2012-12-23.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
 	
 	<item>
         <title>Re Focus</title>
