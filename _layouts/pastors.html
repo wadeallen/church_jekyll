@@ -36,9 +36,52 @@ title: Pastors
 
 
       </li>
-      <!-- End -->
+      <!-- End Wade -->
          {% endfor %} 
-    </ul><!-- End team -->
+        
+          {% for person in page.team['associate'] %}
+      <!-- each pastor-->
+      <li class="one-third column">
+        <a href="/pastors/{{ person[0] }}"><img src="{{ root_url }}{{ person[1].image.url}}" alt="{{ person[1].name }}" /></a>
+        <h3>
+          <a href="/pastors/{{ person[0] }}"> {{ person[1].name }}</a>
+        {% if person[1].facebook %}
+          <a href="http://facebook.com/{{ person[1].facebook }}" class="facebook">facebook</a>
+        {% endif %}
+       {% if person[1].twitter %}
+          <a href="http://twitter.com/{{ person[1].twitter }}" class="twitter">twitter</a>
+        {% endif %}
+        </h3>
+        <p>{{ person[1].role }}</p>
+    <p><a href="/pastors/{{ person[0] }}">read more</a></p>
+
+
+      </li>
+      <!-- End Matt-->
+         {% endfor %} 
+
+    {% for person in page.team['senior'] %}
+      <!-- each pastor-->
+      <li class="one-third column">
+        <a href="/pastors/{{ person[0] }}"><img src="{{ root_url }}{{ person[1].image.url}}" alt="{{ person[1].name }}" /></a>
+        <h3>
+          <a href="/pastors/{{ person[0] }}"> {{ person[1].name }}</a>
+        {% if person[1].facebook %}
+          <a href="http://facebook.com/{{ person[1].facebook }}" class="facebook">facebook</a>
+        {% endif %}
+       {% if person[1].twitter %}
+          <a href="http://twitter.com/{{ person[1].twitter }}" class="twitter">twitter</a>
+        {% endif %}
+        </h3>
+        <p>{{ person[1].role }}</p>
+    <p><a href="/pastors/{{ person[0] }}">read more</a></p>
+
+
+      </li>
+      <!-- End Robert -->
+         {% endfor %} 
+
+    </ul><!-- End Pastors-->
         
 </div><!-- End meet team -->
 

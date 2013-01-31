@@ -4,7 +4,7 @@
         <title>First Baptist Church Muncie Indiana</title>
 	<link type="application/atom+xml" href="http://fbcmuncie.org/feed/" rel="self"/>
  	<link type="text" href="http://fbcmuncie.org" rel="alternate"/>
-	<updated>2013-01-23T11:10:44-05:00</updated>
+	<updated>2013-01-30T22:44:08-05:00</updated>
 	<id>http://fbcmuncie.org</id>
 	<author>
 		<name>First Baptist Church Muncie</name>
@@ -31,6 +31,15 @@
         <itunes:category text="Christianity"/>
     </itunes:category>
 	
+	
+	<item>
+        <title>The Body of Christ</title>
+        <description>&lt;p&gt;Paul uses the illustration of anatomy to describe the way we function as a church. A physical body has many parts, but it is one unit. Each part has a vital role in is health. As we study 1 Corinthians 12:12-31a, we are each challenged to steward our time and energy in ways that strengthen the body of Christ.&lt;/p&gt;
+</description>
+        <pubDate>2013-01-27T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-01-27.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
 	
 	<item>
         <title>Stewardship</title>

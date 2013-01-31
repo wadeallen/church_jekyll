@@ -1,11 +1,17 @@
 <div class="eleven columns top bottom">
-		 
-     <!-- item 1 -->
-     <div class="eight columns">
-       <div class="item">
-         <h3><a href="/pastors/{{ author.url }}">{{ author.name }} - {{ author.role }}</a></h3>
-       </div>
-     </div>
-     <!-- End -->
-</div>
 
+	<hr class="bottom-2" />
+	{{% if author.image.small-url %}}
+      <div class="image-post bottom left"> 
+         <a href="/pastors/{{ author.url }}"><img src="{{ author.image.small-url }}"></a>  
+      </div><!-- End image -->
+      {{% endif %}}
+      
+      <div class="post-content">
+        <p>This blog post was written by {{ author.name }}.<br>
+    	 {{ author.first }} is the {{ author.role }} at First Baptist Church Muncie.<br>
+    	<a href="/pastors/{{ author.url }}">Read more </a>
+        </p>
+    </div>
+
+</div>

@@ -3,3 +3,27 @@
 
 /* you can add any custom css code for any class, id, tags and anything here, it will be active.. */
 
+.page_content p {
+	padding-bottom: 20px;
+}
+
+.page_content ul {
+	list-style-type: circle;
+	list-style-position: outside;
+	padding-left: 40px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+.page_content li {
+	padding-bottom: 10px;
+}
+
+.page_content h2 {
+	font-size: 20px; 
+	font-weight: normal; 
+	line-height: 30px;
+	padding:5px 0 10px 0;
+	border-bottom:1px solid #ececec;
+	margin-bottom:25px;
+}
