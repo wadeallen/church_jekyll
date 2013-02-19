@@ -4,7 +4,7 @@
         <title>First Baptist Church Muncie Indiana</title>
 	<link type="application/atom+xml" href="http://fbcmuncie.org/feed/" rel="self"/>
  	<link type="text" href="http://fbcmuncie.org" rel="alternate"/>
-	<updated>2013-02-04T15:51:34-05:00</updated>
+	<updated>2013-02-18T15:45:04-05:00</updated>
 	<id>http://fbcmuncie.org</id>
 	<author>
 		<name>First Baptist Church Muncie</name>
@@ -31,6 +31,24 @@
         <itunes:category text="Christianity"/>
     </itunes:category>
 	
+	
+	<item>
+        <title>The Temptations</title>
+        <description>&lt;p&gt;Shortly after Jesus&amp;rsquo;s baptism, he travels into the wilderness to be tempted by the devil. For 40 days, he eats nothing and battles temptation. As we explore Luke&amp;rsquo;s account of these temptations, we are challenged in our own temptations. Jesus models for us successful resistance to the evil one. Luke 4:1-13&lt;/p&gt;
+</description>
+        <pubDate>2013-02-17T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-02-17.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Hearts Follow Treasure</title>
+        <description>&lt;p&gt;Jesus instructs us to be careful where we place our stockpiles, our treasures. He instructs us to build them in eternal places. As we do so, our hearts will gravitate toward those places. Matthew 6:19-21&lt;/p&gt;
+</description>
+        <pubDate>2013-02-10T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-02-10.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
 	
 	<item>
         <title>Two Masters</title>

@@ -5,8 +5,6 @@ title: Site Map
 
 <div class="container clearfix">
   
-    <div class="sixteen columns"> <h1 class="page-title">Sitemap<span class="line"></span></h1> </div> <!-- Page Title -->
-  
     <div id="description">
       <div class="sixteen columns">
         <div class="description bottom-2">
@@ -18,9 +16,110 @@ title: Site Map
     </div><!-- End description -->
   
     <div class="sitemap">
+
+      <div class="one-third column">
+
+         <h2 class="title">Blog Archives</h2>
       
-    <p>The sitemap is under construction. Check back soon.</p>
+            <div id="blog-archives">
+            {% for post in site.categories.blog reverse %}
+            {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+            {% unless year == this_year %}
+              {% assign year = this_year %}
+              <h2>{{ year }}</h2>
+            {% endunless %}
+            <article>
+              {% include archive_post.html %}
+            </article>
+            {% endfor %}
+            </div>
+
+    </div>
+
+      <div class="one-third column">
+
+         <h2 class="title">Video Archives</h2>
+      
+            <div id="blog-archives">
+            {% for post in site.categories.video reverse %}
+            {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+            {% unless year == this_year %}
+              {% assign year = this_year %}
+              <h2>{{ year }}</h2>
+            {% endunless %}
+            <article>
+              {% include archive_post.html %}
+            </article>
+            {% endfor %}
+            </div>
+
+            <h4>Older Videos</h4>
+
+            <a href="http://www.youtube.com/user/fbcmunciesermons">YouTube Channel</a><br>
+            <a href="http://vimeo.com/channels/112047">Vimeo Channel</a>
+
+
+    </div>
+
+    <div class="one-third column">
+
+    <h2 class="title">Pages</h2>
+
+      <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About </a>
+                <ul>
+            <li><a href="/about/faqs">FAQs</a></li>
+            <li><a href="/pastors">Pastors</a></li>
+            <li><a href="/about/faqs/#affiliations">Affiliations</a></li>
+            <li><a href="/about/faqs/#membership">Membership</a></li>
+          <li><a href="/about/history">History</a></li>
+          <li><a href="/weddings">Weddings</a></li>
+           <li><a href="/about/mission">Our Mission</a></li>
+        </ul>
+      </li>
+            <li><a href="/media">Media</a>
+      <ul>
+         <li><a href="/blog">Blog</a></li>
+        <li><a href="/video">Videos</a></li>
+        <li><a href="/podcast">Podcast</a></li>
+        <li><a href="/forms">Forms</a></li>
+        <li><a href="/forms/FBC_Muncie_Constitution.pdf">Constitution</a></li>
+        <li><a href="/visitor">Newsletter</a></li>
+        <li><a href="/prayer/prayerlist.pdf">Prayer List</a></li>
+      </ul>
+      </li>
+       <li><a href="/gatherings">Gatherings</a>
+         <ul>
+          <li><a href="/worship">Worship Gatherings</a></li>
+          <li><a href="/community">Missional Communities</a></li>
+          <li><a href="/community">Life Groups</a></li>
+          <li><a href="/youth">Youth</a></li>
+          <li><a href="/children">Children</a></li>
+          <li><a href="/wednesdays">Wednesdays</a></li>
+          <li><a href="/rehearsals">Rehearsals</a></li>
+          <li><a href="/worship">Upcoming Sermons</a></li>
+          <li><a href="/calendar">Calendar</a></li>
+          <li><a href="/news">Weekly News</a></li>
+         </ul>
+       </li>
+       <li><a href="/contact/menu">Contact</a>
+         <ul>
+          <li><a href="/contact/#directions">Directions</a></li>
+          <li><a href="/contact">Contact Form</a></li>
+          <li><a href="/prayer">Prayer Requests</a></li>
+          <li><a href="/weddings">Weddings</a></li>
+         </ul>
+       </li>
+          </ul>
+
+
+    </div>
+
+
       
       
         
     </div><!-- End sitemap -->
+
+  </div>

@@ -6,13 +6,13 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>{{site.site_name}}</title>
- <link href="http://london-news.demo/feed.xml" rel="self"/>
- <link href="http://london-news.demo"/>
+ <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
+ <link href="http://fbcmuncie.org"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{site.site_url}}</id>
  <author>
-   <name>Edward Hyde</name>
-   <email>fake@mijingo.com</email>
+   <name>Wade Allen</name>
+   <email>wade@fbcmuncie.org</email>
  </author>
 
  {% for post in site.posts %}

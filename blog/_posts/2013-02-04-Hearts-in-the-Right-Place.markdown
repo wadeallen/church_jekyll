@@ -6,7 +6,7 @@ layout: blog
 comments: yes
 ---
 
-I have to be honest, this week's sermon will not be preached for the first time on Sunday. I shared this message at Taylor University in January. When I was asked to speak at Taylor's chapel, I felt that this text would be especially applicable to college students. The stage of life, often called late adolescence, is a season of learning and discovery. In this stage, we are often building patterns that will continue for the rest of our life. I wanted to challenge these college students with the idea of stewardship, of taking what we have been given and using it for the Kingdom of God.
+I have to be honest; this week's sermon will not be preached for the first time on Sunday. I shared this message at Taylor University in January. When I was asked to speak at Taylor's chapel, I felt that this text would be especially applicable to college students. The stage of life, often called late adolescence, is a season of learning and discovery. In this stage, we are often building patterns that will continue for the rest of our life. I wanted to challenge these college students with the idea of stewardship, of taking what we have been given and using it for the Kingdom of God.
 
 As we have mentioned already, stewardship is more than money. Sure, it involves money, but it also involves our time and energy. In this week's text, Jesus offers incredible insight into how our investments affect our hearts. The teaching is succinct,
 

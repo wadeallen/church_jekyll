@@ -2,15 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>First Baptist Church Muncie</title>
- <link href="http://london-news.demo/feed.xml" rel="self"/>
- <link href="http://london-news.demo"/>
- <updated>2013-02-04T15:51:34-05:00</updated>
+ <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
+ <link href="http://fbcmuncie.org"/>
+ <updated>2013-02-18T15:45:04-05:00</updated>
  <id></id>
  <author>
-   <name>Edward Hyde</name>
-   <email>fake@mijingo.com</email>
+   <name>Wade Allen</name>
+   <email>wade@fbcmuncie.org</email>
  </author>
 
+ 
+ 	<entry>
+ 		<title>Broken and Poured Out</title>
+ 		<link href="/worship/Broken-and-Poured-Out"/>
+ 		<updated>2013-03-17T00:00:00-04:00</updated>
+ 		<id>/worship/Broken-and-Poured-Out</id>
+ 		<content type="html">&lt;p&gt;The story of Mary pouring perfume on Jesus his feet during an evening banquet is a model for us. Out of all the people in the room that evening, Mary was most insane with what God was doing in the world. While her action draws criticism, her extravagant gift honors Jesus. Jesus commends her for her sacrifice. As we study this passage together, we will reflect on our own willingness to serve in this posture. John 12:1-8&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>The Day God Ran</title>
+ 		<link href="/worship/The-Day-God-Ran"/>
+ 		<updated>2013-03-10T00:00:00-05:00</updated>
+ 		<id>/worship/The-Day-God-Ran</id>
+ 		<content type="html">&lt;p&gt;We often envision God as stern and demanding. Yet a series of parables in Luke 15 gives us a different picture of God. God is undignified in His search for what is lost. He goes to extreme measures to reclaim His treasured possesions. As we delve into the infamous parable of the prodigal son, we see God&amp;rsquo;s lavish love for us. Luke 15&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Repentance and Restoration</title>
+ 		<link href="/worship/Repentance-and-Restoration"/>
+ 		<updated>2013-03-03T00:00:00-05:00</updated>
+ 		<id>/worship/Repentance-and-Restoration</id>
+ 		<content type="html">&lt;p&gt;As Jesus encounters tragedy, he corrects the common understandings of his day. While the religious pious point fingers at the sins of others, Jesus directs them toward examining their own hearts. He warns them of coming destruction if they fail to repent. As we engage this text, we are challenged to abandon fruitless religion for intimate relationship with God. Luke 13:1-9&lt;/p&gt;
+</content>
+ 	</entry>
  
  	<entry>
  		<title>Transformed</title>
@@ -22,19 +49,71 @@
  	</entry>
  
  	<entry>
+ 		<title>Stepping Out</title>
+ 		<link href="/blog/Stepping-Out"/>
+ 		<updated>2013-02-18T00:00:00-05:00</updated>
+ 		<id>/blog/Stepping-Out</id>
+ 		<content type="html">&lt;p&gt;This Sunday, we will be exploring one of the strangest stories in the Gospels. Jesus' ministry is coming to a close. He is talking more and more about leaving, about dying. I am not sure that the disciples fully understood his predictions. Midway through Luke 9, we are able to peer into a private conversation between Jesus and his disciples.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Luke 9:18-20 NIV) Once when Jesus was praying in private and his disciples were with him, he asked them, “Who do the crowds say I am?” &amp;hellip; “But what about you?” he asked. “Who do you say I am?”&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Peter is the first to speak up. He confirms that Jesus is the Christ. Yet Peter does not seem to comprehend the full ramifications of this claim. Jesus explains,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Luke 9:22 NIV) The Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and he must be killed and on the third day be raised to life.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Jesus clarifies his mission and the requirements of his followers in fulfilling the work of his Kingdom. I imagine a lot of head scratching in the group that day. You would think they might begin to grasp his words. But the next story reveals their lack of understanding. We read,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Luke 9:28 NIV) About eight days after Jesus said this, he took Peter, John and James with him and went up onto a mountain to pray.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;On Sunday, we will explore this encounter on the mountain. It looks more like a sci-fi movie than a story from first century Palestine. Jesus lights up in an unexplainable white glow. Visitors, who have been dead for hundreds of years (Moses and Elijah), show up. They are in conversation with Jesus. In the end, the disciples are left speechless.&lt;/p&gt;
+
+&lt;p&gt;A key point in this story is Peter&amp;rsquo;s failed attempt to set up shop on the mountain. Peter sees the spectacular happenings and longs to stay. He suggests setting up tents and worshiping on the mountain. It is almost as if he completely forgot Jesus' words from eight days ago. Perhaps he remembers them but desperately wants to avoid them. Either way, he completely misses what God is doing. God is confirming Jesus' identity and planning the redemption of the world. Peter wants to hide out on the mountain in selfish comfort.&lt;/p&gt;
+
+&lt;p&gt;While we are quick to mock Peter&amp;rsquo;s actions, we struggle with the same desire. We are sometimes eager to set up cozy environments. We enjoy the serenity of living apart from the world. Yet, God calls us to join Him on His mission. He refuses to condone our self-centered ministries. We must get into the world if we truly desire to follow Jesus. May we be attentive to the work of His Kingdom. May we eagerly join Him as he transforms our world through you and me.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
  		<title>The Temptations</title>
- 		<link href="/worship/The-Temptations"/>
+ 		<link href="/video/The-Temptations"/>
  		<updated>2013-02-17T00:00:00-05:00</updated>
- 		<id>/worship/The-Temptations</id>
+ 		<id>/video/The-Temptations</id>
  		<content type="html">&lt;p&gt;Shortly after Jesus&amp;rsquo;s baptism, he travels into the wilderness to be tempted by the devil. For 40 days, he eats nothing and battles temptation. As we explore Luke&amp;rsquo;s account of these temptations, we are challenged in our own temptations. Jesus models for us successful resistance to the evil one. Luke 4:1-13&lt;/p&gt;
 </content>
  	</entry>
  
  	<entry>
+ 		<title>Dealing with Temptation</title>
+ 		<link href="/blog/Dealing-with-Temptation"/>
+ 		<updated>2013-02-11T00:00:00-05:00</updated>
+ 		<id>/blog/Dealing-with-Temptation</id>
+ 		<content type="html">&lt;p&gt;We rarely order dessert when we go out to eat. Large serving sizes leave us incapable of digesting more food. However, there is usually a small display with full color pictures showcasing the kitchen&amp;rsquo;s confections. Many have given names to the after-dinner delights. When chocolate is the main ingredient, you will sometimes see the word &lt;em&gt;temptation&lt;/em&gt; in the description. We understand the ramifications of indulging in a calorie packed, sugary cake or ice cream. Our waistline will suffer as a result. Yet, it is hard to resist the savory treat. While we have lightened the word, relegating it to eating a piece of cake, true temptation is powerful and dangerous.&lt;/p&gt;
+
+&lt;p&gt;In this week&amp;rsquo;s text, Jesus is led by the Spirit into the wilderness to be tempted by Satan. Luke records the culmination of a forty-day fast in which Satan tempts Jesus in three ways. On Sunday, we will discuss the intricacy of each temptation. Yet, all three temptations have a common theme. Satan is attempting to separate Jesus from the Father and Spirit. He questions Jesus' role as the Son of God by steering him away from His calling. In each instance, Satan offers Jesus an alternative route.&lt;/p&gt;
+
+&lt;p&gt;Jesus' willingness to experience temptation verifies his desire to identify with you and me. The author of Hebrews describes,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Hebrews 4:15 NIV) For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who has been tempted in every way, just as we are &amp;mdash; yet was without sin.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;But more than that, Jesus models for us how to handle temptation. Each of our temptations will be different. Satan knows our weaknesses and capitalizes on our inclinations to stray from God&amp;rsquo;s design. But we can draw from Jesus' experience.&lt;/p&gt;
+
+&lt;p&gt;First of all, Jesus is Spirit-led and Spirit-empowered as he encounters temptation. Luke begins this story by telling us,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Luke 4:1 NIV) Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the desert&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;We know that Jesus is filled with the Spirit of God. He is the Son of God. How could He not be filled with the Spirit? Yet, this is key to Luke&amp;rsquo;s description of Jesus' temptations. Jesus is not operating in his own strength. Think about it, He has not had food for forty days. He must have been famished, mentally and physically drained. But Jesus does not find strength in the physical. He draws on the power of the Spirit as he battles the Evil One. It is easy to dismiss a Spirit-filled life as reserved for Jesus. Yet, you and I are promised strength that only comes through the power of the Spirit.&lt;/p&gt;
+
+&lt;p&gt;Secondly, Jesus responds to each temptation with Scripture. He retaliates with God&amp;rsquo;s Word in each case. Jesus' knowledge and dependence on Scripture is primary. If Jesus, the Son of God, uses Scripture to battle temptation, so should we. If we are biblically illiterate, we are walking on thin ice in regards to temptation.&lt;/p&gt;
+
+&lt;p&gt;Join us on Sunday as we delve into this text. May we learn to appropriately respond to the temptations in our lives. May we look to Jesus as our model and guide.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
  		<title>Hearts Follow Treasure</title>
- 		<link href="/worship/Hearts-Follow-Treasure"/>
+ 		<link href="/video/Hearts-Follow-Treasure"/>
  		<updated>2013-02-10T00:00:00-05:00</updated>
- 		<id>/worship/Hearts-Follow-Treasure</id>
+ 		<id>/video/Hearts-Follow-Treasure</id>
  		<content type="html">&lt;p&gt;Jesus instructs us to be careful where we place our stockpiles, our treasures. He instructs us to build them in eternal places. As we do so, our hearts will gravitate toward those places. Matthew 6:19-21&lt;/p&gt;
 </content>
  	</entry>
@@ -44,7 +123,7 @@
  		<link href="/blog/Hearts-in-the-Right-Place"/>
  		<updated>2013-02-04T00:00:00-05:00</updated>
  		<id>/blog/Hearts-in-the-Right-Place</id>
- 		<content type="html">&lt;p&gt;I have to be honest, this week&amp;rsquo;s sermon will not be preached for the first time on Sunday. I shared this message at Taylor University in January. When I was asked to speak at Taylor&amp;rsquo;s chapel, I felt that this text would be especially applicable to college students. The stage of life, often called late adolescence, is a season of learning and discovery. In this stage, we are often building patterns that will continue for the rest of our life. I wanted to challenge these college students with the idea of stewardship, of taking what we have been given and using it for the Kingdom of God.&lt;/p&gt;
+ 		<content type="html">&lt;p&gt;I have to be honest; this week&amp;rsquo;s sermon will not be preached for the first time on Sunday. I shared this message at Taylor University in January. When I was asked to speak at Taylor&amp;rsquo;s chapel, I felt that this text would be especially applicable to college students. The stage of life, often called late adolescence, is a season of learning and discovery. In this stage, we are often building patterns that will continue for the rest of our life. I wanted to challenge these college students with the idea of stewardship, of taking what we have been given and using it for the Kingdom of God.&lt;/p&gt;
 
 &lt;p&gt;As we have mentioned already, stewardship is more than money. Sure, it involves money, but it also involves our time and energy. In this week&amp;rsquo;s text, Jesus offers incredible insight into how our investments affect our hearts. The teaching is succinct,&lt;/p&gt;
 
@@ -672,6 +751,410 @@ even the world. Peace!&lt;/p&gt;
 &lt;p&gt;For those of us who know the end of the story, we are okay with Joseph being in prison a bit longer. But for Joseph, dismay and doubt must have ruled his thoughts. You see, he did not know the story&amp;rsquo;s ending. He had no idea what God was going to do.&lt;/p&gt;
 
 &lt;p&gt;You and I often find ourselves in this place. Perhaps we&amp;rsquo;re disappointed because God isn&amp;rsquo;t providing in the way we imagined. Maybe a job application was refused, a scholarship was denied or medical report returned ominous results. We are left questioning, doubting or disappointed. In times like these, we must learn to trust the One who sees the future, the One who determines all things. Joseph&amp;rsquo;s story reminds us that God&amp;rsquo;s timing is perfect. May we learn to trust as we wait on God. May we learn that He has our best interests in mind. He is faithful, no matter our circumstances.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Joseph</title>
+ 		<link href="/blog/Joseph"/>
+ 		<updated>2012-09-10T00:00:00-04:00</updated>
+ 		<id>/blog/Joseph</id>
+ 		<content type="html">&lt;p&gt;You don&amp;rsquo;t have to go to church to know story of Joseph. Popular Broadway musicals have familiarized Americans with the main characters of the story. Last year, we attended a local production of &lt;em&gt;Joseph and the Amazing Technicolor Dreamcoat&lt;/em&gt;. I remember having to hide my 7-year-old&amp;rsquo;s eyes during the scene with Potipher&amp;rsquo;s wife. No doubt, the story is anything but boring. As we come to chapter 39 this week, we delve into the real life circumstances of Joseph. While he finds himself in an advantageous situation as a caretaker in Potipher&amp;rsquo;s house, he is challenged with the advances of Potipher&amp;rsquo;s promiscuous wife.&lt;/p&gt;
+
+&lt;p&gt;While it is easy to see the pitfalls of engaging in an adulterous relationship with your boss&amp;rsquo;s wife, one could argue that it was in Joseph&amp;rsquo;s best interest to meet her demands. In fact, Joseph was a slave. He could have easily justified giving into the owner&amp;rsquo;s wife&amp;rsquo;s orders. But Joseph had other reasons for rejecting her advances. It wasn&amp;rsquo;t simply that she was unattractive. Joseph was primarily concerned with his relationship with God. His response was,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 39:9 NIV) How then could I do such a wicked thing and sin against God?&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Joseph was solely concerned with how his actions would measure up to God&amp;rsquo;s standard. His chief consideration was to remain obedient and faithful to God. Even so, you might think that such high moral standards would be rewarded. Perhaps Potiphar would promote Joseph for his impeccable judgment. Maybe God would grant Joseph freedom for continual obedience, day after day. After all, Joseph was doing the right thing. How could anything go wrong?&lt;/p&gt;
+
+&lt;p&gt;As you read the story, you find that Joseph actions land him in prison. Potiphar&amp;rsquo;s wife accuses Joseph of rape and when it is Joseph&amp;rsquo;s word against hers, Potiphar believes his wife.&lt;/p&gt;
+
+&lt;p&gt;As we consider the story, we often find ourselves in similar lures. Maybe our temptations are not so direct (we probably don&amp;rsquo;t have someone asking us to sleep with them every day). But we face temptations nonetheless. Fudging an expense report or relating a couple of mistruths might be considered &amp;ldquo;just part of the job.&amp;rdquo; And when we refuse to participate, we are penalized. How do we deal with similar enticements?&lt;/p&gt;
+
+&lt;p&gt;While it is not always easy, we have to go back to Joseph&amp;rsquo;s focus. He wasn&amp;rsquo;t considering how his behavior might impact his job or standing in Potiphar&amp;rsquo;s house. He wasn&amp;rsquo;t weighing the reaction of Potiphar&amp;rsquo;s wife. He was simply focused on God, on God&amp;rsquo;s Word. And when he measured his potential behavior against God&amp;rsquo;s standards, the choice was easy. He was not willing to sin against God. In this case, it cost Joseph dearly. For the next several years, he may have wondered what life would be like if he had made a different choice. But in the end, God was faithful to reward Joseph&amp;rsquo;s action (or in this case, lack of action). As we face our own decisions, our own temptations, may we remember that the right decision doesn&amp;rsquo;t always produce favorable outcomes (at least initially). But as we follow God&amp;rsquo;s leading, we can be certain that God will be faithful to those who faithfully follow his commands.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Struggle</title>
+ 		<link href="/blog/Struggle"/>
+ 		<updated>2012-08-13T00:00:00-04:00</updated>
+ 		<id>/blog/Struggle</id>
+ 		<content type="html">&lt;p&gt;Jacob&amp;rsquo;s story is quite remarkable. As a baby coming out of his mothers womb, he is grabbing the heel of his brother. He spends most of life scheming and conniving; he gets his brother&amp;rsquo;s birthright and blessing, his uncle Laban&amp;rsquo;s daughters (he really only wanted one of them) and now significant possessions of animals, servants, etc. Maybe Jacob is ready to retire and enjoy fishing and playing golf. But God is not finished with him.&lt;/p&gt;
+
+&lt;p&gt;In the same way that God called his grandfather Abraham, God now issues instructions to Jacob.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 31:3 NIV)  Then the LORD said to Jacob, “Go back to the land of your fathers and to your relatives, and I will be with you.”&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;There is some dispute about Jacob&amp;rsquo;s integrity. Laban&amp;rsquo;s sons accuse him of cheating his father-in-law. This would not be out of character for Jacob. Perhaps it is all a matter of timing; Jacob decides to follow God&amp;rsquo;s calling and return to the land of his father Isaac. There is one problem. Esau. The last time they talked, Esau was bitter, angry and ready to kill Jacob. Twenty years have passed; has Esau forgiven Jacob? How will this all work out? Jacob must have been nervous. Yet God promised to be with him.&lt;/p&gt;
+
+&lt;p&gt;Along the way, Jacob meets a group of angels.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 32:1 NIV) Jacob also went on his way, and the angels of God met him.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;They help Jacob scout out the situation with Esau. The initial reports are not good for Jacob. Esau has 400 men and is heading his way. This tension sets the context for this week&amp;rsquo;s study. Jacob divides his family into two camps and spends the night alone. During the night, he has a personal encounter with God. We are told,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 32:24 NIV) a man wrestled with him till daybreak.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;As the sun rises, Jacob is sure that this man is God himself. While Jacob&amp;rsquo;s entire life had been one of wrestling, struggling, this encounter is significant for him. This intimate encounter with God will change everything. He will now have a new name, a new outlook on life. Jacob&amp;rsquo;s relationship with God has been up and down. We have seen him worship, tithe (Genesis 28). Yet life patterns of deception, trickery often prevail. In this overnight struggle, God subdues Jacob and Jacob is blessed.&lt;/p&gt;
+
+&lt;p&gt;Many of us have wrestled with God on some level. We grapple to overcome sin and faithfully follow a God who gave himself for us. Join us on Sunday as we explore the story of Jacob wrestling with God.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Tables Turned</title>
+ 		<link href="/blog/Tables-Turned"/>
+ 		<updated>2012-08-06T00:00:00-04:00</updated>
+ 		<id>/blog/Tables-Turned</id>
+ 		<content type="html">&lt;p&gt;God&amp;rsquo;s story is anything but boring. Our study through Genesis has been full of twists and turns, faith, deceit, love, rejection, pain, sorrow, miracles and rejoicing. We sometimes find ourselves identifying with one or more characters in the story. This week&amp;rsquo;s story includes quite the cast. For the last few weeks, we have been following Jacob. So far, he has been anything but impressive (in terms of faith). He has deceived his brother and father; he escapes to his uncle&amp;rsquo;s house to avoid getting killed. This week, we pick up with his arrival in his homeland. Little does Jacob know that God is about to turn the table. The trickster is about to be tricked.&lt;/p&gt;
+
+&lt;p&gt;Jacob falls in love with a beautiful girl named Rachel. Her father promised her hand in marriage in exchange for seven years of work. The story is one of patience, endurance and love. We read,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 29:20 NIV) So Jacob served seven years to get Rachel, but they seemed like only a few days to him because of his love for her.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Maybe life was going to be OK for Jacob. Sure, he lied to his father and brother, but who&amp;rsquo;s perfect, right? Yet God has not forgotten his scheme.&lt;/p&gt;
+
+&lt;p&gt;A wedding night is a highly anticipated event. You can imagine how intense the excitement must have been for Jacob; he had been engaged seven years. Most engagements in our culture range from six months to 3 years. Finally, the big day arrives. Rachel&amp;rsquo;s father (Laban) throws a party; everyone celebrates. But at some point, Laban substitutes his eldest daughter. We aren&amp;rsquo;t exactly sure when Jacob figures it out. The text simply tells us,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 29:25 NIV) When morning came, there was Leah!&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;As we explore this story in detail on Sunday, we discover the tables turned. Jacob, the deceiver, is deceived. There are many facets to this story, a modern-day soap opera would have to compete for such drama. But in the end, God is doing his work. He is forming a people from this twisted bunch. He is forming his man Jacob into the person He has called him to be.&lt;/p&gt;
+
+&lt;p&gt;If you have a few minutes, listen to Rich Mullins' take on this story and please join us on Sunday as we engage Scripture together.&lt;/p&gt;
+
+&lt;p&gt;http://www.youtube.com/watch?v=S9FkWlBuls8&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>God's Timetable</title>
+ 		<link href="/blog/God%27s-Timetable"/>
+ 		<updated>2012-07-23T00:00:00-04:00</updated>
+ 		<id>/blog/God's-Timetable</id>
+ 		<content type="html">&lt;p&gt;A few weeks ago, I was working on this Sunday&amp;rsquo;s sermon. I had lunch scheduled with a friend; he has been a pastor for many years. I spent the morning doing research and studying the passage. When I broke for lunch, my friend and I spent some time talking about this story. One verse puzzled me, or at least  caused me to doubt my memory. I did not remember it being in the Bible. When I asked my friend about it, he confessed the same lack of memory. A few weeks later, I was asked to lead a devotion at a denominational gathering. In a room with about ten other pastors, I shared the same verse. Following the devotional, several of the pastors admitted the same failure to recall this detail. So here it is.&lt;/p&gt;
+
+&lt;p&gt;There are many stories of barren women in the Bible. The more famous include Hannah and Sarah. Their heartache and sense of failure cannot be overemphasized. A woman&amp;rsquo;s value was strongly connected with her ability to reproduce. We all remember these powerful stories of God providing for these women. What I did not recall was that Rebekah was also barren. Do you remember last week&amp;rsquo;s story? Abraham&amp;rsquo;s servant traveled to a distant land (Abraham&amp;rsquo;s home country) and finds Rebekah. She is a beautiful virgin seemingly picked by God as Isaac&amp;rsquo;s wife. Miraculously her family agrees to release her to Isaac. It seemed that the promise of Abraham&amp;rsquo;s great nation would be fulfilled. But here is the kicker.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 25:21 NIV) Isaac prayed to the LORD on behalf of his wife, because she was barren.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;rsquo;s just one sentence; the author of Genesis does not dwell on her suffering. In the same verse, we are quickly told,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 25:21 NIV) The LORD answered his prayer, and his wife Rebekah became pregnant.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Perhaps this is why we did not recollect this detail; it happens so fast in the text. But if you look a bit deeper, you realize that Isaac was 40 years old when he marries Rebekah; he is 60 when the twins are born. Twenty years of praying; twenty years of questioning God. How could we have missed this?&lt;/p&gt;
+
+&lt;p&gt;Have you ever felt like God was oblivious to your suffering? Have you ever wondered if God hears your prayers? Have you felt like you misread God&amp;rsquo;s direction in a given decision? Isaac must have questioned if Rebekah was the right choice. Rebekah must have doubted her decision to leave her family. For twenty years, they prayed for God to move, to act.&lt;/p&gt;
+
+&lt;p&gt;As we prepare for Sunday&amp;rsquo;s text, it is worth noting that God&amp;rsquo;s timetable is not always the same as ours. God may seem to be silent, inactive or insensitive; yet we can be assured that He is not. We are not sure why He allowed Isaac and Rebekah to wait for so long. Yet Isaac continued to exhibit faith in God&amp;rsquo;s plan; he prayed for a child. May we remember this detail and not lose sight of this truth as we wait on God.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Seeking God's Direction</title>
+ 		<link href="/blog/Seeking-God%27s-Direction"/>
+ 		<updated>2012-07-17T00:00:00-04:00</updated>
+ 		<id>/blog/Seeking-God's-Direction</id>
+ 		<content type="html">&lt;p&gt;As we step into the month of August, we are nearing the one year mark of our discernment process regarding church staffing. In August 2011, church leaders (a combined team of Church Council and Diaconate) entered a process of discerning; the question was future staffing at First Baptist Church. We embarked on a journey that took us through several activities (a prayer vigil, listening sessions, exploring outside sources and deliberation among leaders). The leadership team concluded that God was leading us toward an additional staff person who would have broad responsibilities; yet his/her focus would be in outreach and worship. This decision was presented to the congregation in October. A consensus vote revealed overwhelming support for this direction. Last winter, a search team was formed to identify a candidate to fill the position. The search team has been working for months surveying profiles, contacting potential candidates and interviewing candidates. They have taken their work seriously; they have offered their best to determine God&amp;rsquo;s leading in this matter.&lt;/p&gt;
+
+&lt;p&gt;All of these efforts have led to a unanimous recommendation. The search team is proposing that we hire Matt Headley as Associate Pastor at First Baptist. Matt has been active in pursuing God&amp;rsquo;s direction over the past few months. In the meantime, an opportunity for outreach with Youth for Christ was presented to him last month. After contemplating the options and conversing with Matt, the search committee has determined that Matt serving &amp;frac34; time at First Baptist and &amp;frac14; time with Youth for Christ will benefit everyone. On August 12, the membership will have an opportunity to vote on this proposal.&lt;/p&gt;
+
+&lt;p&gt;This decision has not been in haste; it has taken almost a year to complete. The committee has followed a spiritual discernment process as they have deliberated, and members of the congregation have had input as well. As the church body is asked to finalize the calling of an Associate Pastor in the coming weeks, I want you all to be assured of the due diligence of this team and in the process they have authentically sought and indeed sensed God&amp;rsquo;s leading in this decision.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Listening to God</title>
+ 		<link href="/blog/Listening-to-God"/>
+ 		<updated>2012-07-16T00:00:00-04:00</updated>
+ 		<id>/blog/Listening-to-God</id>
+ 		<content type="html">&lt;p&gt;Have you ever been asked to pull off the impossible? Maybe your boss wanted delivery on an unfeasible time table. Perhaps your spouse requested an unimaginable home project. Completion seemed absurd; but you stepped up and gave it a shot. In this week&amp;rsquo;s text, Abraham asks his servant to locate a wife for Isaac in another country, Abraham&amp;rsquo;s home country. Is there any way that a woman would leave her homeland to join this family in such uncertainty? It is a long shot; yet he ventures into the unknown.&lt;/p&gt;
+
+&lt;p&gt;The story offers a model for our own endeavors. The servant is prayerful and dependent on God as he makes his way to Aram Naharaim.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 24:12 NIV) O LORD, God of my master Abraham, give me success today, and show kindness to my master Abraham.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Without recounting the entire story, he experiences God&amp;rsquo;s leading him to the right woman. When he conveys his experience to her family, they also agree that God is working. Her father and brother respond:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 24:50 NIV) This is from the LORD; we can say nothing to you one way or the other.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;A final encounter gives Rebekah an opportunity to back out of the deal. Her response matches that of her family; she is faithful to follow God&amp;rsquo;s leading.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 24:57-58 NIV) Then they said, “Let’s call the girl and ask her about it.” So they called Rebekah and asked her, “Will you go with this man?” “I will go,” she said.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;One of the chief characteristics of this account is a retelling of God&amp;rsquo;s movement. The servant tells the story to Rebekah&amp;rsquo;s family; they discern that God is moving. When the servant meets Isaac after his return, he tells him the story. Again and again, the decision is not based on their preferences; it is based on God&amp;rsquo;s movement. God acts; they respond. God directs; they obey.&lt;/p&gt;
+
+&lt;p&gt;Too often our decisions are based on our individual preferences. We want a particular outcome and so we proceed in our desired direction. We seldom pay attention to God&amp;rsquo;s promptings. We sometimes ask the wrong questions. As we discern, may we emulate the posture of Abraham&amp;rsquo;s servant. Prayer, listening, worship and recounting our experience are part of the mix. May we ask, &amp;ldquo;How is God leading us?&amp;rdquo; rather than &amp;ldquo;What do we want to accomplish?&amp;rdquo; May we be willing to submit our will to His will. May we live out obedience as we hear the voice of God.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Laughter</title>
+ 		<link href="/blog/Laughter"/>
+ 		<updated>2012-07-02T00:00:00-04:00</updated>
+ 		<id>/blog/Laughter</id>
+ 		<content type="html">&lt;p&gt;Laughter is a good thing, right? Who doesn&amp;rsquo;t enjoy a good laugh. We watch sit-coms with virtually no plot-line for the sake of a laugh. We are entertained by comedians who relate the ordinariness of life; they make us chuckle. But laughter can also be very damaging. A group of uncaring school kids can inflict intense agony with their giggles. In this week&amp;rsquo;s text, we find two dimensions of laughter. The first is the laughter of doubt. The second is that of overwhelming surprise and joy.&lt;/p&gt;
+
+&lt;p&gt;We are going to bite off a large chunk of Scripture this week. While it is impossible to cover every aspect of the story, we will move quickly through chapters 17-20. God affirms His promise to Abraham and Sarah by changing their names and giving them a specific timeline. Three mysterious visitors show up; Abraham and Sarah provide hospitality to them. While they are eating, God speaks; He offer specifics,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 18:10 NIV) I will surely return to you about this time next year, and Sarah your wife will have a son.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Sarah overhears the conversation; she cannot hold it in. She bursts out with laughter. This is the kind of chuckling that comes when you hear the unbelievable. God is not pleased with her response. He questions her outburst.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 18:15 NIV) Sarah was afraid, so she lied and said, “I did not laugh.” But he said, “Yes, you did laugh.”&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;You can&amp;rsquo;t fool God; He hears it all. The next few scenes do not bolster Abraham nor Sarah&amp;rsquo;s reputation. Laughing at God&amp;rsquo;s promise is followed by excusing the sins of a corrupt city (Sodom and Gomorrah) and lying to this guy named Abimelech about their marriage. You have to wonder why God picked this couple. By the time you get to Genesis 21, you are doubting if God chose the right people. We then read,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 21:1 NIV) Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had promised.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Can you believe it? God came through; He did the impossible. Even though He is dealing with a doubtful couple of liars, He does what He says He will do. I find Sarah&amp;rsquo;s response intriguing.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 21:6 NIV) Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.”&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;This is a different kind of laughter. She no longer doubts God, but giggles with joy at what He has done. Her laughter is extended to everyone who hears this story. We are smiling at God&amp;rsquo;s grace, His provision, His willingness to use the unlikely for His purposes. Do we find ourselves laughing with doubt that God could transform the unlikely situations of our lives? May we be reminded as we encounter this story of God&amp;rsquo;s transformation of our laughter; may we be left smiling in astonishment at His movement in our lives.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Following God's Way</title>
+ 		<link href="/blog/Following-God%27s-Way"/>
+ 		<updated>2012-06-25T00:00:00-04:00</updated>
+ 		<id>/blog/Following-God's-Way</id>
+ 		<content type="html">&lt;p&gt;We talked this week about what it means to follow God&amp;rsquo;s leading into the unknown. As we studied Genesis 12, we remembered times in own lives when God called us into the unseen. Abraham was required to leave his family, his country, to give up his inheritance in response to God&amp;rsquo;s promptings. We admire his faith, his willingness to trust God. Yet, we cannot forget that Abraham&amp;rsquo;s life is full of ups and downs.&lt;/p&gt;
+
+&lt;p&gt;This week, David Jones will be teaching on the story of Ishmael. While Abraham was faithful to follow God into distant lands, he and Sarah are not sure God will be able to fulfill his promise through an old barren lady. They develop their own plan; maybe God needs a little help. It seems logical; using maidservants to produce children was an acceptable practice in the ancient Middle East. So Sarah brings it up and Abraham willingly participates in the plan.&lt;/p&gt;
+
+&lt;p&gt;Do you ever imagine people like Abraham and Sarah walking around with halos? Do you envision them as nearly perfect in their relating to God? This is simply not the case. The author of Genesis reveals the raw truth. Abraham and Sarah were not convinced that the barren womb could be opened. They chose a path apart from God&amp;rsquo;s leading; they took matters into their own hands.&lt;/p&gt;
+
+&lt;p&gt;We are often tempted to do the same. We like to strategize; we would rather go the reasonable path. We are often skeptical that God will step up to the plate. In fact, God often seems slow to action. In this case, Abraham and Sarah complicate God&amp;rsquo;s plan. Their veering has tremendous consequences for all involved. As David relates the story, may we be challenged to submit to God&amp;rsquo;s way. May we recognize that His plan is worth trusting.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Stepping Out</title>
+ 		<link href="/blog/Stepping-Out"/>
+ 		<updated>2012-06-18T00:00:00-04:00</updated>
+ 		<id>/blog/Stepping-Out</id>
+ 		<content type="html">&lt;p&gt;It was four years ago this summer that our family responded to a call to pastor this church. It was not an easy decision for us. In fact, we had recently (less than a year prior) purchased a new home in Springfield, Illinois with the intention of remaining there. You might recall that I dismissed your first contact; I threw away the carefully chosen materials sent to me by the search team. Yet in time, God revealed that He &lt;em&gt;was&lt;/em&gt; calling me to Muncie. Moving to a new state required our kids to leave their friends, their church family, the only community that they could remember; they would have to make new friends in a strange place. I was not eager for our family to make this sacrifice.&lt;/p&gt;
+
+&lt;p&gt;Four years later, I am more convinced than ever that it was God&amp;rsquo;s plan for us to relocate to Muncie. I could not plan nor foresee what God was going to do with us in Muncie. While He is far from finished, He has allowed us to join this congregation as it moves into its future. I am pleased with the progress we have made; I look forward to leading this congregation in the years ahead.&lt;/p&gt;
+
+&lt;p&gt;Our text this week is about a man who was also called to leave his home. His leaving was far more extensive than mine.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 12:1 NIV) The LORD had said to Abram, “Leave your country, your people and your father’s household and go to the land I will show you.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Abram&amp;rsquo;s leaving required him to leave everything that defined him. He gave up his home, his inheritance and his extended family to follow God. It must have been tremendously challenging. Yet Abram did exactly what God instructed. God&amp;rsquo;s bidding came with a promise; God promised to increase Abram&amp;rsquo;s name and make a great nation from his descendants. There was one problem; Abram&amp;rsquo;s wife was barren. How was God going to work this out? Was he luring Abram down a dead end road? To make matters worse, when Abram arrived in the &lt;em&gt;promised&lt;/em&gt; land, it was inhabited by pagan people with fortified cities. How would his descendants (if there were any) inherit this land? No doubt, Abram was walking into the unknown.&lt;/p&gt;
+
+&lt;p&gt;As we study this text on Sunday, we are also challenged to exhibit the same trust in God&amp;rsquo;s leading. God often calls us without giving us all the information. God frequently requires strong dependence on Him. He seldom makes these transitions easy. As we examine the calling of Abram, we will consider ways in which God may be requiring us to &lt;em&gt;step out&lt;/em&gt; in faith.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Fathers</title>
+ 		<link href="/blog/Fathers"/>
+ 		<updated>2012-06-11T00:00:00-04:00</updated>
+ 		<id>/blog/Fathers</id>
+ 		<content type="html">&lt;p&gt;Have you ever been asked to read Scripture in a small group Bible study. While some get nervous reading anything in front of others, the Bible can be particularly challenging; it has its share of difficult words. The historical books in the Old Testament are probably the worst, especially the lists of family names. We come to one of those lists (they are called genealogies) this week. It would certainly be hard to preach a sermon over a list of names; yet these lists remind us of a greater truth. None of us live on a historical island. We are connected to our family lineage, both predecessors and offspring. We are products of our fathers and we have the potential to impact our children. It just so happens that this Sunday is Father&amp;rsquo;s Day. Do you see the connection?&lt;/p&gt;
+
+&lt;p&gt;We would not have the time to relate each story embodied in this list of names. Yet the list reminds us that we have fathers who have shaped us. Some of us share wonderful memories of men who have transformed us in countless ways. We celebrate dads who poured themselves into our lives. Yet every story is not a Pollyanna account; our fathers have not always contributed in positive ways. Father&amp;rsquo;s Day is a painful day for some. Disappointment, regret, hurt and pain characterize our understanding of father. We are a community with various experiences; it is good to share our stories.&lt;/p&gt;
+
+&lt;p&gt;On Sunday, we will use Genesis 11 as a springboard into a discussion on fatherhood. Instead of flipping past the list, relegating any relevance to our lives, we will communicate various experiences of our family lines. At the same time, we will challenge modern day fathers to leave a legacy for future generations. We are living in a list, the ink has not yet dried. Finally, we will point to God as ultimate Father. He is the perfect example of what it means to relate to our children. Where there is brokenness and heartbreak, His love heals. Join us on Father&amp;rsquo;s Day for a time of collective celebration and reflection.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Tall Buildings</title>
+ 		<link href="/blog/Tall-Buildings"/>
+ 		<updated>2012-06-05T00:00:00-04:00</updated>
+ 		<id>/blog/Tall-Buildings</id>
+ 		<content type="html">&lt;p&gt;We spent this past weekend in Chicago; my kids wanted to ride the Ferris wheel on Navy Pier at night. They wanted to experience overlooking the lights of the city. We had several commitments throughout the weekend, including worshiping at Antioch Missionary Baptist Church in Chicago (what a great experience!), that kept us occupied during the evening hours. We finished at Antioch at 9:40 pm on Sunday; the Navy Pier closes at 10 p.m. We rushed across town to ride the Ferris wheel and filled the final carriage for the evening. As we exited the pier, the Sea Dog Boat Cruise worker approached us. She offered an extreme discount for the final tour of the evening. Even though it was nearly 11 p.m., we decided to take the 75 minute architectural tour.&lt;/p&gt;
+
+&lt;p&gt;As we floated down the Chicago River, we were overwhelmed by engineering feats of the last hundred years. The river itself was reversed for sanitation reasons; the project resulted in the connecting of Lake Michigan to the Mississippi basin. Two of world&amp;rsquo;s tallest buildings are visible from the river. The newer Trump Tower actually touches the river; a special cement was developed to keep the weight of the building from sinking into the river. The infamous Willis Tower (formerly Sears Tower) is a highlight of the tour. Dozens of other buildings tower the 38 moveable bridges. We were certainly in awe of such grandeur. As we maneuvered back toward the pier, I remembered that I was preaching on Genesis 11 this Sunday.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 11:4 NIV) Then they said, “Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves and not be scattered over the face of the whole earth.”&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;We live in a world of such city-builders looking to make a name for themselves. In fact, we celebrate efforts that break records. The Trump Tower was scaled down after the 2001 attacks; previously it was slated as the world&amp;rsquo;s tallest building. So what is so bad about building tall buildings? Why was God not pleased with man&amp;rsquo;s tenacity for accomplishment in Genesis 11? Why does he break up the party at Babel?&lt;/p&gt;
+
+&lt;p&gt;On Sunday, we will explore the misfortune of Babel. Mankind was striving for security apart from God, he was looking for notoriety based on his own achievement. God steps in and redirects him toward His purposes. I hope you will join us as we delve into this ancient story. May we consider our own striving for independence and fame apart from God.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Search Team Update</title>
+ 		<link href="/blog/Search-Team-Update"/>
+ 		<updated>2012-05-22T00:00:00-04:00</updated>
+ 		<id>/blog/Search-Team-Update</id>
+ 		<content type="html">&lt;p&gt;As we move past Memorial Day, the swimming pools open and the kids get out of school; summer is here. Schedules slow down a bit or get more hectic, depending on who you are. People begin to travel and weekly church programs become a little more sparse. Yet the work of one team at First Baptist continues strong; the Associate Pastor Search Team is not going on break.&lt;/p&gt;
+
+&lt;p&gt;While some of their work needs to remain confidential, I would like to assure everyone that the team considers their work of tremendous importance. They are fulfilling the mandate of a church-wide decision from last year. As you might remember, a group of church leaders (including the church council and diaconate) participated in a discernment process regarding church staffing in August 2011. They explored options and looked at other church models, entered a purposeful time of listening (this involved a 24 hour prayer vigil as well as small group discussions with various groups throughout the church) and examined the leading of the Spirit. The leaders felt that God was directing us toward the hiring of an associate pastor with major responsibilities in worship and outreach. This is in contrast to hiring a specialized staff person for music, youth, children, Christian Education or missions. As First Baptist no longer has the resources to hire multiple specialists for specific ministries, the leaders sensed that a broadly focused associate pastor would give the church the needed leadership to function as the people of God, carrying out the ministries of the church in the community.&lt;/p&gt;
+
+&lt;p&gt;In October, this decision was presented to the congregation in an evening meeting. The broader congregation affirmed the Spirit&amp;rsquo;s movement among the leaders. No doubt, this implementation of this model for church staffing will require adjustment. We will no longer have specific staff for particular ministries; we will have two full-time pastors inspiring, empowering and equipping teams to carry out ministry. The responsibilities for each pastor will be beyond one person&amp;rsquo;s capability if they were to do the ministry on their own, yet this approach enables the congregation to take ownership of various ministries. In many ways, the people of the church will be doing the work of the church; this is in contrast to the staff doing the work of the church.&lt;/p&gt;
+
+&lt;p&gt;The Search Team has been working with denominational leaders as well as reaching out to two seminaries and two Christian universities to discern God&amp;rsquo;s plan for the person to fill this position. The team has also interviewed Matt Headley, recognizing Matt as a strong candidate for the position. Please know that this team is giving due diligence to this process. The team may be prepared to make a recommendation to the church later in the summer. Please continue to pray for their steadfast work. As they discern the leading of the Spirit for the entire congregation, their work is essential for our health and vitality as a church.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>God Regretting</title>
+ 		<link href="/blog/God-Regretting"/>
+ 		<updated>2012-05-21T00:00:00-04:00</updated>
+ 		<id>/blog/God-Regretting</id>
+ 		<content type="html">&lt;p&gt;On June 3, I will be in Chicago for graduation; Matt will be preaching. He will deal with a fairly familiar passage, the story of Noah. However, there are a few verses in Genesis 6 preceding the story of Noah; they set the stage for the epic story. We often breeze past these verses to get to the good part. Yet these verses reveal the reason for the flood.&lt;/p&gt;
+
+&lt;p&gt;Other accounts of the flood are found in ancient Mesopotamian literature. One account is the Epic of Gilgamesh. This account portrays a man named Utnapishtim who builds an ark, loads it with animals and survives a violent storm. The pagan account describes gods who are fed up with mortals; they seek to destroy them by sending a flood. The only survivor (Utnapishtim) is tipped off; he escapes the plan of the gods and becomes immortal.&lt;/p&gt;
+
+&lt;p&gt;While some may find these accounts disturbing, they seem to confirm the validity of the biblical account. As we read the text on Sunday, you may be surprised by them. In some ways they sound more like Greek mythology than scripture. Yet they reveal the heart of God at this point in history. While Utnapishtim escapes the plot of the gods (he was never intended to survive), Noah is chosen by God to carry on the human race. But before we get to his story, it is appropriate to live in the tension of God&amp;rsquo;s decision. Before Noah was chosen, God considered total annihilation. Like the gods in the Epic of Gilgamesh, God considered ridding the world of mankind.&lt;/p&gt;
+
+&lt;p&gt;When we read these verses, we feel God&amp;rsquo;s pain. God regrets creating man. That is pretty astounding. How can God regret? Is it possible for God to show remorse for his actions? Yet we read (ESV translation),&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 6:7 ESV) for I am sorry that I have made them&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Why did God feel this way? What could possibly have prompted God to say this? Join us on Sunday as we explore the reason for the flood. We will consider possible parallels to our own world today and contemplate our appropriate response to God. Perhaps these ancient verses can aid our repentance in a world that often grieves our Creator.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Evil Within</title>
+ 		<link href="/blog/Evil-Within"/>
+ 		<updated>2012-05-14T00:00:00-04:00</updated>
+ 		<id>/blog/Evil-Within</id>
+ 		<content type="html">&lt;p&gt;Erik Larson&amp;rsquo;s 2003 New York Times best seller &lt;em&gt;The Devil in the White City&lt;/em&gt; highlights the story of two men. The magical Chicago World’s Fair of 1893 involved architect Daniel Burnham who constructed what many called &amp;ldquo;The White City.&amp;rdquo; With the invention of electricity, he used floodlights to accentuate amazing architectural feats on Chicago&amp;rsquo;s southern shore of Lake Michigan. The book also highlights H.H. Holmes. His work was ambitious but extremely evil. He constructed a three block hotel in which he murdered (some believe) over 200 people. Leonardo Dicaprio has purchased the rights to the story and is in process of producing a movie (opening in 2014).&lt;/p&gt;
+
+&lt;p&gt;The similarities and contrasts of these two men is fascinating. While both have grand schemes, Holmes' sinister vision seems to have been bolstered by an unexplainable evil. Holmes targeted single young women in his diabolical plan. Screenwriter Graham Moore, in an interview with Deadline.com, describes Holmes.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Holmes was a most likable guy who inwardly was a tremendous monster&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;As we come to Genesis 3 this week, we find a similar character. A serpent approaches the first woman with a villainous proposal. It seems harmless on the surface; yet the impact of her (and eventually her husband&amp;rsquo;s) decision is immense. The story is familiar; we all know what happens. Yet as we enter into the story once again, we are reminded of our own failure, our own tendency for evil. While it is easy to blame Adam and Eve for the brokenness of our world, we have all participated in their actions. Join us on Sunday as we study Genesis 3 together.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>The Gift of Women</title>
+ 		<link href="/blog/gift-of-women"/>
+ 		<updated>2012-05-07T00:00:00-04:00</updated>
+ 		<id>/blog/gift-of-women</id>
+ 		<content type="html">&lt;p&gt;This coming Sunday is Mother&amp;rsquo;s Day. Celebrations for mothers date back to ancient civilizations and today vary among cultures and countries. In the United States, we designate the second Sunday in May to celebrate our moms. Restaurants appreciate the break we give our moms on this day. Kids sometimes do extra chores around the house our create a colorful card. On Sunday in worship, we will reflect on our shared mother, Eve. As we venture through the book of Genesis, it seems appropriate to consider the creation of woman in Genesis 2.&lt;/p&gt;
+
+&lt;p&gt;Many are familiar with the story. Adam is placed in a coma while God removes one of his ribs. When he wakes up, he is presented with Eve. They join together in shameless sexuality and serve as models for marriage as God intended. What relevance does this text have for us in the year 2012? How might we approach Mother&amp;rsquo;s Day differently as we engage this text?&lt;/p&gt;
+
+&lt;p&gt;There is much discussion these days about gender. Gender inequality has curbed discussion of gender differences and roles. While male-dominated cultures have abused and neglected the gifts and contributions of women for thousands of years, a peek into God&amp;rsquo;s original plan may prove insightful. God created gender as a gift. If God intended us to ignore gender, the story would be different. As we explore Genesis 2, we find Adam in desperate need of a partner. He surveys all the animals to determine if one might be appropriate.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 2:20 NIV) But for Adam no suitable helper was found.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;God responds by creating woman; she has all the necessary characteristics. She complements Adam in every way. They are able to fulfill God&amp;rsquo;s design to be fruitful and multiply. A key verse in the story is v. 25.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Genesis 2:25 NIV) The man and his wife were both naked, and they felt no shame.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Adam and Eve in Eden reveal God&amp;rsquo;s plan for gender and sexuality. Our differences in gender should be celebrated, not dismissed. One gender should not dominate the other; both are essential and invaluable. Together, we fulfill God&amp;rsquo;s design for His creation. Both Jesus and Paul point to Genesis 2 as they teach on marriage. This crucial text helps us understand the beauty and value of women. Join us on Sunday as we celebrate the gift of women.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Paradise</title>
+ 		<link href="/blog/Paradise"/>
+ 		<updated>2012-04-30T00:00:00-04:00</updated>
+ 		<id>/blog/Paradise</id>
+ 		<content type="html">&lt;p&gt;We were certainly given a break this winter in Indiana; the weather was much milder than usual. I don&amp;rsquo;t mind a bit of cold weather. The changing of the seasons is beautiful. My wife would disagree. She grew up in South Georgia where it rarely gets below freezing. She wouldn&amp;rsquo;t mind living in summer year round. Do you like tropical weather? Flowers blooming year round; no coats necessary. If you visit a climate like this, you might even refer to it as paradise.&lt;/p&gt;
+
+&lt;p&gt;This week, we are going to explore the first created environment for man and woman, Eden. What was this place like? Since they ran around naked or in fig leaves, the climate must have been warm. Was it paradise? That is an interesting word. In English, the word is not necessarily related to the weather.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;paradise: a place or state of bliss, felicity, or delight (Webster Dictionary)&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The word in Greek (&lt;em&gt;paradeisos&lt;/em&gt;) includes the dynamic of bliss but refers more specifically to the surroundings. It literally means &amp;ldquo;an enclosed park&amp;rdquo;. It was often used to describe a garden. In the Septuagint (the Greek translation of the Old Testament) the English-tranlated word &lt;em&gt;garden&lt;/em&gt; is rendered &lt;em&gt;paradeisos&lt;/em&gt;. No doubt, there is a connection with the original garden (Eden) and paradise.&lt;/p&gt;
+
+&lt;p&gt;When Jesus is hanging on the cross, he says to the repentant criminal&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Luke 23:43) “I tell you the truth, today you will be with me in paradise.”&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;So what is the connection between Eden and Jesus' reference to paradise in Luke 23? Was Jesus referring to restored creation? Are those who place their faith in Jesus going to one day return to Eden? John describes the new heaven and the new earth in Revelation 22. The similarities with Eden are substantial.&lt;/p&gt;
+
+&lt;p&gt;When we compare our broken world to paradise, there is much to be desired. Eden seems more like a pipe dream than a reality. Yet throughout Scripture, we get hints of the restoration of Eden. While our world seems as far away from Eden as it ever has been, Jesus promises to restore, to make all things new. Join us on Sunday as we explore Eden; there is much to learn from initial dwelling of mankind.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Change 2</title>
+ 		<link href="/blog/Change"/>
+ 		<updated>2012-04-24T00:00:00-04:00</updated>
+ 		<id>/blog/Change</id>
+ 		<content type="html">&lt;p&gt;We have lived two Sundays in the new schedule. I know that it has been an adjustment for some of us. The praise band has to arrive early to sound check. Many who were accustomed to arriving for Sunday school at 10:15 now arrive at 9:15. Some Sunday school have been divided or discontinued as a result of the change.&lt;/p&gt;
+
+&lt;p&gt;Change is never easy. As we grow older, our bodies change (sometimes letting us down). Our kids grow up, move off to college. Friends relocate to different states. We sometimes have the difficult task of saying goodbye to friends and loved ones as they pass away. Yet we are required to change in life. As God leads us, we respond to his movement. Many times He calls us to adjust. And as we adapt, we experience transformation that would not be possible without change.&lt;/p&gt;
+
+&lt;p&gt;As we enter our first full month of our new Sunday morning schedule, allow me to remind you why and how we discerned the need for this change. Conversation began among leaders in November regarding the need for an adjustment of our Sunday morning schedule. We found that the Sunday school hour was inadequate as far as time for most classes. By the time people arrived for Sunday school, talked a bit and began the lesson, it was time to dismiss. Many classes found themselves with less than 30 minutes. Late worship service included less than half of its participants at the beginning of the service. Many were still in Sunday school and were unable to make it into the sanctuary on time. We&amp;rsquo;re not sure how we needed to change or even if we needed to change the schedule at all.&lt;/p&gt;
+
+&lt;p&gt;We began an intentional Process of Discernment around the issue. This process included a time of exploration of options, a period of listening (which included outside information, people in the congregation, and prayerful consideration of the leading of the Spirit). We then examined the issue in light of our listening. There was an incredible unity among the leaders around the solution. Church leaders then brought the draft schedule to the congregation in January. Everyone was given an opportunity to ask questions, share opinions and discuss the ramifications of the change. Through a consensus vote, the congregation affirmed the discerning of the leaders.&lt;/p&gt;
+
+&lt;p&gt;I am not sure if you find the new schedule appealing. Maybe you think it is great; maybe you are having a hard time adjusting. In time, we will discover the benefits and liabilities of this change. For now, we trust that our careful discernment was not in vain. We trust that God has led us to this place.&lt;/p&gt;
+
+&lt;p&gt;As we make decisions in the future, I hope that we will take the necessary time to discern the leading of the Spirit. Our decisions must not be based on personal preference (or what we perceive is best for &amp;ldquo;us&amp;rdquo;). We must continue to ask God for His will, His desire for how we function. While any process is subject to human error, I have confidence that God will honor our discerning, that He will help us navigate the decisions that we must make as a congregation as we submit our will to His.&lt;/p&gt;
+
+&lt;p&gt;If there are concerns that you have regarding the new schedule, please take time to discuss the matter with church leaders. God may lead us to make further adjustments. Our discerning never ends; we continue with open ears as we participate in congregational life under the Spirit&amp;rsquo;s leading.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Rest</title>
+ 		<link href="/blog/Rest"/>
+ 		<updated>2012-04-16T00:00:00-04:00</updated>
+ 		<id>/blog/Rest</id>
+ 		<content type="html">&lt;p&gt;Have you ever attended a lock-in? If you were in a youth group, the answer is probably &lt;em&gt;yes&lt;/em&gt;. A lock-in usually involves staying up all night. I used to dread these events as a youth minister. I knew that the event would take its toll on me for the next week or so. It was fun staying up all night playing games, watching movies or playing hide-and-seek in the church. The bad part was the next day. I would usually go home and crash, sleeping 4 or 5 hours. I would wake up mid-afternoon and try to stay awake until bedtime. As I got older, these events were harder and harder.&lt;/p&gt;
+
+&lt;p&gt;The problem is that our bodies are not designed for this schedule. We are fashioned for 7-8 hours of sleep each night. Somehow our bodies reset during this time and allow us to be productive during the remaining 16 hours of the day. In the same way, we function best when we provide adequate time for relaxing and winding down. If you have worked more than 12 hours in a day, you know the feeling. You feel worn down and your creative energy takes a nose dive.&lt;/p&gt;
+
+&lt;p&gt;We are created by God to function in particular patterns. When we veer too far from this design, we suffer. We learn in the Creation story a distinct pattern for our weeks. God creates for six days and rests on the seventh. It is not that God wanted a break. God is all-powerful and does not need a repose to sustain energy. Yet he rests in order to model a pattern for us. God rests because he designed us to rest. We are in the image of God and function in the patterns of our Creator.&lt;/p&gt;
+
+&lt;p&gt;In recent decades our world has shifted dramatically away from understanding proper rest. Join us on Sunday as we discuss the seventh day of Creation. It has extreme relevance to our lives in 2012.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Change</title>
+ 		<link href="/blog/Change"/>
+ 		<updated>2012-04-09T00:00:00-04:00</updated>
+ 		<id>/blog/Change</id>
+ 		<content type="html">&lt;p&gt;John Lasseter of Pixar Studios was being interviewed by Michelle Norris on National Public Radio. He was discussing the work of computer animation. Norris expressed her impression of the work.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;The cars glisten &amp;hellip; It looks like we’re seeing photography&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;She then questioned Lasseter,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;With everything you can do with computer generated animation, are there still limitations?&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Lassester affirmed the limitations, explaining the challenge.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;The more organic something is in the way it looks or the way it moves, the harder it is to create it with a computer.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;He went on to explain that every frame of a movie takes about seventeen hours. According to the Los Angeles Times, production costs for Pixar films average about $140 million.&lt;/p&gt;
+
+&lt;p&gt;At the same time, the Brooklyn Botanic Garden announced a summer exhibit in which they took super close photos of tree bark. There was very little cost involved. The exhibit was described in these terms.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;One canvas is magenta red has curling squares of what looked like skin or material; another has furry brown hairs sprouting on green and orange stripes; and on a third, lip-like shapes float on a gray-white background.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The contrasting of man-made verses organic/natural reminds us of what Dr. Lewis Foster observed many years ago. He relates,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;The closer one gets to something man has made, the more its imperfections are obvious. The more we magnify something God has created, the more we see its perfection.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;This week, we begin a sermon series through the book of Genesis. We open our Bibles to Genesis 1, the story of Creation. The natural world is truly a work of art. Its complex and exquisite details are overwhelming; the vastness of the universe is overwhelming. But how did it all begin? We will walk through the first six days of Creation according to Genesis. As we engage the text, we discover our role as created beings made in God&amp;rsquo;s image.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Victory</title>
+ 		<link href="/blog/Victory"/>
+ 		<updated>2012-04-02T00:00:00-04:00</updated>
+ 		<id>/blog/Victory</id>
+ 		<content type="html">&lt;p&gt;I am going to do something this Easter that I don&amp;rsquo;t think I have ever done; I am going to be preaching from a psalm. I have preached from the Gospel accounts of the resurrection or even one of Paul&amp;rsquo;s epistles. It may seem strange to go to the Psalms at Easter. However when you look closer, it may make perfect sense.&lt;/p&gt;
+
+&lt;p&gt;Did you know that Jesus and the Apostles quoted Psalms more than any other Old Testament book? Did you realize that Jesus quoted from Psalms as he hung on the cross? Jesus certainly saw the connection of His ministry with the Psalms. While many psalms were written nearly a thousand years before Jesus, they have incredible relevance to His life, death, and resurrection.&lt;/p&gt;
+
+&lt;p&gt;This Sunday we will consider selected verses from Psalm 118. While Psalm 22 and 31 (both quoted from the cross) describe the anguish, uncertainty and suffering of the cross, Psalm 118 reflects on the victory of God&amp;rsquo;s provision. On Easter we celebrate the most important truth in history, &amp;ldquo;He is Risen!&amp;rdquo; Yes God ventured to the depths on the cross, but His rising from the dead assures us that his death was not permanent. Look at how pertinent these words are to Easter.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Psalms 118:15–17 NIV)  15) Shouts of joy and victory resound in the tents of the righteous: “The LORD’s right hand has done mighty things! 16) The LORD’s right hand is lifted high; the LORD’s right hand has done mighty things!” 17) I will not die but live, and will proclaim what the LORD has done.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;David (the writer of Psalm 118) uses the same language used by Jesus and the Apostles to describe God&amp;rsquo;s plan in Christ. He talks about gates and capstones. The connection is astounding. Join us on Sunday as we explore Psalm 118 and celebrate the risen Christ.&lt;/p&gt;
+
+&lt;p&gt;Remember that we will meet for breakfast at 9:30 am and combined worship at 10:45 am.&lt;/p&gt;
 </content>
  	</entry>
  
