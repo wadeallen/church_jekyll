@@ -14,6 +14,12 @@ layout: nil
    <name>Wade Allen</name>
    <email>wade@fbcmuncie.org</email>
  </author>
+ <image>
+			<url>http://fbcmuncie.org/images/fbc_podcast_logo.png</url>
+			<title>First Baptist Church Muncie Indiana</title>
+			<link>http://fbcmuncie.org/</link>
+			<description>Sermons from First Baptist Church Muncie Indiana</description>
+ </image>	
 
  {% for post in site.posts %}
  	<entry>

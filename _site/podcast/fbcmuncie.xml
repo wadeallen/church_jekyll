@@ -4,7 +4,7 @@
         <title>First Baptist Church Muncie Indiana</title>
 	<link type="application/atom+xml" href="http://fbcmuncie.org/feed/" rel="self"/>
  	<link type="text" href="http://fbcmuncie.org" rel="alternate"/>
-	<updated>2013-02-18T15:45:04-05:00</updated>
+	<updated>2013-04-04T11:03:24-04:00</updated>
 	<id>http://fbcmuncie.org</id>
 	<author>
 		<name>First Baptist Church Muncie</name>
@@ -31,6 +31,60 @@
         <itunes:category text="Christianity"/>
     </itunes:category>
 	
+	
+	<item>
+        <title>Easter Changes Everything</title>
+        <description>&lt;p&gt;The story of Easter is familiar. Women going to the tomb, angels appearing and disciples running to tell others. But as we survey the gospel accounts of Jesus&#39; resurrection, we discover the pivotal nature of this event. For Jesus&#39; followers, Easter changed everything. May it change everything for us too. John 20:1-18&lt;/p&gt;
+</description>
+        <pubDate>2013-03-31T00:00:00-04:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-03-31.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Palm Sunday</title>
+        <description>&lt;p&gt;David Jones and students from the Oasis Ministry share on Palm Sunday.&lt;/p&gt;
+</description>
+        <pubDate>2013-03-24T00:00:00-04:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-03-24.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Broken and Poured Out</title>
+        <description>&lt;p&gt;The story of Mary pouring perfume on Jesus&#39; feet during an evening banquet is a model for us. Out of all the people in the room that evening, Mary was most in tune with what God was doing in the world. While her action draws criticism, her extravagant gift honors Jesus. Jesus commends her for her sacrifice. As we study this passage together, we will reflect on our own willingness to serve in this posture. John 12:1-8&lt;/p&gt;
+</description>
+        <pubDate>2013-03-17T00:00:00-04:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-03-17.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>The Day God Ran</title>
+        <description>&lt;p&gt;We often envision God as stern and demanding. Yet a series of parables in Luke 15 gives us a different picture of God. God is undignified in His search for what is lost. He goes to extreme measures to reclaim His treasured possesions. As we delve into the infamous parable of the prodigal son, we see God&amp;rsquo;s lavish love for us. Luke 15&lt;/p&gt;
+</description>
+        <pubDate>2013-03-10T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-03-10.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Repentance and Restoration</title>
+        <description>&lt;p&gt;As Jesus encounters tragedy, he corrects the common understandings of his day. While the religious pious point fingers at the sins of others, Jesus directs them toward examining their own hearts. He warns them of coming destruction if they fail to repent. As we engage this text, we are challenged to abandon fruitless religion for intimate relationship with God. Luke 13:1-9&lt;/p&gt;
+</description>
+        <pubDate>2013-03-03T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-03-03.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
+	
+	<item>
+        <title>Transformed</title>
+        <description>&lt;p&gt;As the disciples look back on their experience with Jesus, they remember one particular event. At the time, they did not talk about it. But looking back, they understand the significance of a mountaintop journey with Jesus. As we consider Luke 9:28–36, we are challenged in our own tendencies to stay on the mountain.&lt;/p&gt;
+</description>
+        <pubDate>2013-02-24T00:00:00-05:00</pubDate>
+        <enclosure url="http://audio.fbcmuncie.org/2013-02-24.mp3" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+	</item>
 	
 	<item>
         <title>The Temptations</title>
