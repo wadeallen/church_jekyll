@@ -1,252 +1,468 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>First Baptist Church Muncie Indiana</title>
-	<link type="application/atom+xml" href="http://fbcmuncie.org/feed/" rel="self"/>
- 	<link type="text" href="http://fbcmuncie.org" rel="alternate"/>
-	<updated>2013-04-04T11:03:24-04:00</updated>
-	<id>http://fbcmuncie.org</id>
-	<author>
-		<name>First Baptist Church Muncie</name>
-	</author>
-	<rights>Copyright (c) 2013, First Baptist Church Muncie; all rights reserved.</rights>
-	<image>
-		<url>http://audio.fbcmuncie.org/fbc_podcast_logo.png</url>
-		<title>First Baptist Church Muncie</title>
-		<link>http://fbcmuncie.org</link>
-		<description>Sermons from First Baptist Church Muncie Indiana</description>
-	</image>
-    <itunes:author>Wade Allen</itunes:author>
-    <itunes:subtitle>Sermons from First Baptist Church in Muncie, Indiana</itunes:subtitle>
-    <itunes:summary>We are: A Spirit-led people gathered to care for and empower each other by stewarding God's resources to impact our community for Christ. In this podcast, you will hear sermons from First Baptist Church in Muncie, Indiana.</itunes:summary>
-    <itunes:keywords>Muncie, First Baptist Church, Wade Allen, sermons</itunes:keywords>
-    <itunes:image href="http://audio.fbcmuncie.org/fbc_podcast_logo.png"/>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:owner>
-        <itunes:name>Wade Allen</itunes:name>
-        <itunes:email>wade@fbcmuncie.org</itunes:email>
-    </itunes:owner>
-    <itunes:block>no</itunes:block>
-    <itunes:category text="Religion &amp; Spirituality">
-        <itunes:category text="Christianity"/>
-    </itunes:category>
-	
-	
-	<item>
-        <title>Easter Changes Everything</title>
-        <description>&lt;p&gt;The story of Easter is familiar. Women going to the tomb, angels appearing and disciples running to tell others. But as we survey the gospel accounts of Jesus&#39; resurrection, we discover the pivotal nature of this event. For Jesus&#39; followers, Easter changed everything. May it change everything for us too. John 20:1-18&lt;/p&gt;
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<itunes:new-feed-url>http://fbcmuncie.org/podcast/fbcmuncie.xml</itunes:new-feed-url>
+<title>First Baptist Church Muncie Indiana</title>
+<description>Sermons from First Baptist Church Muncie Indiana</description>
+<link>http://fbcmuncie.org</link>
+<language>en-us</language>
+<copyright>Copyright 2013</copyright>
+<lastBuildDate>Thu, 11 Apr 2013 15:07:00 -0400</lastBuildDate>
+<pubDate>Thu, 11 Apr 2013 15:07:00 -0400</pubDate>
+<docs>http://fbcmuncie.org</docs>
+<webMaster>wade@fbcmuncie.org (Wade Allen)</webMaster>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:subtitle>Sermons from First Baptist Church Muncie Indiana</itunes:subtitle>
+<itunes:summary>This podcast includes sermons from First Baptist Church in Muncie, Indiana.</itunes:summary>
+<itunes:owner>
+       <itunes:name>Wade Allen</itunes:name>
+       <itunes:email>wade@fbcmuncie.org</itunes:email>
+</itunes:owner>
+<itunes:explicit>No</itunes:explicit>
+<itunes:image href="http://audio.fbcmuncie.org/fbc_podcast_logo.jpg"/>
+<itunes:category text="Religion &amp; Spirituality">
+     <itunes:category text="Christianity"/>
+</itunes:category>
+
+
+<item>
+
+<title>Our Redemption</title>
+<link>http://fbcmuncie.org/video/Our-Redemption</link>
+<guid>http://audio.fbcmuncie.org/2013-04-07.mp3</guid>
+<description>&lt;p&gt;Paul reminds us why we worship. Our worship is centered in God&amp;rsquo;s work redemption through the blood of Jesus. We are reminded that we have been called, chosen to be a part of God&amp;rsquo;s work. We are reminded that God&amp;rsq...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-04-07.mp3" length="27665788" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 07 Apr 2013 00:00:00 -0400</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;Paul reminds us why we worship. Our worship is centered in God&amp;rsquo;s work redemption through the blood of Jesus. We are reminded that we have been called, chosen to be a part of God&amp;rsquo;s work. We are reminded that God&amp;rsq...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;Paul reminds us why we worship. Our worship is centered in God&amp;rsquo;s work redemption through the blood of Jesus. We are reminded that we have been called, chosen to be a part of God&amp;rsquo;s work. We are reminded that God&amp;rsq...</itunes:summary>
+<itunes:duration>28:38</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Easter Changes Everything</title>
+<link>http://fbcmuncie.org/video/Easter-Changes-Everything</link>
+<guid>http://audio.fbcmuncie.org/2013-03-31.mp3</guid>
+<description>&lt;p&gt;The story of Easter is familiar. Women going to the tomb, angels appearing and disciples running to tell others. But as we survey the gospel accounts of Jesus&#39; resurrection, we discover the pivotal nature of this event. For Jesus&#39;...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-03-31.mp3" length="29219096" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 31 Mar 2013 00:00:00 -0400</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;The story of Easter is familiar. Women going to the tomb, angels appearing and disciples running to tell others. But as we survey the gospel accounts of Jesus&#39; resurrection, we discover the pivotal nature of this event. For Jesus&#39;...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;The story of Easter is familiar. Women going to the tomb, angels appearing and disciples running to tell others. But as we survey the gospel accounts of Jesus&#39; resurrection, we discover the pivotal nature of this event. For Jesus&#39;...</itunes:summary>
+<itunes:duration>30:15</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Palm Sunday</title>
+<link>http://fbcmuncie.org/video/Palm-Sunday</link>
+<guid>http://audio.fbcmuncie.org/2013-03-24.mp3</guid>
+<description>&lt;p&gt;David Jones and students from the Oasis Ministry share on Palm Sunday.&lt;/p&gt;
 </description>
-        <pubDate>2013-03-31T00:00:00-04:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-03-31.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Palm Sunday</title>
-        <description>&lt;p&gt;David Jones and students from the Oasis Ministry share on Palm Sunday.&lt;/p&gt;
+<enclosure url="http://audio.fbcmuncie.org/2013-03-24.mp3" length="34046543" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 24 Mar 2013 00:00:00 -0400</pubDate>
+<itunes:author>David Jones</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;David Jones and students from the Oasis Ministry share on Palm Sunday.&lt;/p&gt;
+</itunes:subtitle>
+<itunes:summary>&lt;p&gt;David Jones and students from the Oasis Ministry share on Palm Sunday.&lt;/p&gt;
+</itunes:summary>
+<itunes:duration>35:17</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Broken and Poured Out</title>
+<link>http://fbcmuncie.org/video/Broken-and-Poured-Out</link>
+<guid>http://audio.fbcmuncie.org/2013-03-17.mp3</guid>
+<description>&lt;p&gt;The story of Mary pouring perfume on Jesus&#39; feet during an evening banquet is a model for us. Out of all the people in the room that evening, Mary was most in tune with what God was doing in the world. While her action draws criticism...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-03-17.mp3" length="16027331" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 17 Mar 2013 00:00:00 -0400</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;The story of Mary pouring perfume on Jesus&#39; feet during an evening banquet is a model for us. Out of all the people in the room that evening, Mary was most in tune with what God was doing in the world. While her action draws criticism...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;The story of Mary pouring perfume on Jesus&#39; feet during an evening banquet is a model for us. Out of all the people in the room that evening, Mary was most in tune with what God was doing in the world. While her action draws criticism...</itunes:summary>
+<itunes:duration>33:02</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>The Day God Ran</title>
+<link>http://fbcmuncie.org/video/The-Day-God-Ran</link>
+<guid>http://audio.fbcmuncie.org/2013-03-10.mp3</guid>
+<description>&lt;p&gt;We often envision God as stern and demanding. Yet a series of parables in Luke 15 gives us a different picture of God. God is undignified in His search for what is lost. He goes to extreme measures to reclaim His treasured possesions. As ...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-03-10.mp3" length="13346031" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 10 Mar 2013 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;We often envision God as stern and demanding. Yet a series of parables in Luke 15 gives us a different picture of God. God is undignified in His search for what is lost. He goes to extreme measures to reclaim His treasured possesions. As ...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;We often envision God as stern and demanding. Yet a series of parables in Luke 15 gives us a different picture of God. God is undignified in His search for what is lost. He goes to extreme measures to reclaim His treasured possesions. As ...</itunes:summary>
+<itunes:duration>27:27</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Repentance and Restoration</title>
+<link>http://fbcmuncie.org/video/Repentance-and-Restoration</link>
+<guid>http://audio.fbcmuncie.org/2013-03-03.mp3</guid>
+<description>&lt;p&gt;As Jesus encounters tragedy, he corrects the common understandings of his day. While the religious pious point fingers at the sins of others, Jesus directs them toward examining their own hearts. He warns them of coming destruction if the...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-03-03.mp3" length="15969613" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 03 Mar 2013 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;As Jesus encounters tragedy, he corrects the common understandings of his day. While the religious pious point fingers at the sins of others, Jesus directs them toward examining their own hearts. He warns them of coming destruction if the...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;As Jesus encounters tragedy, he corrects the common understandings of his day. While the religious pious point fingers at the sins of others, Jesus directs them toward examining their own hearts. He warns them of coming destruction if the...</itunes:summary>
+<itunes:duration>32:55</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Transformed</title>
+<link>http://fbcmuncie.org/video/Transformed</link>
+<guid>http://audio.fbcmuncie.org/2013-02-24.mp3</guid>
+<description>&lt;p&gt;As the disciples look back on their experience with Jesus, they remember one particular event. At the time, they did not talk about it. But looking back, they understand the significance of a mountaintop journey with Jesus. As we consider...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-02-24.mp3" length="14971359" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 24 Feb 2013 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;As the disciples look back on their experience with Jesus, they remember one particular event. At the time, they did not talk about it. But looking back, they understand the significance of a mountaintop journey with Jesus. As we consider...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;As the disciples look back on their experience with Jesus, they remember one particular event. At the time, they did not talk about it. But looking back, they understand the significance of a mountaintop journey with Jesus. As we consider...</itunes:summary>
+<itunes:duration>30:50</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>The Temptations</title>
+<link>http://fbcmuncie.org/video/The-Temptations</link>
+<guid>http://audio.fbcmuncie.org/2013-02-17.mp3</guid>
+<description>&lt;p&gt;Shortly after Jesus&amp;rsquo;s baptism, he travels into the wilderness to be tempted by the devil. For 40 days, he eats nothing and battles temptation. As we explore Luke&amp;rsquo;s account of these temptations, we are challenged in our...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-02-17.mp3" length="16588531" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;Shortly after Jesus&amp;rsquo;s baptism, he travels into the wilderness to be tempted by the devil. For 40 days, he eats nothing and battles temptation. As we explore Luke&amp;rsquo;s account of these temptations, we are challenged in our...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;Shortly after Jesus&amp;rsquo;s baptism, he travels into the wilderness to be tempted by the devil. For 40 days, he eats nothing and battles temptation. As we explore Luke&amp;rsquo;s account of these temptations, we are challenged in our...</itunes:summary>
+<itunes:duration>34:12</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Hearts Follow Treasure</title>
+<link>http://fbcmuncie.org/video/Hearts-Follow-Treasure</link>
+<guid>http://audio.fbcmuncie.org/2013-02-10.mp3</guid>
+<description>&lt;p&gt;Jesus instructs us to be careful where we place our stockpiles, our treasures. He instructs us to build them in eternal places. As we do so, our hearts will gravitate toward those places. Matthew 6:19-21&lt;/p&gt;
 </description>
-        <pubDate>2013-03-24T00:00:00-04:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-03-24.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Broken and Poured Out</title>
-        <description>&lt;p&gt;The story of Mary pouring perfume on Jesus&#39; feet during an evening banquet is a model for us. Out of all the people in the room that evening, Mary was most in tune with what God was doing in the world. While her action draws criticism, her extravagant gift honors Jesus. Jesus commends her for her sacrifice. As we study this passage together, we will reflect on our own willingness to serve in this posture. John 12:1-8&lt;/p&gt;
+<enclosure url="http://audio.fbcmuncie.org/2013-02-10.mp3" length="12712071" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;Jesus instructs us to be careful where we place our stockpiles, our treasures. He instructs us to build them in eternal places. As we do so, our hearts will gravitate toward those places. Matthew 6:19-21&lt;/p&gt;
+</itunes:subtitle>
+<itunes:summary>&lt;p&gt;Jesus instructs us to be careful where we place our stockpiles, our treasures. He instructs us to build them in eternal places. As we do so, our hearts will gravitate toward those places. Matthew 6:19-21&lt;/p&gt;
+</itunes:summary>
+<itunes:duration>26:08</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Two Masters</title>
+<link>http://fbcmuncie.org/video/Two-Masters</link>
+<guid>http://audio.fbcmuncie.org/2013-02-03.mp3</guid>
+<description>&lt;p&gt;Soozi Whitten Ford teaches from Luke 16:13-15. Soozi is the Executive Minister for American Baptist Churches in Indiana and Kentucky. She has recently moved to Indiana in 2012. She has served the American Baptist Churches USA nationally i...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-02-03.mp3" length="14359717" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 03 Feb 2013 00:00:00 -0500</pubDate>
+<itunes:author>Soozi Whitten Ford</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;Soozi Whitten Ford teaches from Luke 16:13-15. Soozi is the Executive Minister for American Baptist Churches in Indiana and Kentucky. She has recently moved to Indiana in 2012. She has served the American Baptist Churches USA nationally i...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;Soozi Whitten Ford teaches from Luke 16:13-15. Soozi is the Executive Minister for American Baptist Churches in Indiana and Kentucky. She has recently moved to Indiana in 2012. She has served the American Baptist Churches USA nationally i...</itunes:summary>
+<itunes:duration>29:34</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>The Body of Christ</title>
+<link>http://fbcmuncie.org/video/Body-of-Christ</link>
+<guid>http://audio.fbcmuncie.org/2013-01-27.mp3</guid>
+<description>&lt;p&gt;Paul uses the illustration of anatomy to describe the way we function as a church. A physical body has many parts, but it is one unit. Each part has a vital role in is health. As we study 1 Corinthians 12:12-31a, we are each challenged to...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-01-27.mp3" length="19129939" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 27 Jan 2013 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;Paul uses the illustration of anatomy to describe the way we function as a church. A physical body has many parts, but it is one unit. Each part has a vital role in is health. As we study 1 Corinthians 12:12-31a, we are each challenged to...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;Paul uses the illustration of anatomy to describe the way we function as a church. A physical body has many parts, but it is one unit. Each part has a vital role in is health. As we study 1 Corinthians 12:12-31a, we are each challenged to...</itunes:summary>
+<itunes:duration>39:30</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Stewardship</title>
+<link>http://fbcmuncie.org/video/Body-of-Christ-One</link>
+<guid>http://audio.fbcmuncie.org/2013-01-20.mp3</guid>
+<description>&lt;p&gt;Doug Gregg preaches a sermon on stewardship.&lt;/p&gt;
 </description>
-        <pubDate>2013-03-17T00:00:00-04:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-03-17.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>The Day God Ran</title>
-        <description>&lt;p&gt;We often envision God as stern and demanding. Yet a series of parables in Luke 15 gives us a different picture of God. God is undignified in His search for what is lost. He goes to extreme measures to reclaim His treasured possesions. As we delve into the infamous parable of the prodigal son, we see God&amp;rsquo;s lavish love for us. Luke 15&lt;/p&gt;
+<enclosure url="http://audio.fbcmuncie.org/2013-01-20.mp3" length="13672970" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 20 Jan 2013 00:00:00 -0500</pubDate>
+<itunes:author>Doug Gregg</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;Doug Gregg preaches a sermon on stewardship.&lt;/p&gt;
+</itunes:subtitle>
+<itunes:summary>&lt;p&gt;Doug Gregg preaches a sermon on stewardship.&lt;/p&gt;
+</itunes:summary>
+<itunes:duration>28:08</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Giving God Credit</title>
+<link>http://fbcmuncie.org/video/Giving-God-Credit</link>
+<guid>http://audio.fbcmuncie.org/2013-01-13.mp3</guid>
+<description>&lt;p&gt;In Psalm 29, David challenges us to give God credit in all things. But giving credit to God is more than lip service. It includes giving God what he is due. This plays out in the way in which we allocate our resources (our time, our money...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-01-13.mp3" length="12272981" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 13 Jan 2013 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;In Psalm 29, David challenges us to give God credit in all things. But giving credit to God is more than lip service. It includes giving God what he is due. This plays out in the way in which we allocate our resources (our time, our money...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;In Psalm 29, David challenges us to give God credit in all things. But giving credit to God is more than lip service. It includes giving God what he is due. This plays out in the way in which we allocate our resources (our time, our money...</itunes:summary>
+<itunes:duration>25:13</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Posture of Sacrifice</title>
+<link>http://fbcmuncie.org/video/Posture-of-Sacrifice</link>
+<guid>http://audio.fbcmuncie.org/2013-01-06.mp3</guid>
+<description>&lt;p&gt;On this first Sunday of Epiphany, we consider the journey of the wise men. They travel a great distance and offer valuable gifts in order to worship Jesus. Their worship is a model of authentic worship. May we consider our own acts of wor...</description>
+<enclosure url="http://audio.fbcmuncie.org/2013-01-06.mp3" length="14584405" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 06 Jan 2013 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;On this first Sunday of Epiphany, we consider the journey of the wise men. They travel a great distance and offer valuable gifts in order to worship Jesus. Their worship is a model of authentic worship. May we consider our own acts of wor...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;On this first Sunday of Epiphany, we consider the journey of the wise men. They travel a great distance and offer valuable gifts in order to worship Jesus. Their worship is a model of authentic worship. May we consider our own acts of wor...</itunes:summary>
+<itunes:duration>30:02</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Trusting God in the New Year</title>
+<link>http://fbcmuncie.org/video/Trusting-God-in-the-New-Year</link>
+<guid>http://audio.fbcmuncie.org/2012-12-30.mp3</guid>
+<description>&lt;p&gt;On the final Sunday of 2012, we consider God&amp;rsquo;s calling in our life to live in various times. We will journey through the story of a small group at First Baptist Church Muncie. in 2012, God called this group to step out into some...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-12-30.mp3" length="15765989" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 30 Dec 2012 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;On the final Sunday of 2012, we consider God&amp;rsquo;s calling in our life to live in various times. We will journey through the story of a small group at First Baptist Church Muncie. in 2012, God called this group to step out into some...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;On the final Sunday of 2012, we consider God&amp;rsquo;s calling in our life to live in various times. We will journey through the story of a small group at First Baptist Church Muncie. in 2012, God called this group to step out into some...</itunes:summary>
+<itunes:duration>32:29</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Christmas Eve</title>
+<link>http://fbcmuncie.org/video/christmas-eve</link>
+<guid>http://audio.fbcmuncie.org/2012-12-24.mp3</guid>
+<description>&lt;p&gt;The candlelight Christmas Eve service at First Baptist Church Muncie is a highlight of the Christmas season. Families gather to kick off Christmas celebrations in a beautifully decorated sanctuary. As we light Christmas eve candle, we rem...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-12-24.mp3" length="11471729" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Mon, 24 Dec 2012 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;The candlelight Christmas Eve service at First Baptist Church Muncie is a highlight of the Christmas season. Families gather to kick off Christmas celebrations in a beautifully decorated sanctuary. As we light Christmas eve candle, we rem...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;The candlelight Christmas Eve service at First Baptist Church Muncie is a highlight of the Christmas season. Families gather to kick off Christmas celebrations in a beautifully decorated sanctuary. As we light Christmas eve candle, we rem...</itunes:summary>
+<itunes:duration>23:32</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Mary's Song</title>
+<link>http://fbcmuncie.org/video/marys-song</link>
+<guid>http://audio.fbcmuncie.org/2012-12-23.mp3</guid>
+<description>&lt;p&gt;As we approach Christmas day, we are often overwhelmed with the stress of the holiday season. The hustle and bustle of buying gifts and preparing food often overshadow the true meaning of Christmas. On this third Sunday of Advent, we cons...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-12-23.mp3" length="14093208" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 23 Dec 2012 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;As we approach Christmas day, we are often overwhelmed with the stress of the holiday season. The hustle and bustle of buying gifts and preparing food often overshadow the true meaning of Christmas. On this third Sunday of Advent, we cons...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;As we approach Christmas day, we are often overwhelmed with the stress of the holiday season. The hustle and bustle of buying gifts and preparing food often overshadow the true meaning of Christmas. On this third Sunday of Advent, we cons...</itunes:summary>
+<itunes:duration>29:00</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Re Focus</title>
+<link>http://fbcmuncie.org/video/Re-Focus</link>
+<guid>http://audio.fbcmuncie.org/2012-12-16.mp3</guid>
+<description>&lt;p&gt;Our lives are often overwhelmed by the anxiety of our current circumstances. In this Advent season, we are challenged to refocus on the greater realities. As Paul instructed the Philippians church, we must place our anxieties in God’s car...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-12-16.mp3" length="17000596" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 16 Dec 2012 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;Our lives are often overwhelmed by the anxiety of our current circumstances. In this Advent season, we are challenged to refocus on the greater realities. As Paul instructed the Philippians church, we must place our anxieties in God’s car...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;Our lives are often overwhelmed by the anxiety of our current circumstances. In this Advent season, we are challenged to refocus on the greater realities. As Paul instructed the Philippians church, we must place our anxieties in God’s car...</itunes:summary>
+<itunes:duration>35:04</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Expectant</title>
+<link>http://fbcmuncie.org/video/Expectant</link>
+<guid>http://audio.fbcmuncie.org/2012-12-09.mp3</guid>
+<description>&lt;p&gt; Paul&amp;rsquo;s letter to the Philippians allows us to peer into his heart. He is confident that God will complete the work He began in the Philippians church. He anticipates that this work one day come to an end as Jesus returns. His p...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-12-09.mp3" length="14905122" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 09 Dec 2012 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt; Paul&amp;rsquo;s letter to the Philippians allows us to peer into his heart. He is confident that God will complete the work He began in the Philippians church. He anticipates that this work one day come to an end as Jesus returns. His p...</itunes:subtitle>
+<itunes:summary>&lt;p&gt; Paul&amp;rsquo;s letter to the Philippians allows us to peer into his heart. He is confident that God will complete the work He began in the Philippians church. He anticipates that this work one day come to an end as Jesus returns. His p...</itunes:summary>
+<itunes:duration>30:32</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>His Return</title>
+<link>http://fbcmuncie.org/video/his-return</link>
+<guid>http://audio.fbcmuncie.org/2012-12-02.mp3</guid>
+<description>&lt;p&gt;As we approach the season of Advent, we are reminded that it is a season of urgency and expectancy. Jesus called his disciples to this posture of urgency and expectancy as he told them of his second coming. May we learn to live in the sam...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-12-02.mp3" length="17496987" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 02 Dec 2012 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;As we approach the season of Advent, we are reminded that it is a season of urgency and expectancy. Jesus called his disciples to this posture of urgency and expectancy as he told them of his second coming. May we learn to live in the sam...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;As we approach the season of Advent, we are reminded that it is a season of urgency and expectancy. Jesus called his disciples to this posture of urgency and expectancy as he told them of his second coming. May we learn to live in the sam...</itunes:summary>
+<itunes:duration>35:44</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Orphans in China</title>
+<link>http://fbcmuncie.org/video/orphans-in-china</link>
+<guid>http://audio.fbcmuncie.org/2012-11-25.mp3</guid>
+<description>&lt;p&gt;Katy Kessler, a student at Ball State, will be sharing about her experience this summer. She is an occupational therapy major who worked in an orphanage in China this summer. She will be sharing her story in worship.&lt;/p&gt;
 </description>
-        <pubDate>2013-03-10T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-03-10.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Repentance and Restoration</title>
-        <description>&lt;p&gt;As Jesus encounters tragedy, he corrects the common understandings of his day. While the religious pious point fingers at the sins of others, Jesus directs them toward examining their own hearts. He warns them of coming destruction if they fail to repent. As we engage this text, we are challenged to abandon fruitless religion for intimate relationship with God. Luke 13:1-9&lt;/p&gt;
-</description>
-        <pubDate>2013-03-03T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-03-03.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Transformed</title>
-        <description>&lt;p&gt;As the disciples look back on their experience with Jesus, they remember one particular event. At the time, they did not talk about it. But looking back, they understand the significance of a mountaintop journey with Jesus. As we consider Luke 9:28–36, we are challenged in our own tendencies to stay on the mountain.&lt;/p&gt;
-</description>
-        <pubDate>2013-02-24T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-02-24.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>The Temptations</title>
-        <description>&lt;p&gt;Shortly after Jesus&amp;rsquo;s baptism, he travels into the wilderness to be tempted by the devil. For 40 days, he eats nothing and battles temptation. As we explore Luke&amp;rsquo;s account of these temptations, we are challenged in our own temptations. Jesus models for us successful resistance to the evil one. Luke 4:1-13&lt;/p&gt;
-</description>
-        <pubDate>2013-02-17T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-02-17.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Hearts Follow Treasure</title>
-        <description>&lt;p&gt;Jesus instructs us to be careful where we place our stockpiles, our treasures. He instructs us to build them in eternal places. As we do so, our hearts will gravitate toward those places. Matthew 6:19-21&lt;/p&gt;
-</description>
-        <pubDate>2013-02-10T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-02-10.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Two Masters</title>
-        <description>&lt;p&gt;Soozi Whitten Ford teaches from Luke 16:13-15. Soozi is the Executive Minister for American Baptist Churches in Indiana and Kentucky. She has recently moved to Indiana in 2012. She has served the American Baptist Churches USA nationally in the area of stewardship.&lt;/p&gt;
-</description>
-        <pubDate>2013-02-03T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-02-03.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>The Body of Christ</title>
-        <description>&lt;p&gt;Paul uses the illustration of anatomy to describe the way we function as a church. A physical body has many parts, but it is one unit. Each part has a vital role in is health. As we study 1 Corinthians 12:12-31a, we are each challenged to steward our time and energy in ways that strengthen the body of Christ.&lt;/p&gt;
-</description>
-        <pubDate>2013-01-27T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-01-27.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Stewardship</title>
-        <description>&lt;p&gt;Doug Gregg preaches a sermon on stewardship.&lt;/p&gt;
-</description>
-        <pubDate>2013-01-20T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-01-20.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Giving God Credit</title>
-        <description>&lt;p&gt;In Psalm 29, David challenges us to give God credit in all things. But giving credit to God is more than lip service. It includes giving God what he is due. This plays out in the way in which we allocate our resources (our time, our money, our attention). And the promise of this psalm is that when we truly make God King (ascribe to Him all that is due Him), he blesses his people with peace.&lt;/p&gt;
-</description>
-        <pubDate>2013-01-13T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-01-13.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Posture of Sacrifice</title>
-        <description>&lt;p&gt;On this first Sunday of Epiphany, we consider the journey of the wise men. They travel a great distance and offer valuable gifts in order to worship Jesus. Their worship is a model of authentic worship. May we consider our own acts of worship as we engage the story together. Matthew 2:1-12&lt;/p&gt;
-</description>
-        <pubDate>2013-01-06T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2013-01-06.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Trusting God in the New Year</title>
-        <description>&lt;p&gt;On the final Sunday of 2012, we consider God&amp;rsquo;s calling in our life to live in various times. We will journey through the story of a small group at First Baptist Church Muncie. in 2012, God called this group to step out into something new and different. We will celebrate their courage and look forward to their new adventure in 2013.&lt;/p&gt;
-</description>
-        <pubDate>2012-12-30T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-12-30.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Christmas Eve</title>
-        <description>&lt;p&gt;The candlelight Christmas Eve service at First Baptist Church Muncie is a highlight of the Christmas season. Families gather to kick off Christmas celebrations in a beautifully decorated sanctuary. As we light Christmas eve candle, we remember the reason for our celebration. The story of Christmas is placed in the context of Christ&amp;rsquo;s sacrifice for us. There is no more appropriate way to begin Christmas than by receiving the most precious gift, His body broken for us and His blood shed for us.&lt;/p&gt;
-</description>
-        <pubDate>2012-12-24T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-12-24.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Mary's Song</title>
-        <description>&lt;p&gt;As we approach Christmas day, we are often overwhelmed with the stress of the holiday season. The hustle and bustle of buying gifts and preparing food often overshadow the true meaning of Christmas. On this third Sunday of Advent, we consider Mary&amp;rsquo;s response to God&amp;rsquo;s intervention in her life. It is a response of giving. May we be challenged through this story to submit our lives to God&amp;rsquo;s purposes. Luke 1:39-55&lt;/p&gt;
-</description>
-        <pubDate>2012-12-23T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-12-23.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Re Focus</title>
-        <description>&lt;p&gt;Our lives are often overwhelmed by the anxiety of our current circumstances. In this Advent season, we are challenged to refocus on the greater realities. As Paul instructed the Philippians church, we must place our anxieties in God’s care. As we are able to do this, we will experience a piece that is beyond understanding. Philippians 4:4-7&lt;/p&gt;
-</description>
-        <pubDate>2012-12-16T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-12-16.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Expectant</title>
-        <description>&lt;p&gt; Paul&amp;rsquo;s letter to the Philippians allows us to peer into his heart. He is confident that God will complete the work He began in the Philippians church. He anticipates that this work one day come to an end as Jesus returns. His prayer for the Philippians is that they would also live in this anticipation of Jesus&amp;rsquo;s return. As you and I explore this text, we are challenged to live in a posture of expectancy and urgency. God will one day return; this truth should drive us as we live out the gospel in our world. Philippians 1:3-11&lt;/p&gt;
-</description>
-        <pubDate>2012-12-09T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-12-09.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>His Return</title>
-        <description>&lt;p&gt;As we approach the season of Advent, we are reminded that it is a season of urgency and expectancy. Jesus called his disciples to this posture of urgency and expectancy as he told them of his second coming. May we learn to live in the same posture as we look forward to Christ&amp;rsquo;s return.&lt;/p&gt;
-</description>
-        <pubDate>2012-12-02T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-12-02.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Orphans in China</title>
-        <description>&lt;p&gt;Katy Kessler, a student at Ball State, will be sharing about her experience this summer. She is an occupational therapy major who worked in an orphanage in China this summer. She will be sharing her story in worship.&lt;/p&gt;
-</description>
-        <pubDate>2012-11-25T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-11-25.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>The Story of Jonah</title>
-        <description>&lt;p&gt;On November 18, we will worship in a combined worship service at 1045 a.m. The children will share a musical about the story of Jonah. We will also reflect the sermon on the call of God in our own lives. Jonah was more concerned about his own comfort, less concerned about following God’s mission in the world. We are challenged by his story to discard our own plans for God’s mission.&lt;/p&gt;
-</description>
-        <pubDate>2012-11-18T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-11-18.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>A Closing Scene</title>
-        <description>&lt;p&gt;In the closing scenes of Genesis, we are reminded that God’s story is not over. As Jacob and Joseph pass from the scene, the promise of deliverance looms. As the curtain closes in Genesis, Joseph is embalmed and lies in an Egyptian coffin. Yet the story of God continues. As we gather, we are reminded of our connection with this story. We are reminded that God’s grace comes to fruition through the work of Jesus. As we connect and live in story of God, we are transformed.&lt;/p&gt;
-</description>
-        <pubDate>2012-11-11T00:00:00-05:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-11-11.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>The Destiny of Jacob's Sons</title>
-        <description>&lt;p&gt;In Genesis 49, Jacob calls his sons to his deathbed for a blessing. He speaks powerful words that shape generations to come. His sons, forming the twelve tribes of Israel, will prepare the way for God to enter the world through Jesus. As the book of Genesis nears its end, we are reminded that the story continues as the people of God are now formed.&lt;/p&gt;
-</description>
-        <pubDate>2012-11-04T00:00:00-04:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-11-04.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-	<item>
-        <title>Surprise Blessing</title>
-        <description>&lt;p&gt;As we near the conclusion of the book of Genesis, Jacob is near death. Joseph and his sons pay a visit to his ailing father. Jacob’s actions of adopting and blessing his grandsons remind us that God often moves in surprising ways. As we learn to follow God, we discover that He often acts and moves in ways that we would not plan. Genesis 48&lt;/p&gt;
-</description>
-        <pubDate>2012-10-28T00:00:00-04:00</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/2012-10-28.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	
-    </channel>
+<enclosure url="http://audio.fbcmuncie.org/2012-11-25.mp3" length="11546769" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 25 Nov 2012 00:00:00 -0500</pubDate>
+<itunes:author>Katy Kessler</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;Katy Kessler, a student at Ball State, will be sharing about her experience this summer. She is an occupational therapy major who worked in an orphanage in China this summer. She will be sharing her story in worship.&lt;/p&gt;
+</itunes:subtitle>
+<itunes:summary>&lt;p&gt;Katy Kessler, a student at Ball State, will be sharing about her experience this summer. She is an occupational therapy major who worked in an orphanage in China this summer. She will be sharing her story in worship.&lt;/p&gt;
+</itunes:summary>
+<itunes:duration>23:49</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>The Story of Jonah</title>
+<link>http://fbcmuncie.org/video/dont-want-to-go</link>
+<guid>http://audio.fbcmuncie.org/2012-11-18.mp3</guid>
+<description>&lt;p&gt;On November 18, we will worship in a combined worship service at 1045 a.m. The children will share a musical about the story of Jonah. We will also reflect the sermon on the call of God in our own lives. Jonah was more concerned about his...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-11-18.mp3" length="7883127" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 18 Nov 2012 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;On November 18, we will worship in a combined worship service at 1045 a.m. The children will share a musical about the story of Jonah. We will also reflect the sermon on the call of God in our own lives. Jonah was more concerned about his...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;On November 18, we will worship in a combined worship service at 1045 a.m. The children will share a musical about the story of Jonah. We will also reflect the sermon on the call of God in our own lives. Jonah was more concerned about his...</itunes:summary>
+<itunes:duration>16:10</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>A Closing Scene</title>
+<link>http://fbcmuncie.org/video/a-closing-scene</link>
+<guid>http://audio.fbcmuncie.org/2012-11-11.mp3</guid>
+<description>&lt;p&gt;In the closing scenes of Genesis, we are reminded that God’s story is not over. As Jacob and Joseph pass from the scene, the promise of deliverance looms. As the curtain closes in Genesis, Joseph is embalmed and lies in an Egyptian coffin...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-11-11.mp3" length="13576848" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 11 Nov 2012 00:00:00 -0500</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;In the closing scenes of Genesis, we are reminded that God’s story is not over. As Jacob and Joseph pass from the scene, the promise of deliverance looms. As the curtain closes in Genesis, Joseph is embalmed and lies in an Egyptian coffin...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;In the closing scenes of Genesis, we are reminded that God’s story is not over. As Jacob and Joseph pass from the scene, the promise of deliverance looms. As the curtain closes in Genesis, Joseph is embalmed and lies in an Egyptian coffin...</itunes:summary>
+<itunes:duration>28:04</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>The Destiny of Jacob's Sons</title>
+<link>http://fbcmuncie.org/video/destiny-jacobs-sons</link>
+<guid>http://audio.fbcmuncie.org/2012-11-04.mp3</guid>
+<description>&lt;p&gt;In Genesis 49, Jacob calls his sons to his deathbed for a blessing. He speaks powerful words that shape generations to come. His sons, forming the twelve tribes of Israel, will prepare the way for God to enter the world through Jesus. As ...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-11-04.mp3" length="13358528" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 04 Nov 2012 00:00:00 -0400</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;In Genesis 49, Jacob calls his sons to his deathbed for a blessing. He speaks powerful words that shape generations to come. His sons, forming the twelve tribes of Israel, will prepare the way for God to enter the world through Jesus. As ...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;In Genesis 49, Jacob calls his sons to his deathbed for a blessing. He speaks powerful words that shape generations to come. His sons, forming the twelve tribes of Israel, will prepare the way for God to enter the world through Jesus. As ...</itunes:summary>
+<itunes:duration>27:34</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+<item>
+
+<title>Surprise Blessing</title>
+<link>http://fbcmuncie.org/video/surprise-blessing</link>
+<guid>http://audio.fbcmuncie.org/2012-10-28.mp3</guid>
+<description>&lt;p&gt;As we near the conclusion of the book of Genesis, Jacob is near death. Joseph and his sons pay a visit to his ailing father. Jacob’s actions of adopting and blessing his grandsons remind us that God often moves in surprising ways. As we l...</description>
+<enclosure url="http://audio.fbcmuncie.org/2012-10-28.mp3" length="13562642" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>Sun, 28 Oct 2012 00:00:00 -0400</pubDate>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>&lt;p&gt;As we near the conclusion of the book of Genesis, Jacob is near death. Joseph and his sons pay a visit to his ailing father. Jacob’s actions of adopting and blessing his grandsons remind us that God often moves in surprising ways. As we l...</itunes:subtitle>
+<itunes:summary>&lt;p&gt;As we near the conclusion of the book of Genesis, Jacob is near death. Joseph and his sons pay a visit to his ailing father. Jacob’s actions of adopting and blessing his grandsons remind us that God often moves in surprising ways. As we l...</itunes:summary>
+<itunes:duration>28:00</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+
+</channel>
 </rss>

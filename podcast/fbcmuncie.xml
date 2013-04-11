@@ -1,47 +1,52 @@
 ---
 layout: nil
 ---
+
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>First Baptist Church Muncie Indiana</title>
-	<link type="application/atom+xml" href="http://fbcmuncie.org/feed/" rel="self"/>
- 	<link type="text" href="http://fbcmuncie.org" rel="alternate"/>
-	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://fbcmuncie.org</id>
-	<author>
-		<name>First Baptist Church Muncie</name>
-	</author>
-	<rights>Copyright (c) 2013, First Baptist Church Muncie; all rights reserved.</rights>
-	<image>
-		<url>http://audio.fbcmuncie.org/fbc_podcast_logo.png</url>
-		<title>First Baptist Church Muncie</title>
-		<link>http://fbcmuncie.org</link>
-		<description>Sermons from First Baptist Church Muncie Indiana</description>
-	</image>
-    <itunes:author>Wade Allen</itunes:author>
-    <itunes:subtitle>Sermons from First Baptist Church in Muncie, Indiana</itunes:subtitle>
-    <itunes:summary>We are: A Spirit-led people gathered to care for and empower each other by stewarding God's resources to impact our community for Christ. In this podcast, you will hear sermons from First Baptist Church in Muncie, Indiana.</itunes:summary>
-    <itunes:keywords>Muncie, First Baptist Church, Wade Allen, sermons</itunes:keywords>
-    <itunes:image href="http://audio.fbcmuncie.org/fbc_podcast_logo.png"/>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:owner>
-        <itunes:name>Wade Allen</itunes:name>
-        <itunes:email>wade@fbcmuncie.org</itunes:email>
-    </itunes:owner>
-    <itunes:block>no</itunes:block>
-    <itunes:category text="Religion &amp; Spirituality">
-        <itunes:category text="Christianity"/>
-    </itunes:category>
-	
-	{% for post in site.categories.video %}
-	<item>
-        <title>{{ post.title }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-        <enclosure url="http://audio.fbcmuncie.org/{{ post.date | date: "%Y-%m-%d" }}.mp3" type="audio/mpeg"/>
-        <itunes:explicit>no</itunes:explicit>
-	</item>
-	{% endfor %}
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<itunes:new-feed-url>http://fbcmuncie.org/podcast/fbcmuncie.xml</itunes:new-feed-url>
+<title>First Baptist Church Muncie Indiana</title>
+<description>Sermons from First Baptist Church Muncie Indiana</description>
+<link>http://fbcmuncie.org</link>
+<language>en-us</language>
+<copyright>Copyright 2013</copyright>
+<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+<docs>http://fbcmuncie.org</docs>
+<webMaster>wade@fbcmuncie.org (Wade Allen)</webMaster>
+<itunes:author>Wade Allen</itunes:author>
+<itunes:subtitle>Sermons from First Baptist Church Muncie Indiana</itunes:subtitle>
+<itunes:summary>This podcast includes sermons from First Baptist Church in Muncie, Indiana.</itunes:summary>
+<itunes:owner>
+       <itunes:name>Wade Allen</itunes:name>
+       <itunes:email>wade@fbcmuncie.org</itunes:email>
+</itunes:owner>
+<itunes:explicit>No</itunes:explicit>
+<itunes:image href="http://audio.fbcmuncie.org/fbc_podcast_logo.jpg"/>
+<itunes:category text="Religion &amp; Spirituality">
+     <itunes:category text="Christianity"/>
+</itunes:category>
+
+{% for post in site.categories.video %}
+<item>
+
+<title>{{ post.title }}</title>
+<link>http://{{ site.url }}{{ post.url }}</link>
+<guid>http://audio.fbcmuncie.org/{{ post.date | date: "%Y-%m-%d" }}.mp3</guid>
+<description>{{ post.content | xml_escape | truncate:250 }}</description>
+<enclosure url="http://audio.fbcmuncie.org/{{ post.date | date: "%Y-%m-%d" }}.mp3" length="{{ post.length }}" type="audio/mpeg"/>
+<category>Sermons</category>
+<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+<itunes:author>{{ post.author }}</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>{{ post.content | xml_escape | truncate:250 }}</itunes:subtitle>
+<itunes:summary>{{ post.content | xml_escape | truncate:250 }}</itunes:summary>
+<itunes:duration>{{ post.duration }}</itunes:duration>
+<itunes:keywords>church, sermon</itunes:keywords>
+</item>
+{% endfor %}
+</channel>
 </rss>
