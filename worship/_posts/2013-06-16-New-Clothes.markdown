@@ -1,0 +1,8 @@
+--- 
+author: Wade Allen 
+title: New Clothes 
+date: 2013-06-16 
+layout: worship 
+---
+
+This week, we began a mini series inside of our Ephesians study. Paul challenges early Christians to take off the old and put on the new. The word translated as "put on" is often translated as wear or clothe. While God transforms us from the inside, this renewal also makes it way to the outside. We are challenged to dress like God. Ephesians 4:17-24
