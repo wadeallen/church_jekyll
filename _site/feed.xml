@@ -4,7 +4,7 @@
  <title>First Baptist Church Muncie</title>
  <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
  <link href="http://fbcmuncie.org"/>
- <updated>2013-05-02T13:01:39-04:00</updated>
+ <updated>2013-05-16T11:08:35-04:00</updated>
  <id></id>
  <author>
    <name>Wade Allen</name>
@@ -17,6 +17,15 @@
 			<description>Sermons from First Baptist Church Muncie Indiana</description>
  </image>	
 
+ 
+ 	<entry>
+ 		<title>New Clothes</title>
+ 		<link href="/worship/New-Clothes"/>
+ 		<updated>2013-06-16T00:00:00-04:00</updated>
+ 		<id>/worship/New-Clothes</id>
+ 		<content type="html">&lt;p&gt;This week, we began a mini series inside of our Ephesians study. Paul challenges early Christians to take off the old and put on the new. The word translated as &amp;ldquo;put on&amp;rdquo; is often translated as wear or clothe. While God transforms us from the inside, this renewal also makes it way to the outside. We are challenged to dress like God. Ephesians 4:17-24&lt;/p&gt;
+</content>
+ 	</entry>
  
  	<entry>
  		<title>Grow Up</title>
@@ -56,18 +65,41 @@
  
  	<entry>
  		<title>Rooted in Love</title>
- 		<link href="/worship/Rooted-in-Love"/>
+ 		<link href="/video/Rooted-in-Love"/>
  		<updated>2013-05-12T00:00:00-04:00</updated>
- 		<id>/worship/Rooted-in-Love</id>
+ 		<id>/video/Rooted-in-Love</id>
  		<content type="html">&lt;p&gt;On Mother&amp;rsquo;s Day, we will be studying Ephesians 3:14-21. As Paul prays for the church, he desires that they be rooted in the love of God. While God&amp;rsquo;s love is incomprehensible, we can experience it. And as it makes it way into our hearts, we are filled with unimaginable power that can transform our world.&lt;/p&gt;
 </content>
  	</entry>
  
  	<entry>
+ 		<title>Power of Love</title>
+ 		<link href="/blog/Power-of-Love"/>
+ 		<updated>2013-05-06T00:00:00-04:00</updated>
+ 		<id>/blog/Power-of-Love</id>
+ 		<content type="html">&lt;p&gt;In 1985,  Huey Lewis and the News released a single entitled &lt;em&gt;The Power of Love&lt;/em&gt;. It was written for and featured in the 1985 blockbuster film &lt;em&gt;Back to the Future&lt;/em&gt;. The song gave the band their first number-one hit on the U.S. Billboard Hot 100. The lyrics proclaim,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;You don&amp;rsquo;t need money, don&amp;rsquo;t take fame
+Don&amp;rsquo;t need no credit card to ride this train
+It&amp;rsquo;s strong and it&amp;rsquo;s sudden and it&amp;rsquo;s cruel sometimes
+But it might just save your life
+That&amp;rsquo;s the power of love&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;We know that love has power; yet I assume that Huey Lewis and the News are referring to romantic love. While romantic love is forceful, the love of God has greater potential for transformation. In this week&amp;rsquo;s text, Paul offers a prayer for the church. His prayer includes the hope that the church will fully experience God&amp;rsquo;s love and in turn be firmly rooted and established. Take a look at what Paul is asking,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Ephesians 3:17–19 NIV) And I pray that you, being rooted and established in love, may have power, together with all the saints, to grasp how wide and long and high and deep is the love of Christ, and to know this love that surpasses knowledge — that you may be filled to the measure of all the fullness of God.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt; While Huey Lewis and the News acknowledge the strength of love; they also understand the mystery involved. They can only describe it as &amp;ldquo;strong&amp;rdquo; and &amp;ldquo;sudden&amp;rdquo; and &amp;ldquo;cruel&amp;rdquo; at times. Paul also labels love as unexplainable. Yet he longs for the church to experience it. He wants them to grasp it. This is an interesting word in Greek. While the word is used 15 times in the NT, it is rarely translated the same in English (it is translated in 14 different ways). Just take a look at the ways it is rendered in English (caught, found, obtained, surprised, overtake). Love is not understood; it is only experienced. It cannot be explained; we can only be caught up in it. And as when we encounter it, it transforms us.&lt;/p&gt;
+
+&lt;p&gt; May we somehow meet the love of God. May we discover its insurmountable width and length and height and depth. May it fill us and spill out of us as we relate to our world. Maybe Huey Lewis and the News should have turned to Ephesians 3 as they composed this song. Perhaps they would find inspiration for an additional verse.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
  		<title>Mystery Unraveled</title>
- 		<link href="/worship/Mystery-Unraveled"/>
+ 		<link href="/video/Mystery-Unraveled"/>
  		<updated>2013-05-05T00:00:00-04:00</updated>
- 		<id>/worship/Mystery-Unraveled</id>
+ 		<id>/video/Mystery-Unraveled</id>
  		<content type="html">&lt;p&gt;In prison, Paul relates to the churches in Asia minor his purpose in life. He has been called by God to unveil a mystery. This mystery has been unknown to previous generations. Now, God has revealed His plan through the work of His Son, Jesus. And because of this work, we now have confident access to Him. Ephesians 3:1-12&lt;/p&gt;
 </content>
  	</entry>
