@@ -1,7 +1,7 @@
 --- 
 author: Wade Allen 
 title: Final Words 
-date: 2013-09-029 
+date: 2013-09-29
 layout: worship 
 
 ---
