@@ -3,7 +3,7 @@ author: Wade Allen
 title: Serving Those in Authority 
 date: 2013-09-15 
 layout: sermon
-video_url:
+video_url: bpUjbtsSsRs
 duration: '0:29:10'
 length: 28171266
 ---
