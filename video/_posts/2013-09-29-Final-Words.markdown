@@ -3,7 +3,7 @@ author: Wade Allen
 title: Final Words in Ephesians 
 date: 2013-09-29
 layout: sermon
-video_url:
+video_url: X0QB-l_VO5k
 duration: '0:39:57'
 length: 38527485 
 ---
