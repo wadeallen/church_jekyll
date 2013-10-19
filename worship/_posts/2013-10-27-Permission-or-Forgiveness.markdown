@@ -1,6 +1,6 @@
 --- 
-author: Wade Allen 
-title: The Threshing Floor 
+author: Doug Gregg 
+title: Permission or Forgiveness 
 date: 2013-10-27 
 layout: worship 
 ---

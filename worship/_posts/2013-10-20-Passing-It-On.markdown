@@ -1,5 +1,5 @@
 --- 
-author: Wade Allen 
+author: Matt Headley 
 title: Passing It On 
 date: 2013-10-20 
 layout: worship 
