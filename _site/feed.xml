@@ -4,7 +4,7 @@
  <title>First Baptist Church Muncie</title>
  <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
  <link href="http://fbcmuncie.org"/>
- <updated>2013-10-20T21:30:01-04:00</updated>
+ <updated>2013-10-23T21:54:18-04:00</updated>
  <id></id>
  <author>
    <name>Wade Allen</name>
@@ -17,6 +17,15 @@
 			<description>Sermons from First Baptist Church Muncie Indiana</description>
  </image>	
 
+ 
+ 	<entry>
+ 		<title>Ruth Drama</title>
+ 		<link href="/worship/Ruth-Drama"/>
+ 		<updated>2013-11-24T00:00:00-05:00</updated>
+ 		<id>/worship/Ruth-Drama</id>
+ 		<content type="html">&lt;p&gt;On November 24, we will be worshiping through drama and music. This special combined service will allow us to celebrate Thanksgiving together as a church family. Following worship, we will be gathering in the lower auditorium for our annual Harvest Dinner and Fall Ministry Celebration.&lt;/p&gt;
+</content>
+ 	</entry>
  
  	<entry>
  		<title>Connected</title>
