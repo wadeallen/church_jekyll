@@ -3,7 +3,7 @@ author: Doug Gregg
 title: Permission or Forgiveness 
 date: 2013-10-27 
 layout: sermon
-video_url:
+video_url: NxGsOFnXM70
 duration: '0:29:53'
 length: 28871686
 ---
