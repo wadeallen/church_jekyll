@@ -4,7 +4,7 @@
  <title>First Baptist Church Muncie</title>
  <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
  <link href="http://fbcmuncie.org"/>
- <updated>2013-11-04T15:35:15-05:00</updated>
+ <updated>2013-11-07T09:01:37-05:00</updated>
  <id></id>
  <author>
    <name>Wade Allen</name>
@@ -17,6 +17,15 @@
 			<description>Sermons from First Baptist Church Muncie Indiana</description>
  </image>	
 
+ 
+ 	<entry>
+ 		<title>The Purpose of Patience</title>
+ 		<link href="/worship/The-Purpose-of-Patience"/>
+ 		<updated>2013-12-15T00:00:00-05:00</updated>
+ 		<id>/worship/The-Purpose-of-Patience</id>
+ 		<content type="html">&lt;p&gt;On this third Sunday of Advent, we consider the value of patience. In a world that is not yet right, we are tempted to distrust God, to complain, to grumble. But just as God has been faithful in the past (Jesus&#39; coming at Christmas), He will be faithful in the future (His Second Coming). As we live in between these two events, we must be patient.&lt;/p&gt;
+</content>
+ 	</entry>
  
  	<entry>
  		<title>The Power of the Word</title>
