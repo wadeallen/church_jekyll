@@ -1,0 +1,7 @@
+--- 
+author: Wade Allen 
+title:  
+date:  
+layout: sermon 
+video_url: 
+---
