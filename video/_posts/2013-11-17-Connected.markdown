@@ -2,7 +2,7 @@
 author: Wade Allen 
 title: Connected 
 date: 2013-11-17 
-layout: worship 
+layout: sermon 
 duration: '0:44:44'
 length: 43120276
 video_url: bq-j0x9ZDMk
