@@ -4,7 +4,7 @@
  <title>First Baptist Church Muncie</title>
  <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
  <link href="http://fbcmuncie.org"/>
- <updated>2013-11-15T12:33:17-05:00</updated>
+ <updated>2013-11-17T17:11:17-05:00</updated>
  <id></id>
  <author>
    <name>Wade Allen</name>
@@ -17,6 +17,24 @@
 			<description>Sermons from First Baptist Church Muncie Indiana</description>
  </image>	
 
+ 
+ 	<entry>
+ 		<title>Reflections on the Building</title>
+ 		<link href="/worship/reflections-on-the-building"/>
+ 		<updated>2013-12-29T00:00:00-05:00</updated>
+ 		<id>/worship/reflections-on-the-building</id>
+ 		<content type="html">&lt;p&gt;In 2014, the building at First Baptist Church Muncie will be 85 years old. While church buildings did not become common practice until about the third century, modern expressions of the church are often indistinguishable from their buildings. The church is certainly not the building. At the same time, our building is a beautiful declaration of who we are and what we believe. Bill Eidson, retired history professor at Ball State University, will reflect on the symbolism and design of our 85 year old building.&lt;/p&gt;
+</content>
+ 	</entry>
+ 
+ 	<entry>
+ 		<title>Christmas Eve Service</title>
+ 		<link href="/worship/christmas-eve-service"/>
+ 		<updated>2013-12-24T00:00:00-05:00</updated>
+ 		<id>/worship/christmas-eve-service</id>
+ 		<content type="html">&lt;p&gt;The candlelight Christmas Eve service at First Baptist Church Muncie is a highlight of the Christmas season. Families gather to kick off Christmas celebrations in a beautifully decorated sanctuary. As we light the Christmas eve candle, we remember the reason for our celebration. The story of Christmas is placed in the context of Christ&amp;rsquo;s sacrifice for us. There is no more appropriate way to begin Christmas than by receiving the most precious gift, His body broken for us and His blood shed for us. Luke 2:1-20&lt;/p&gt;
+</content>
+ 	</entry>
  
  	<entry>
  		<title>The Perfect Gift</title>
@@ -65,9 +83,9 @@
  
  	<entry>
  		<title>Connected</title>
- 		<link href="/worship/Connected"/>
+ 		<link href="/video/Connected"/>
  		<updated>2013-11-17T00:00:00-05:00</updated>
- 		<id>/worship/Connected</id>
+ 		<id>/video/Connected</id>
  		<content type="html">&lt;p&gt;In this final section of the book of Ruth, we are reminded that this is not an isolated story. Ruth is connected to what God has been doing since the beginning of time. She is connected to what God will eventually do through Jesus. As we study Ruth 4:18–22, we are reminded of our connection with the story. On this Sunday, Wade, Matt and Doug will also answer questions about the overall series.&lt;/p&gt;
 </content>
  	</entry>
