@@ -3,13 +3,15 @@ layout: page
 title: Community
 ---
 
-Missional Communities are underway at First Baptist. We have completed our pilot community in February - May of 2013. After taking a two month break for evaluation and planning, we have started the Fall session (August - November).
+We are currently in a winter break (December-January). We will resume Missional Communities in February. However, it is the perfect time to join a Life Groups. We are in the process of forming groups for the Spring Session (February - May 2014). If you would be interested in signing up, please [contact us](/contact).
 
-The schedule is as follows (the first week of the month begins with the first Sunday of the month):
+You can subscribe the the [Missional Community Calendar](/community/calendar) on your computer, smart phone or tablet to keep up the various gatherings.
+
+The schedule is as follows:
 
 ## Week One
 
-On the first week of the month (the first week begins with the first Sunday of the month), we will gather on Wednesday evening for a meal and family worship. This is a time to bring your favorite dish and your children for a shared meal and worship. We will keep the environment kid friendly. The purpose of these gatherings is to connect with others in the Missional Community.
+On the first Sunday of the month, we will gather for a social event. The purpose of these events is to connect with others in the Missional Community. The events will be advertized in the bulletin and newsletter. It is a great way to spend time with others in the church family.
 
 ## Week Two
 
