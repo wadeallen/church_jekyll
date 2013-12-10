@@ -3,7 +3,7 @@ url: fbcmuncie.org
 markdown: rdiscount
 rdiscount:
     extensions: [smart]
-permalink: /:categories/:title
+permalink: /:categories/:date/:title
 
 # Facebook comments
 facebook_appid: 397803531137
