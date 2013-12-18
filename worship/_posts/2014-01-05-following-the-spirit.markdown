@@ -1,6 +1,6 @@
 ---
 author: Wade Allen
-title: Wise Men
+title: Following the Spirit
 date: 2014-01-05
 layout: worship
 ---
