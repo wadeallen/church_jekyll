@@ -1,4 +1,4 @@
---
+---
 author: Wade Allen
 title: The Right Gift
 Date: 2013-12-18
