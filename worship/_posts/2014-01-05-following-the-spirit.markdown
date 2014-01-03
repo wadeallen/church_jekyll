@@ -1,8 +1,0 @@
----
-author: Wade Allen
-title: Following the Spirit
-date: 2014-01-05
-layout: worship
----
-
-As we begin the season of Epiphany, we come to the classic story of the wise men. Betsy Whaley-Jones will be teaching from Matthew 2:1-12.
