@@ -1,5 +1,5 @@
 ---
-author: Wade Allen
+author: Dr. William Eidson
 title: Reflections on the Building
 date: 2013-12-29
 layout: sermon
