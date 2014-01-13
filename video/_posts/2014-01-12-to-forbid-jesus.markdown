@@ -3,7 +3,7 @@ author: Wade Allen
 title: To Forbid Jesus
 date: 2014-01-12
 layout: sermon
-video_url:
+video_url: Qlsihkn5U8U
 duration: '0:29:32'
 length: 28526241
 ---
