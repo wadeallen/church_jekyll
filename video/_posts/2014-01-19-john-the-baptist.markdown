@@ -3,7 +3,7 @@ author: Matthew Headley
 title: John the Baptist
 date: 2014-01-19
 layout: sermon
-video_url:
+video_url: ATBoRzzAvgA
 duration: '0:35:43'
 length: 34466728
 ---
