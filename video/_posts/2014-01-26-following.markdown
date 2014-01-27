@@ -3,7 +3,7 @@ author: Wade Allen
 title: Following
 date: 2014-01-26
 layout: sermon
-video_url: 
+video_url: TngjRkCR4Vs
 duration: '0:28:11'
 length: 27233872
 ---
