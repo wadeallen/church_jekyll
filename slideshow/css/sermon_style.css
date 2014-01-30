@@ -5,12 +5,12 @@
 
 @font-face{
     font-family: DroidSans;
-    src: url('file:///Users/wade/Dropbox/Pandoc/Pandoc_Impress/fonts/DroidSans.ttf');
+    src: url('fonts/DroidSans.ttf');
 }
 
 @font-face{
     font-family: ExpletusSans;
-    src: url('file:///Users/wade/Dropbox/Pandoc/Pandoc_Impress/fonts/ExpletusSans-Regular.ttf');
+    src: url('fonts/ExpletusSans-Regular.ttf');
 }
 
 body{        
