@@ -3,7 +3,7 @@ layout: page
 title: Community
 ---
 
-We are currently in a winter break (December-January). We will resume Missional Communities in February. However, it is the perfect time to join a Life Groups. We are in the process of forming groups for the Spring Session (February - May 2014). If you would be interested in signing up, please [contact us](/contact).
+The Spring 2014 session has started. Life groups are in place. Feel free to read about the Missional Community group and join us on the first and/or third weeks of the month.
 
 You can subscribe the the [Missional Community Calendar](/community/calendar) on your computer, smart phone or tablet to keep up the various gatherings.
 
