@@ -4,7 +4,7 @@
  <title>First Baptist Church Muncie</title>
  <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
  <link href="http://fbcmuncie.org"/>
- <updated>2014-02-05T16:34:27-05:00</updated>
+ <updated>2014-02-05T17:21:12-05:00</updated>
  <id></id>
  <author>
    <name>Wade Allen</name>
@@ -17,6 +17,15 @@
 			<description>Sermons from First Baptist Church Muncie Indiana</description>
  </image>	
 
+ 
+ 	<entry>
+ 		<title>Mountain Top Lessons</title>
+ 		<link href="/worship/2014/03/02/mountain-top-lessons"/>
+ 		<updated>2014-03-02T00:00:00-05:00</updated>
+ 		<id>/worship/2014/03/02/mountain-top-lessons</id>
+ 		<content type="html">&lt;p&gt;Doug Gregg will be exploring Matthew 17:1-9. We are challenged to abandon the comfortable and join God on a risky mission. This story reminds us that we all gravitate toward the mountain top experiences, but God calls us to leave the mountain and follow Him into the unknown.&lt;/p&gt;
+</content>
+ 	</entry>
  
  	<entry>
  		<title>The Posture of a Pastor</title>
