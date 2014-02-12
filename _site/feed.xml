@@ -4,7 +4,7 @@
  <title>First Baptist Church Muncie</title>
  <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
  <link href="http://fbcmuncie.org"/>
- <updated>2014-02-11T16:03:12-05:00</updated>
+ <updated>2014-02-12T14:51:45-05:00</updated>
  <id></id>
  <author>
    <name>Wade Allen</name>
@@ -17,6 +17,15 @@
 			<description>Sermons from First Baptist Church Muncie Indiana</description>
  </image>	
 
+ 
+ 	<entry>
+ 		<title>The New Birth</title>
+ 		<link href="/worship/2014/03/16/the-new-birth"/>
+ 		<updated>2014-03-16T00:00:00-04:00</updated>
+ 		<id>/worship/2014/03/16/the-new-birth</id>
+ 		<content type="html">&lt;p&gt;Jesus encounters a religious leader named Nicodemus in John 3:1-16. Nicodemus is seeking answers. Jesus uses this opportunity to teach of a necessary new birth for those entering the Kingdom of God.&lt;/p&gt;
+</content>
+ 	</entry>
  
  	<entry>
  		<title>Overcoming Temptation</title>
