@@ -38,8 +38,8 @@ body{
 
 .slide{
     display: block;    
-    width: 1200px;
-    height: 900px;
+    width: 900px;
+    height: 700px;
     font-family: DroidSans;
     color: #EEE;
     text-shadow: 0 2px 2px rgba(0, 0, 0, .9);
