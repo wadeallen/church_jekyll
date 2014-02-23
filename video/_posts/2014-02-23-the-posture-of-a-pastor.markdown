@@ -3,7 +3,7 @@ author: Wade Allen
 title: The Posture of a Pastor
 date: 2014-02-23
 layout: sermon
-video_url:
+video_url: i-Ket9UwBdM
 duration: '0:19:25'
 length: 18823498
 ---
