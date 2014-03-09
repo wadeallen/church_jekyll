@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Immediately
-Date: 2014-01-22
+date: 2014-01-22
 layout: blog
 comments: yes
 ---

@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Focus
-Date: 2013-11-25
+date: 2013-11-25
 layout: blog
 comments: yes
 ---

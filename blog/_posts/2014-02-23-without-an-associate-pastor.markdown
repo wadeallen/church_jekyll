@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Without an Associate Pastor
-Date: 2014-02-23
+date: 2014-02-23
 layout: blog
 comments: yes
 ---

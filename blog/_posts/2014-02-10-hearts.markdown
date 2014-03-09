@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Hearts
-Date: 2014-02-10
+date: 2014-02-10
 layout: blog
 comments: yes
 ---

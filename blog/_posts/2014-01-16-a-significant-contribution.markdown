@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: A Significant Contribution
-Date: 2014-01-16
+date: 2014-01-16
 layout: blog
 comments: yes
 ---

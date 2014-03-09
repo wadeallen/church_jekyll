@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Woven Fabric
-Date: 2013-12-09
+date: 2013-12-09
 layout: blog
 comments: yes
 ---

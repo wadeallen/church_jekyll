@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Fighting Temptation
-Date: 2014-03-03
+date: 2014-03-03
 layout: blog
 comments: yes
 ---

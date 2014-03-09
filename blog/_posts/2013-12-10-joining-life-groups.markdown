@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Joining Life Groups
-Date: 2013-12-10
+date: 2013-12-10
 layout: blog
 comments: yes
 ---

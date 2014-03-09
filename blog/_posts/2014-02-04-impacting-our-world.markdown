@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Impacting our World
-Date: 2014-02-04
+date: 2014-02-04
 layout: blog
 comments: yes
 ---

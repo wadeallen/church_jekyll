@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Power in the Word
-Date: 2013-12-02
+date: 2013-12-02
 layout: blog
 comments: yes
 ---

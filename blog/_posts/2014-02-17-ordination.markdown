@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: Ordination
-Date: 2014-02-17
+date: 2014-02-17
 layout: blog
 comments: yes
 ---
