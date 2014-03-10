@@ -16,9 +16,9 @@
 body{        
     font-family: DroidSans;    
     min-height: 740px;   
-    color: #EEE;
+    color: #006633;
     
-    background: black;
+    background-color: cccccc;
     
     -webkit-font-smoothing: antialiased;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
@@ -38,7 +38,7 @@ body{
 
 .slide{
     display: block;    
-    width: 900px;
+    width: 1000px;
     height: 700px;
     font-family: DroidSans;
     color: #EEE;
@@ -203,7 +203,7 @@ a:link:hover {
 }
 
 .img_tb{
-    width: 824px;
+    width: 900px;
     margin: 0 auto;
 }
 
