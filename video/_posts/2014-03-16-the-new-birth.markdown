@@ -3,7 +3,7 @@ author: Wade Allen
 title: The New Birth
 date: 2014-03-16
 layout: sermon
-video_url:
+video_url: 0hyRrmLIPIY
 duration: '0:29:11'
 length: 28198262
 ---
