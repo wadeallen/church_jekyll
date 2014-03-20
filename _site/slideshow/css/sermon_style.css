@@ -13,7 +13,9 @@
     src: url('fonts/ExpletusSans-Regular.ttf');
 }
 
-body{        
+body{      
+/*    background-image: url("../images/eyes_to_see.jpg"); 
+    background-size: cover; */ 
     font-family: DroidSans;    
     min-height: 740px;   
     color: white;
@@ -28,6 +30,7 @@ body{
 
 .step{
     width: 1000px;
+    padding: 40px;
 
     font-family: DroidSans;
     font-size: 70px;
