@@ -3,7 +3,7 @@ author: Wade Allen
 title: Eyes to See
 date: 2014-03-30
 layout: sermon
-video_url:
+video_url: nrmgYFfKp_s
 duration: '0:30:40'
 length: 29621610
 ---
