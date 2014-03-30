@@ -3,7 +3,7 @@ author: David Jones
 title: Exodus 17
 date: 2014-03-23
 layout: sermon
-video_url:
+video_url: vRQFLgBm8uY
 duration: '0:27:58'
 length: 27022133
 ---
