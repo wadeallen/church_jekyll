@@ -7,3 +7,4 @@ permalink: /:categories/:year/:month/:day/:title
 
 # Facebook comments
 facebook_appid: 397803531137
+google_analytics: UA-34472663-2
