@@ -3,7 +3,7 @@ author: Wade Allen
 title: Passion Week
 date: 2014-04-13
 layout: sermon
-video_url:
+video_url: QnTnrW5lXt4
 duration: '0:32:18'
 length: 31191215
 ---
