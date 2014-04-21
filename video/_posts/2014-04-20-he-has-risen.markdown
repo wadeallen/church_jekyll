@@ -3,7 +3,7 @@ author: Wade Allen
 title: He Has Risen
 date: 2014-04-20
 layout: sermon
-video_url:
+video_url: -cJeEnC_Ras
 duration: '0:27:07'
 length: 26207465
 ---
