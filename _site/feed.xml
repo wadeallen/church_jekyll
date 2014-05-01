@@ -4,7 +4,7 @@
  <title>First Baptist Church Muncie</title>
  <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
  <link href="http://fbcmuncie.org"/>
- <updated>2014-04-28T15:06:48-04:00</updated>
+ <updated>2014-05-01T12:45:14-04:00</updated>
  <id></id>
  <author>
    <name>Wade Allen</name>
@@ -17,6 +17,15 @@
 			<description>Sermons from First Baptist Church Muncie Indiana</description>
  </image>	
 
+ 
+ 	<entry>
+ 		<title>After the Giant</title>
+ 		<link href="/worship/2014/06/01/after-the-giant"/>
+ 		<updated>2014-06-01T00:00:00-04:00</updated>
+ 		<id>/worship/2014/06/01/after-the-giant</id>
+ 		<content type="html">&lt;p&gt;After David killed Goliath, he became famous throughout the land. He, however, was far from becoming king. God has much more to do in his life before he ascended to the throne. In 1 Samuel 18, we walk with David through the time period following his victory over Goliath. He is challenged to remain humble, trusting in God to work out His purposes.&lt;/p&gt;
+</content>
+ 	</entry>
  
  	<entry>
  		<title>David and Goliath</title>
