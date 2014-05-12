@@ -36,6 +36,11 @@ body{
     line-height: 1.5;
 }
 
+.first{
+    width: 2000px;
+    padding: 0px;
+}
+
 .step:not(.active) { opacity: .5; }
 .step.hide:not(.active) { opacity: 0; }
 .step.first:not(.active) { opacity: 1; }
