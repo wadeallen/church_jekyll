@@ -702,11 +702,12 @@
         //   as another way to moving to next step... And yes, I know that for the sake of
         //   consistency I should add [shift+tab] as opposite action...
         document.addEventListener("keyup", function ( event ) {
-            if ( event.keyCode === 9 || ( event.keyCode >= 32 && event.keyCode <= 34 ) || (event.keyCode >= 37 && event.keyCode <= 40) ) {
+            if ( event.keyCode === 9 || ( event.keyCode >= 32 && event.keyCode <= 34 ) || (event.keyCode >= 37 && event.keyCode <= 40 ) || event.keyCode === 78 || event.keyCode === 80 || event.keyCode === 79 || event.keyCode === 83 || event.keyCode === 49 || event.keyCode === 50 || event.keyCode === 51 ) {
                 switch( event.keyCode ) {
                     case 33: // pg up
                     case 37: // left
                     case 38: // up
+                    case 80: // letter p
                              api.prev();
                              break;
                     case 9:  // tab
@@ -714,8 +715,26 @@
                     case 34: // pg down
                     case 39: // right
                     case 40: // down
+                    case 78: //letter n
                              api.next();
                              break;
+                    case 79: //letter o
+                            var overview_step = document.getElementById('overview');
+                            api.goto(overview_step);
+                            break;
+                    case 83: //letter o
+                    case 49: // 1
+                            var songs_step = document.getElementById('songs');
+                            api.goto(songs_step);
+                            break;
+                    case 50: // 2
+                            var song2_step = document.getElementById('song2');
+                            api.goto(song2_step);
+                            break;
+                    case 51: // 3
+                            var song3_step = document.getElementById('song3');
+                            api.goto(song3_step);
+                            break;
                 }
                 
                 event.preventDefault();
