@@ -4,7 +4,7 @@
  <title>First Baptist Church Muncie</title>
  <link href="http://fbcmuncie.org/feed.xml" rel="self"/>
  <link href="http://fbcmuncie.org"/>
- <updated>2014-05-14T16:39:48-04:00</updated>
+ <updated>2014-05-15T10:45:46-04:00</updated>
  <id></id>
  <author>
    <name>Wade Allen</name>
@@ -17,6 +17,15 @@
 			<description>Sermons from First Baptist Church Muncie Indiana</description>
  </image>	
 
+ 
+ 	<entry>
+ 		<title>Valley of Shadows</title>
+ 		<link href="/worship/2014/06/22/valley-of-shadows"/>
+ 		<updated>2014-06-22T00:00:00-04:00</updated>
+ 		<id>/worship/2014/06/22/valley-of-shadows</id>
+ 		<content type="html">&lt;p&gt;David moves from a secure place in the palace to a wandering fugitive in a very short amount of time. While David did nothing wrong, he seems to loose everything precious to him. God uses this time in David&amp;rsquo;s life; David is required to depend solely on God.&lt;/p&gt;
+</content>
+ 	</entry>
  
  	<entry>
  		<title>The Call of a Father</title>
