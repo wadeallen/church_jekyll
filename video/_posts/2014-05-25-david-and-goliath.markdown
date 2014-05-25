@@ -3,7 +3,7 @@ author: Wade Allen
 title: David and Goliath
 date: 2014-05-25
 layout: sermon
-video_url:
+video_url: 1VWEI5E7z4c
 duration: '0:34:36'
 length: 33387535
 ---
