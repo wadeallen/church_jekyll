@@ -1,7 +1,7 @@
 ---
 author: Wade Allen
 title: David's Dark Days
-date: 2014-06-13
+date: 2014-07-13
 layout: worship
 ---
 
