@@ -36,9 +36,16 @@ body{
     line-height: 1.5;
 }
 
-.first{
+.first {
     width: 2000px;
     padding: 0px;
+}
+
+.song {
+    width: 1300px;
+    padding-top: 10px;
+    font-size: 60px;
+    font-weight: bold;
 }
 
 .video {

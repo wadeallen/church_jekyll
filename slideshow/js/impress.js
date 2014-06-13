@@ -702,7 +702,7 @@
         //   as another way to moving to next step... And yes, I know that for the sake of
         //   consistency I should add [shift+tab] as opposite action...
         document.addEventListener("keyup", function ( event ) {
-            if ( event.keyCode === 9 || ( event.keyCode >= 32 && event.keyCode <= 34 ) || (event.keyCode >= 37 && event.keyCode <= 40 ) || event.keyCode === 78 || event.keyCode === 80 || event.keyCode === 79 || event.keyCode === 83 || event.keyCode === 49 || event.keyCode === 50 || event.keyCode === 51 || event.keyCode === 66 ) {
+            if ( event.keyCode === 9 || ( event.keyCode >= 32 && event.keyCode <= 34 ) || (event.keyCode >= 37 && event.keyCode <= 40 ) || event.keyCode === 78 || event.keyCode === 80 || event.keyCode === 79 || event.keyCode === 83 || event.keyCode === 49 || event.keyCode === 50 || event.keyCode === 51 || event.keyCode === 66 || event.keyCode === 68 ) {
                 switch( event.keyCode ) {
                     case 33: // pg up
                     case 37: // left
@@ -738,6 +738,10 @@
                     case 66: // 3
                             var blank_step = document.getElementById('blank');
                             api.goto(blank_step);
+                            break;
+                    case 68: // letter d
+                            var doxology_step = document.getElementById('doxology');
+                            api.goto(doxology_step);
                             break;
                 }
                 
