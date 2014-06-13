@@ -48,7 +48,7 @@ body{
 
 .step:not(.active) { opacity: .5; }
 .step.hide:not(.active) { opacity: 0; }
-/*.step.first:not(.active) { opacity: 1; }*/
+.step.first:not(.active) { opacity: 1; }
 
 .slide{
     display: block;    
