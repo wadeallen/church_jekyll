@@ -13,6 +13,8 @@
     src: url('fonts/ExpletusSans-Regular.ttf');
 }
 
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
 body{      
     font-family: DroidSans;    
     min-height: 740px;   
@@ -44,8 +46,9 @@ body{
 .song {
     width: 1300px;
     padding-top: 10px;
-    font-size: 60px;
+    font-size: 65px;
     font-weight: bold;
+    font-family: 'Roboto', sans-serif;
 }
 
 .video {
