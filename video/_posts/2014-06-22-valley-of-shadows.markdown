@@ -3,7 +3,7 @@ author: Wade Allen
 title: Valley of Shadows
 date: 2014-06-22
 layout: sermon
-video_url:
+video_url: k2vJm-7ff_s
 duration: '0:27:41'
 length: 26755058
 ---
