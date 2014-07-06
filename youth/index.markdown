@@ -41,6 +41,10 @@ Wednesday Evenings: Church Offered Meal, Relationship Building and Homework Toge
 
 The youth usually have a fall retreat. For the past couple of years, we have traveled to South Haven, Michigan. 
 
+## Camp Barnabas
+
+Youth travel each summer to a place called Camp Barnabas. This is a mission trip for the youth. Camp Barnabas offers life-changing opportunities to people with special needs and chronic diseases. Our teens work hard to make the camp experience for people with special needs possible. Take a look at [recent pictures from the 2014 trip](https://www.flickr.com/photos/fbcmuncie/sets/72157645585580653/).
+
 ## Ski Trip
 
 The youth attend a ski trip called Skwim in Green Lake, Wisconsin in January. 
