@@ -702,7 +702,7 @@
         //   as another way to moving to next step... And yes, I know that for the sake of
         //   consistency I should add [shift+tab] as opposite action...
         document.addEventListener("keyup", function ( event ) {
-            if ( event.keyCode === 9 || ( event.keyCode >= 32 && event.keyCode <= 34 ) || (event.keyCode >= 37 && event.keyCode <= 40 ) || event.keyCode === 78 || event.keyCode === 80 || event.keyCode === 48 || event.keyCode === 83 || event.keyCode === 49 || event.keyCode === 50 || event.keyCode === 51 || event.keyCode === 66 || event.keyCode === 68 ) {
+            if ( event.keyCode === 9 || ( event.keyCode >= 32 && event.keyCode <= 34 ) || (event.keyCode >= 37 && event.keyCode <= 40 ) || event.keyCode === 78 || event.keyCode === 80 || event.keyCode === 48 || event.keyCode === 83 || event.keyCode === 49 || event.keyCode === 50 || event.keyCode === 51 || event.keyCode === 66 || event.keyCode === 68 || event.keyCode === 190 ) {
                 switch( event.keyCode ) {
                     case 33: // pg up
                     case 37: // left
@@ -735,7 +735,7 @@
                             var song3_step = document.getElementById('song3');
                             api.goto(song3_step);
                             break;
-                    case 66: // 3
+                    case 190: // period key
                             var blank_step = document.getElementById('blank');
                             api.goto(blank_step);
                             break;
